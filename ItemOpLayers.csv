@@ -1,0 +1,1261 @@
+id,title,url
+00afa3a3b075465d9684b655d3e65776,HRSD Interceptor System (General Info),http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/hrsd_public/MapServer
+00afa3a3b075465d9684b655d3e65776,Improvements (Model Analysis 2013),http://utility.arcgis.com/usrsvcs/servers/1122528778ff4bfa8556e453f839eab9/rest/services/ssgis/SSGIS_Imp_ModelAnalysis2013/MapServer
+01fcf9ccf71c4b5bb6883340bff35f24,RouteMonitor - Mobile_Sync,http://mwtst1.hrsd.com/arcgis/rest/services/RouteMonitor/FeatureServer/13
+01fcf9ccf71c4b5bb6883340bff35f24,RouteMonitor - PlanClear,http://mwtst1.hrsd.com/arcgis/rest/services/RouteMonitor/FeatureServer/12
+01fcf9ccf71c4b5bb6883340bff35f24,RouteMonitor - Stops_Display,http://mwtst1.hrsd.com/arcgis/rest/services/RouteMonitor/FeatureServer/11
+01fcf9ccf71c4b5bb6883340bff35f24,RouteMonitor - Seed_Points,http://mwtst1.hrsd.com/arcgis/rest/services/RouteMonitor/FeatureServer/10
+01fcf9ccf71c4b5bb6883340bff35f24,RouteMonitor - Route_Assignment,http://mwtst1.hrsd.com/arcgis/rest/services/RouteMonitor/FeatureServer/9
+01fcf9ccf71c4b5bb6883340bff35f24,RouteMonitor - Messages_Pending,http://mwtst1.hrsd.com/arcgis/rest/services/RouteMonitor/FeatureServer/8
+01fcf9ccf71c4b5bb6883340bff35f24,RouteMonitor - Stops_Pending,http://mwtst1.hrsd.com/arcgis/rest/services/RouteMonitor/FeatureServer/7
+01fcf9ccf71c4b5bb6883340bff35f24,RouteMonitor - Messages,http://mwtst1.hrsd.com/arcgis/rest/services/RouteMonitor/FeatureServer/6
+01fcf9ccf71c4b5bb6883340bff35f24,RouteMonitor - GeoFences,http://mwtst1.hrsd.com/arcgis/rest/services/RouteMonitor/FeatureServer/5
+01fcf9ccf71c4b5bb6883340bff35f24,RouteMonitor - Workers,http://mwtst1.hrsd.com/arcgis/rest/services/RouteMonitor/FeatureServer/4
+01fcf9ccf71c4b5bb6883340bff35f24,RouteMonitor - Routes,http://mwtst1.hrsd.com/arcgis/rest/services/RouteMonitor/FeatureServer/3
+01fcf9ccf71c4b5bb6883340bff35f24,RouteMonitor - Stops,http://mwtst1.hrsd.com/arcgis/rest/services/RouteMonitor/FeatureServer/2
+01fcf9ccf71c4b5bb6883340bff35f24,RouteMonitor - Vehicles,http://mwtst1.hrsd.com/arcgis/rest/services/RouteMonitor/FeatureServer/1
+01fcf9ccf71c4b5bb6883340bff35f24,RouteMonitor - Alerts,http://mwtst1.hrsd.com/arcgis/rest/services/RouteMonitor/FeatureServer/0
+03033424feed42b38d9e0d4850320286,Interceptor System,http://gis1:6080/arcgis/rest/services/pnp/HRSD__Interceptor_Details_PnP/MapServer
+03033424feed42b38d9e0d4850320286,SCD System Map,http://gis1:6080/arcgis/rest/services/pnp/SCD_DetailMap_PnP/MapServer
+03033424feed42b38d9e0d4850320286,Parcels,http://gis1:6080/arcgis/rest/services/pnp/SCD_Parcels_PnP/MapServer
+03033424feed42b38d9e0d4850320286,PS Service Areas,http://gis1:6080/arcgis/rest/services/pnp/SCD_ServiceArea_PnP/MapServer
+03033424feed42b38d9e0d4850320286,HRSD Property and Easements,http://gis1:6080/arcgis/rest/services/pnp/Property_HRSDandEasements_PnP/MapServer
+03033424feed42b38d9e0d4850320286,HRSD Real Estate Documents,http://gis1:6080/arcgis/rest/services/pnp/Property_RealEstateDocs_PnP/MapServer
+03033424feed42b38d9e0d4850320286,Plan Sheets,http://gis1:6080/arcgis/rest/services/pnp/PlanSheets_Engineering_PnP/MapServer
+03033424feed42b38d9e0d4850320286,Valve Guides,http://gis1:6080/arcgis/rest/services/pnp/ValveGuides_PnP/MapServer
+03033424feed42b38d9e0d4850320286,Monitoring,http://gis1:6080/arcgis/rest/services/pnp/Monitoring_LocationsMetersGauges_PnP/MapServer
+03033424feed42b38d9e0d4850320286,Failures,http://gis1:6080/arcgis/rest/services/pnp/Interceptor_Failures_PnP/MapServer
+03033424feed42b38d9e0d4850320286,Benchmarks,http://gis1:6080/arcgis/rest/services/pnp/Benchmarks_PnP/MapServer
+0522c229ac9941689554771a88c918e5,RouteMonitor - Mobile_Sync,http://mwtst1.hrsd.com/arcgis/rest/services/RouteMonitor/FeatureServer/13
+0522c229ac9941689554771a88c918e5,RouteMonitor - PlanClear,http://mwtst1.hrsd.com/arcgis/rest/services/RouteMonitor/FeatureServer/12
+0522c229ac9941689554771a88c918e5,RouteMonitor - Stops_Display,http://mwtst1.hrsd.com/arcgis/rest/services/RouteMonitor/FeatureServer/11
+0522c229ac9941689554771a88c918e5,RouteMonitor - Seed_Points,http://mwtst1.hrsd.com/arcgis/rest/services/RouteMonitor/FeatureServer/10
+0522c229ac9941689554771a88c918e5,RouteMonitor - Route_Assignment,http://mwtst1.hrsd.com/arcgis/rest/services/RouteMonitor/FeatureServer/9
+0522c229ac9941689554771a88c918e5,RouteMonitor - Messages_Pending,http://mwtst1.hrsd.com/arcgis/rest/services/RouteMonitor/FeatureServer/8
+0522c229ac9941689554771a88c918e5,RouteMonitor - Stops_Pending,http://mwtst1.hrsd.com/arcgis/rest/services/RouteMonitor/FeatureServer/7
+0522c229ac9941689554771a88c918e5,RouteMonitor - Messages,http://mwtst1.hrsd.com/arcgis/rest/services/RouteMonitor/FeatureServer/6
+0522c229ac9941689554771a88c918e5,RouteMonitor - GeoFences,http://mwtst1.hrsd.com/arcgis/rest/services/RouteMonitor/FeatureServer/5
+0522c229ac9941689554771a88c918e5,RouteMonitor - Workers,http://mwtst1.hrsd.com/arcgis/rest/services/RouteMonitor/FeatureServer/4
+0522c229ac9941689554771a88c918e5,RouteMonitor - Routes,http://mwtst1.hrsd.com/arcgis/rest/services/RouteMonitor/FeatureServer/3
+0522c229ac9941689554771a88c918e5,RouteMonitor - Stops,http://mwtst1.hrsd.com/arcgis/rest/services/RouteMonitor/FeatureServer/2
+0522c229ac9941689554771a88c918e5,RouteMonitor - Vehicles,http://mwtst1.hrsd.com/arcgis/rest/services/RouteMonitor/FeatureServer/1
+0522c229ac9941689554771a88c918e5,RouteMonitor - Alerts,http://mwtst1.hrsd.com/arcgis/rest/services/RouteMonitor/FeatureServer/0
+0522c229ac9941689554771a88c918e5,Stops Dispatched,http://mwtst1.hrsd.com/arcgis/rest/services/StopDetails/FeatureServer/2
+0522c229ac9941689554771a88c918e5,Stops Unassigned,http://mwtst1.hrsd.com/arcgis/rest/services/StopDetails/FeatureServer/1
+0522c229ac9941689554771a88c918e5,All Stops,http://mwtst1.hrsd.com/arcgis/rest/services/StopDetails/FeatureServer/0
+0522c229ac9941689554771a88c918e5,RouteMonitor - Dispatch Messages,http://mwtst1.hrsd.com/arcgis/rest/services/RouteMonitor/FeatureServer/6
+06175089f94d48c297e13724db6c4dba,Payment Locations,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/payment_locations/FeatureServer/0
+06496ff8e9ca4848b6c573b577d2af2b,AGOL_Data - NorthShorePumpStation,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/AGOL_Data/FeatureServer/3
+06496ff8e9ca4848b6c573b577d2af2b,AGOL_Data - SouthShoreForce,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/AGOL_Data/FeatureServer/2
+06496ff8e9ca4848b6c573b577d2af2b,AGOL_Data - Proposed_Alignment,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/AGOL_Data/FeatureServer/1
+06496ff8e9ca4848b6c573b577d2af2b,AGOL_Data - GPS_Points,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/AGOL_Data/FeatureServer/0
+076f9afc24234ab5a44dd6e17b6077b6,HRSD System,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/hrsd_public/MapServer
+076f9afc24234ab5a44dd6e17b6077b6,FNOD_SiteSurvey,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/FNOD_SiteSurvey/MapServer
+0a269a7a8d0d4fb1bc0688e4499f5be1,CommunityEducationData - TPServiceArea,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/CommunityEducationData/FeatureServer/13
+0a269a7a8d0d4fb1bc0688e4499f5be1,CommunityEducationData - Watersheds,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/CommunityEducationData/FeatureServer/14
+0a269a7a8d0d4fb1bc0688e4499f5be1,CommunityEducationData - ServiceAreaHRSD,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/CommunityEducationData/FeatureServer/9
+0a4def7405df4e2ebd21091f28f00159,Locality Sewer,http://utility.arcgis.com/usrsvcs/rest/services/31671a97db874425885e5a50f7b639be/MapServer
+0a4def7405df4e2ebd21091f28f00159,Valve Guides,http://utility.arcgis.com/usrsvcs/servers/395ae7f9c08e4b73baeae062642c0c5a/rest/services/hrsd/ValveGuides_secured/MapServer
+0a4def7405df4e2ebd21091f28f00159,Labels,http://utility.arcgis.com/usrsvcs/rest/services/7e03d6f028e34505829bab5e205310a1/MapServer
+0a4def7405df4e2ebd21091f28f00159,Interceptors,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/INT_PM_infrastructure/MapServer
+0a4def7405df4e2ebd21091f28f00159,Cathodic Protection,http://utility.arcgis.com/usrsvcs/rest/services/e247d0f5cfd64a3aa510fb7dc6bf9b33/FeatureServer/16
+0a4def7405df4e2ebd21091f28f00159,Vaults,http://utility.arcgis.com/usrsvcs/rest/services/e247d0f5cfd64a3aa510fb7dc6bf9b33/FeatureServer/15
+0a4def7405df4e2ebd21091f28f00159,Exposed Crossings,http://utility.arcgis.com/usrsvcs/rest/services/e247d0f5cfd64a3aa510fb7dc6bf9b33/FeatureServer/14
+0a4def7405df4e2ebd21091f28f00159,Leak Detectors,http://utility.arcgis.com/usrsvcs/rest/services/e247d0f5cfd64a3aa510fb7dc6bf9b33/FeatureServer/13
+0a4def7405df4e2ebd21091f28f00159,Locator Box,http://utility.arcgis.com/usrsvcs/rest/services/e247d0f5cfd64a3aa510fb7dc6bf9b33/FeatureServer/12
+0a4def7405df4e2ebd21091f28f00159,Valves,http://utility.arcgis.com/usrsvcs/rest/services/e247d0f5cfd64a3aa510fb7dc6bf9b33/FeatureServer/11
+0a4def7405df4e2ebd21091f28f00159,Auto Vent,http://utility.arcgis.com/usrsvcs/rest/services/e247d0f5cfd64a3aa510fb7dc6bf9b33/FeatureServer/10
+0a4def7405df4e2ebd21091f28f00159,Air Vents,http://utility.arcgis.com/usrsvcs/rest/services/e247d0f5cfd64a3aa510fb7dc6bf9b33/FeatureServer/9
+0aa6a1d9a5794fa195bd665396b71d3e,RouteMonitor - Mobile_Sync,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/13
+0aa6a1d9a5794fa195bd665396b71d3e,RouteMonitor - PlanClear,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/12
+0aa6a1d9a5794fa195bd665396b71d3e,RouteMonitor - Stops_Display,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/11
+0aa6a1d9a5794fa195bd665396b71d3e,RouteMonitor - Seed_Points,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/10
+0aa6a1d9a5794fa195bd665396b71d3e,RouteMonitor - Route_Assignment,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/9
+0aa6a1d9a5794fa195bd665396b71d3e,RouteMonitor - Messages_Pending,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/8
+0aa6a1d9a5794fa195bd665396b71d3e,RouteMonitor - Stops_Pending,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/7
+0aa6a1d9a5794fa195bd665396b71d3e,RouteMonitor - Messages,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/6
+0aa6a1d9a5794fa195bd665396b71d3e,RouteMonitor - GeoFences,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/5
+0aa6a1d9a5794fa195bd665396b71d3e,RouteMonitor - Workers,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/4
+0aa6a1d9a5794fa195bd665396b71d3e,RouteMonitor - Routes,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/3
+0aa6a1d9a5794fa195bd665396b71d3e,RouteMonitor - Stops,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/2
+0aa6a1d9a5794fa195bd665396b71d3e,RouteMonitor - Vehicles,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/1
+0aa6a1d9a5794fa195bd665396b71d3e,RouteMonitor - Alerts,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/0
+0aa6a1d9a5794fa195bd665396b71d3e,StopDetails - Stops_Dispatched,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/StopDetails/FeatureServer/2
+0aa6a1d9a5794fa195bd665396b71d3e,StopDetails - Stops_Unassigned,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/StopDetails/FeatureServer/1
+0aa6a1d9a5794fa195bd665396b71d3e,StopDetails - All Stops,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/StopDetails/FeatureServer/0
+0aa6a1d9a5794fa195bd665396b71d3e,RouteMonitor - Display Messages,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/6
+0ace8d21fa93403a83fc695133a391c4,Watches Warning Advisories,https://idpgis.ncep.noaa.gov/arcgis/rest/services/NWS_Forecasts_Guidance_Warnings/watch_warn_adv/MapServer
+0ace8d21fa93403a83fc695133a391c4,National Forecast Weather Chart,https://idpgis.ncep.noaa.gov/arcgis/rest/services/NWS_Forecasts_Guidance_Warnings/natl_fcst_wx_chart/MapServer
+0ace8d21fa93403a83fc695133a391c4,NHC Atlantic Tropical Cyclones,https://idpgis.ncep.noaa.gov/arcgis/rest/services/NWS_Forecasts_Guidance_Warnings/NHC_Atl_trop_cyclones/MapServer
+0ace8d21fa93403a83fc695133a391c4,RIDGE Radar Base Reflectivity,https://idpgis.ncep.noaa.gov/arcgis/rest/services/NWS_Observations/radar_base_reflectivity/MapServer
+0ace8d21fa93403a83fc695133a391c4,River Observations,https://idpgis.ncep.noaa.gov/arcgis/rest/services/NWS_Observations/ahps_riv_gauges/MapServer/0
+0c58654ae5e54a8fafb9953824ecc016,WaterQuality_TSD_SamplingSites_Editor - TSD Sampling Sites,http://utility.arcgis.com/usrsvcs/rest/services/84b4c7b084bb4cd9a240dbf3d9a48ed2/FeatureServer/0
+0ceb0727f94d44d9b5dc4631227688fe,RouteMonitor - PlanClear,http://mwtst1.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/12
+0ceb0727f94d44d9b5dc4631227688fe,RouteMonitor - Stops_Display,http://mwtst1.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/11
+0ceb0727f94d44d9b5dc4631227688fe,RouteMonitor - Seed_Points,http://mwtst1.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/10
+0ceb0727f94d44d9b5dc4631227688fe,RouteMonitor - Route_Assignment,http://mwtst1.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/9
+0ceb0727f94d44d9b5dc4631227688fe,RouteMonitor - Messages_Pending,http://mwtst1.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/8
+0ceb0727f94d44d9b5dc4631227688fe,RouteMonitor - Stops_Pending,http://mwtst1.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/7
+0ceb0727f94d44d9b5dc4631227688fe,RouteMonitor - Messages,http://mwtst1.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/6
+0ceb0727f94d44d9b5dc4631227688fe,RouteMonitor - GeoFences,http://mwtst1.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/5
+0ceb0727f94d44d9b5dc4631227688fe,RouteMonitor - Workers,http://mwtst1.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/4
+0ceb0727f94d44d9b5dc4631227688fe,RouteMonitor - Routes,http://mwtst1.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/3
+0ceb0727f94d44d9b5dc4631227688fe,RouteMonitor - Stops,http://mwtst1.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/2
+0ceb0727f94d44d9b5dc4631227688fe,RouteMonitor - Vehicles,http://mwtst1.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/1
+0ceb0727f94d44d9b5dc4631227688fe,RouteMonitor - Alerts,http://mwtst1.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/0
+0d61594d8d26491cae09481e68284dc2,Census 2010 population,http://geo.hrsd.com/ags3/rest/services/census/census2010_population/MapServer
+0d61594d8d26491cae09481e68284dc2,AI Zones - Color Fill,http://utility.arcgis.com/usrsvcs/servers/6c24b7cefe464aeb89798a3076afbf79/rest/services/secured/CIS_InspectorZones/MapServer
+0d61594d8d26491cae09481e68284dc2,AI Zones - Outline,http://utility.arcgis.com/usrsvcs/servers/0826468e23f44695a36564276716eb9e/rest/services/secured/CIS_InspectorZones_Draft/MapServer
+0d61594d8d26491cae09481e68284dc2,customer_premise,http://utility.arcgis.com/usrsvcs/servers/2bcaa3a30d464353810285047f9c4a44/rest/services/hrsd/customer_premise_secured/MapServer
+0d61594d8d26491cae09481e68284dc2,Premises to Review (Zones),http://utility.arcgis.com/usrsvcs/servers/35234d1bf824459186da67041d9474be/rest/services/edit/CIS_InspectorZones_edit_secured/FeatureServer/0
+0d61594d8d26491cae09481e68284dc2,AI Zone - Mark-up - Area,http://utility.arcgis.com/usrsvcs/servers/985fe4d0a1ba4a96bf978fb3f40a4b94/rest/services/edit/CIS_InspectorZonesMarkUp_edit_secured/FeatureServer/1
+0d61594d8d26491cae09481e68284dc2,AI Zone - Mark-up - Line,http://utility.arcgis.com/usrsvcs/servers/985fe4d0a1ba4a96bf978fb3f40a4b94/rest/services/edit/CIS_InspectorZonesMarkUp_edit_secured/FeatureServer/0
+0f4957193e944655b5e1eeca6d0db5aa,Locality Sewer,http://utility.arcgis.com/usrsvcs/servers/dea900c2e76f44d095a305f1bd29f33b/rest/services/locality/LOCALITY_Sewer_secured/MapServer
+0f4957193e944655b5e1eeca6d0db5aa,Valve Guides,http://utility.arcgis.com/usrsvcs/servers/902c963a060147e2b617704b93ec8c9a/rest/services/hrsd/ValveGuides_secured/MapServer
+0f4957193e944655b5e1eeca6d0db5aa,Labels,http://utility.arcgis.com/usrsvcs/servers/3d84a7ddd4a64b81bdcabd8063c270c5/rest/services/edit/SS_INT_ValveOps_edit_secured/MapServer
+0f4957193e944655b5e1eeca6d0db5aa,Interceptors,http://geo.hrsd.com/ags3/rest/services/hrsd/INT_PM_infrastructure/MapServer
+0f4957193e944655b5e1eeca6d0db5aa,Air Vents,http://utility.arcgis.com/usrsvcs/rest/services/f0f36334d9d64b95a4176cfbf9f2d555/FeatureServer/3
+0f4957193e944655b5e1eeca6d0db5aa,Valves,http://utility.arcgis.com/usrsvcs/rest/services/f0f36334d9d64b95a4176cfbf9f2d555/FeatureServer/2
+1217b17093074ee081ea4812eba81c80,Density - TURNON,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/CCC_FieldActivity_2016_Aug_Jul_Monthly/FeatureServer/1
+1217b17093074ee081ea4812eba81c80,Density - LVTAG,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/CCC_FieldActivity_2016_Aug_Jul_Monthly/FeatureServer/0
+1217b17093074ee081ea4812eba81c80,LVTAG,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/CCC_FieldActivity_FromAug2015/FeatureServer/5
+1217b17093074ee081ea4812eba81c80,BKCHCK,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/CCC_FieldActivity_FromAug2015/FeatureServer/4
+1217b17093074ee081ea4812eba81c80,CUTOFF,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/CCC_FieldActivity_FromAug2015/FeatureServer/3
+1217b17093074ee081ea4812eba81c80,TURNON,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/CCC_FieldActivity_FromAug2015/FeatureServer/2
+1217b17093074ee081ea4812eba81c80,LOCKMTR,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/CCC_FieldActivity_FromAug2015/FeatureServer/1
+1217b17093074ee081ea4812eba81c80,RMVMTNP,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/CCC_FieldActivity_FromAug2015/FeatureServer/0
+12320701576344a6aaa279777cc9b445,HRSD Interceptor System (General Info),http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/hrsd_public/MapServer
+12320701576344a6aaa279777cc9b445,Interceptor_DetailMap,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/Interceptor_DetailMap/MapServer
+12320701576344a6aaa279777cc9b445,HRSD MMPS Sites,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/MonitoringSites_HRSDFacilities/FeatureServer/0
+12320701576344a6aaa279777cc9b445,HRSD Gravity Sites,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/MonitoringSites_HRSDGravity/FeatureServer/0
+12320701576344a6aaa279777cc9b445,Rainfall,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/Monitoring_RainGauges/FeatureServer/0
+12320701576344a6aaa279777cc9b445,Pressure,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/Monitoring_Pressure/FeatureServer/0
+12320701576344a6aaa279777cc9b445,Flow,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/newmonitoring_flow/FeatureServer/0
+12320701576344a6aaa279777cc9b445,Weather Stations,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/Monitoring_Weather/FeatureServer/0
+12320701576344a6aaa279777cc9b445,Tides,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/Monitoring_Tide/FeatureServer/0
+12320701576344a6aaa279777cc9b445,Wet Well,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/MonitoringSites_HRSDFacilities/FeatureServer/0
+1370dbd62e0545faa7d9321e8082f0ef,RouteMonitor - Mobile_Sync,http://mwtst1:6080/arcgis/rest/services/RouteMonitor/FeatureServer/13
+1370dbd62e0545faa7d9321e8082f0ef,RouteMonitor - PlanClear,http://mwtst1:6080/arcgis/rest/services/RouteMonitor/FeatureServer/12
+1370dbd62e0545faa7d9321e8082f0ef,RouteMonitor - Stops_Display,http://mwtst1:6080/arcgis/rest/services/RouteMonitor/FeatureServer/11
+1370dbd62e0545faa7d9321e8082f0ef,RouteMonitor - Seed_Points,http://mwtst1:6080/arcgis/rest/services/RouteMonitor/FeatureServer/10
+1370dbd62e0545faa7d9321e8082f0ef,RouteMonitor - Route_Assignment,http://mwtst1:6080/arcgis/rest/services/RouteMonitor/FeatureServer/9
+1370dbd62e0545faa7d9321e8082f0ef,RouteMonitor - Messages_Pending,http://mwtst1:6080/arcgis/rest/services/RouteMonitor/FeatureServer/8
+1370dbd62e0545faa7d9321e8082f0ef,RouteMonitor - Stops_Pending,http://mwtst1:6080/arcgis/rest/services/RouteMonitor/FeatureServer/7
+1370dbd62e0545faa7d9321e8082f0ef,RouteMonitor - Messages,http://mwtst1:6080/arcgis/rest/services/RouteMonitor/FeatureServer/6
+1370dbd62e0545faa7d9321e8082f0ef,RouteMonitor - GeoFences,http://mwtst1:6080/arcgis/rest/services/RouteMonitor/FeatureServer/5
+1370dbd62e0545faa7d9321e8082f0ef,RouteMonitor - Workers,http://mwtst1:6080/arcgis/rest/services/RouteMonitor/FeatureServer/4
+1370dbd62e0545faa7d9321e8082f0ef,RouteMonitor - Routes,http://mwtst1:6080/arcgis/rest/services/RouteMonitor/FeatureServer/3
+1370dbd62e0545faa7d9321e8082f0ef,RouteMonitor - Stops,http://mwtst1:6080/arcgis/rest/services/RouteMonitor/FeatureServer/2
+1370dbd62e0545faa7d9321e8082f0ef,RouteMonitor - Vehicles,http://mwtst1:6080/arcgis/rest/services/RouteMonitor/FeatureServer/1
+1370dbd62e0545faa7d9321e8082f0ef,RouteMonitor - Alerts,http://mwtst1:6080/arcgis/rest/services/RouteMonitor/FeatureServer/0
+15dd83ea85de49a095a9b8ec072ff62c,RouteMonitor - Mobile_Sync,http://mwfs3:6080/arcgis/rest/services/RouteMonitor/FeatureServer/13
+15dd83ea85de49a095a9b8ec072ff62c,RouteMonitor - PlanClear,http://mwfs3:6080/arcgis/rest/services/RouteMonitor/FeatureServer/12
+15dd83ea85de49a095a9b8ec072ff62c,RouteMonitor - Stops_Display,http://mwfs3:6080/arcgis/rest/services/RouteMonitor/FeatureServer/11
+15dd83ea85de49a095a9b8ec072ff62c,RouteMonitor - Seed_Points,http://mwfs3:6080/arcgis/rest/services/RouteMonitor/FeatureServer/10
+15dd83ea85de49a095a9b8ec072ff62c,RouteMonitor - Route_Assignment,http://mwfs3:6080/arcgis/rest/services/RouteMonitor/FeatureServer/9
+15dd83ea85de49a095a9b8ec072ff62c,RouteMonitor - Messages_Pending,http://mwfs3:6080/arcgis/rest/services/RouteMonitor/FeatureServer/8
+15dd83ea85de49a095a9b8ec072ff62c,RouteMonitor - Stops_Pending,http://mwfs3:6080/arcgis/rest/services/RouteMonitor/FeatureServer/7
+15dd83ea85de49a095a9b8ec072ff62c,RouteMonitor - Messages,http://mwfs3:6080/arcgis/rest/services/RouteMonitor/FeatureServer/6
+15dd83ea85de49a095a9b8ec072ff62c,RouteMonitor - GeoFences,http://mwfs3:6080/arcgis/rest/services/RouteMonitor/FeatureServer/5
+15dd83ea85de49a095a9b8ec072ff62c,RouteMonitor - Workers,http://mwfs3:6080/arcgis/rest/services/RouteMonitor/FeatureServer/4
+15dd83ea85de49a095a9b8ec072ff62c,RouteMonitor - Routes,http://mwfs3:6080/arcgis/rest/services/RouteMonitor/FeatureServer/3
+15dd83ea85de49a095a9b8ec072ff62c,RouteMonitor - Stops,http://mwfs3:6080/arcgis/rest/services/RouteMonitor/FeatureServer/2
+15dd83ea85de49a095a9b8ec072ff62c,RouteMonitor - Vehicles,http://mwfs3:6080/arcgis/rest/services/RouteMonitor/FeatureServer/1
+15dd83ea85de49a095a9b8ec072ff62c,RouteMonitor - Alerts,http://mwfs3:6080/arcgis/rest/services/RouteMonitor/FeatureServer/0
+16c6e00685764812931b4bb29e9313bd,USA States (Generalized),https://services.arcgis.com/P3ePLMYs2RVChkJx/arcgis/rest/services/USA_States_Generalized/FeatureServer/0
+17d4902d3e6340dab098cda873e6e515,Locality Sewer Systems,http://gis1:6080/arcgis/rest/services/pnp/LOCALITY_Sewer_PnP/MapServer
+17d4902d3e6340dab098cda873e6e515,VA811 Polygons (HRSD33 - SS),http://gis1:6080/arcgis/rest/services/pnp/VA811_Polys_HRSD33_PnP/MapServer
+17d4902d3e6340dab098cda873e6e515,VA811 Grid,http://gis1:6080/arcgis/rest/services/pnp/GRID_VA811_PnP/MapServer
+17d4902d3e6340dab098cda873e6e515,VA811 - New Buffers Areas,http://gis1:6080/arcgis/rest/services/pnp/VA811_Buffers_PnP/MapServer
+17d4902d3e6340dab098cda873e6e515,Surry System,http://gis1:6080/arcgis/rest/services/pnp/Surry_SewerInfrastructure_PnP/MapServer
+17d4902d3e6340dab098cda873e6e515,Small Communities System,http://gis1:6080/arcgis/rest/services/pnp/SCD_DetailMap_PnP/MapServer
+17d4902d3e6340dab098cda873e6e515,Under Construction Interceptors,http://gis1:6080/arcgis/rest/services/pnp/Interceptor_UnderConstruction_PnP/MapServer
+17d4902d3e6340dab098cda873e6e515,Interceptor System,http://gis1:6080/arcgis/rest/services/pnp/HRSD__Interceptor_Details_PnP/MapServer
+17d4902d3e6340dab098cda873e6e515,Stormwater Monitoring (TSD),http://gis1:6080/arcgis/rest/services/pnp/TSD_StormwaterMonitoring_PnP/MapServer
+17d4902d3e6340dab098cda873e6e515,Monitoring,http://gis1:6080/arcgis/rest/services/pnp/Monitoring_LocationsMetersGauges_PnP/MapServer
+17eb0810573f4f48b11b6d95cd6c2f2e,Assignments,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/assignments_82ede4e6196a4268a86e148a2944e22e/FeatureServer/0
+17eb0810573f4f48b11b6d95cd6c2f2e,Workers,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/workers_82ede4e6196a4268a86e148a2944e22e/FeatureServer/0
+18db6b29c2c74e97968879799c98dcad,RouteMonitor - Mobile_Sync,http://mwmrm3:6080/arcgis/rest/services/RouteMonitor/FeatureServer/13
+18db6b29c2c74e97968879799c98dcad,RouteMonitor - PlanClear,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/12
+18db6b29c2c74e97968879799c98dcad,RouteMonitor - Stops_Display,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/11
+18db6b29c2c74e97968879799c98dcad,RouteMonitor - Seed_Points,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/10
+18db6b29c2c74e97968879799c98dcad,RouteMonitor - Route_Assignment,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/9
+18db6b29c2c74e97968879799c98dcad,RouteMonitor - Messages_Pending,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/8
+18db6b29c2c74e97968879799c98dcad,RouteMonitor - Stops_Pending,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/7
+18db6b29c2c74e97968879799c98dcad,RouteMonitor - Messages,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/6
+18db6b29c2c74e97968879799c98dcad,RouteMonitor - GeoFences,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/5
+18db6b29c2c74e97968879799c98dcad,RouteMonitor - Workers,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/4
+18db6b29c2c74e97968879799c98dcad,RouteMonitor - Routes,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/3
+18db6b29c2c74e97968879799c98dcad,RouteMonitor - Stops,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/2
+18db6b29c2c74e97968879799c98dcad,RouteMonitor - Vehicles,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/1
+18db6b29c2c74e97968879799c98dcad,RouteMonitor - Alerts,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/0
+18db6b29c2c74e97968879799c98dcad,StopDetails - Stops_Dispatched,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/StopDetails/FeatureServer/2
+18db6b29c2c74e97968879799c98dcad,StopDetails - Stops_Unassigned,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/StopDetails/FeatureServer/1
+18db6b29c2c74e97968879799c98dcad,StopDetails - All Stops,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/StopDetails/FeatureServer/0
+18db6b29c2c74e97968879799c98dcad,RouteMonitor - Display Messages,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/6
+196507d5df11464b9936393cf9d02a04,VA 811 Grids & Polygons,http://utility.arcgis.com/usrsvcs/servers/e223cab8b01c45308d5e7091b5c88dff/rest/services/secured/GRID_VA811_secured/MapServer
+196507d5df11464b9936393cf9d02a04,Surry,http://utility.arcgis.com/usrsvcs/servers/eb6c9e073e444d4b934fe2c54fa47ba8/rest/services/locality/Surry_SewerInfrastructure_secured/MapServer
+196507d5df11464b9936393cf9d02a04,Interceptors,http://geo.hrsd.com/ags3/rest/services/hrsd/INT_PM_infrastructure/MapServer
+196507d5df11464b9936393cf9d02a04,Utility Marking Notification SS,http://utility.arcgis.com/usrsvcs/servers/b1f86e0b6da34e5392c2176d96b4cd0e/rest/services/edit/Marking_Notification_SS_edit_secured/FeatureServer/0
+19913ae1f642476d8d39f83ff7d713eb,HRSD Interceptor System (General Info),http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/hrsd_public/MapServer
+19913ae1f642476d8d39f83ff7d713eb,MMP - HRSD Sites,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/MonitoringSites_HRSDFacilities/FeatureServer/0
+19913ae1f642476d8d39f83ff7d713eb,MMP - HRSD Gravity,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/MonitoringSites_HRSDGravity/FeatureServer/0
+19913ae1f642476d8d39f83ff7d713eb,Monitoring_RainGauges,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/Monitoring_RainGauges/FeatureServer/0
+19913ae1f642476d8d39f83ff7d713eb,Monitoring_Pressure,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/Monitoring_Pressure/FeatureServer/0
+19913ae1f642476d8d39f83ff7d713eb,Monitoring Flow,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/newmonitoring_flow/FeatureServer/0
+19913ae1f642476d8d39f83ff7d713eb,Monitoring_Weather,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/Monitoring_Weather/FeatureServer/0
+19913ae1f642476d8d39f83ff7d713eb,Monitoring_Tide,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/Monitoring_Tide/FeatureServer/0
+1b7fb4c4395d41f4bebf29fc4a06f712,VDEM - Virginia Storm Surge Inundation Zones,https://arcgis.vdem.virginia.gov/ArcGIS/rest/services/Hazards/Hurricane_StormSurge/MapServer
+1b7fb4c4395d41f4bebf29fc4a06f712,HRSD Service Area,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/ServiceArea_HRSD_Public/MapServer
+1b7fb4c4395d41f4bebf29fc4a06f712,HRSD Interceptor System,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/hrsd_public/MapServer
+1b93b9729c344307946a605b70a7ceed,Locality Sewer Systems,http://utility.arcgis.com/usrsvcs/servers/58b2bf50124740d3a8f58ba6fa3ae698/rest/services/ssgis/SSGIS_SewerAssets_Active/MapServer
+1b93b9729c344307946a605b70a7ceed,HRSD Interceptors,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/Interceptor_DetailMap/MapServer
+1b93b9729c344307946a605b70a7ceed,HRSD Overflows,http://utility.arcgis.com/usrsvcs/rest/services/2f58935e1da0457f962444c70360c97e/MapServer
+1be77e980c81437abf9d2c7ea601d66f,Locality Sewer,http://utility.arcgis.com/usrsvcs/rest/services/31671a97db874425885e5a50f7b639be/MapServer
+1be77e980c81437abf9d2c7ea601d66f,HRSD Infrastructure,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/hrsd_public/MapServer
+1be77e980c81437abf9d2c7ea601d66f,Locality Storm Water,http://utility.arcgis.com/usrsvcs/rest/services/8378b9deeab94bb7aa28fd092652bf71/MapServer
+1c6b28eb6d524cceba7b4665b076f50f,Hurricane Storm Surge,https://arcgis.vdem.virginia.gov/ArcGIS/rest/services/Hazards/Hurricane_StormSurge/MapServer
+1c6b28eb6d524cceba7b4665b076f50f,HRSD Service Area,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/ServiceArea_HRSD_Public/MapServer
+1c6b28eb6d524cceba7b4665b076f50f,HRSD Interceptor System,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/hrsd_public/MapServer
+1d6f408dc21d4bd18784bf67f9b5584b,Storm Surge Inundation Zones,https://arcgis.vdem.virginia.gov/ArcGIS/rest/services/Hazards/Hurricane_StormSurge/MapServer
+1d6f408dc21d4bd18784bf67f9b5584b,Parcels (SCD),http://gis1:6080/arcgis/rest/services/pnp/SCD_Parcels_PnP/MapServer
+1d6f408dc21d4bd18784bf67f9b5584b,Parcels,http://gis1:6080/arcgis/rest/services/pnp/LOCALITY_Parcels_PnP/MapServer
+1d6f408dc21d4bd18784bf67f9b5584b,Locality Sewer Systems,http://gis1:6080/arcgis/rest/services/pnp/LOCALITY_Sewer_PnP/MapServer
+1d6f408dc21d4bd18784bf67f9b5584b,Surry,http://gis1:6080/arcgis/rest/services/pnp/Surry_SewerInfrastructure_PnP/MapServer
+1d6f408dc21d4bd18784bf67f9b5584b,Small Communities System,http://gis1:6080/arcgis/rest/services/pnp/SCD_DetailMap_PnP/MapServer
+1d6f408dc21d4bd18784bf67f9b5584b,Interceptor System,http://gis1:6080/arcgis/rest/services/pnp/HRSD__Interceptor_Details_PnP/MapServer
+1d6f408dc21d4bd18784bf67f9b5584b,Project Tracking,http://gis1:6080/arcgis/rest/services/pnp/ProjectTracking_Status_PnP/MapServer
+1d6f408dc21d4bd18784bf67f9b5584b,Monitoring,http://gis1:6080/arcgis/rest/services/pnp/Monitoring_LocationsMetersGauges_PnP/MapServer
+1d6f408dc21d4bd18784bf67f9b5584b,Flood Insured Facilities,http://gis1:6080/arcgis/rest/services/pnp/FloodInsuredFacilities_PnP/MapServer
+1dca5af667ef41b389c8e3b4ec56dfec,ProjectTracking_StatusForPublicMaps,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/ProjectTracking_StatusForPublicMaps/MapServer
+1dca5af667ef41b389c8e3b4ec56dfec,CIP_Projects,http://hrsdgis.hrsdnet.com/secure/rest/services/hrsd/CIP_Projects/MapServer
+1dca5af667ef41b389c8e3b4ec56dfec,hrsd_basemap - Admin Boundaries,http://geo.hrsd.com/ags3/rest/services/hrsd/hrsd_basemap/MapServer/8
+1faca7ebb1344447a56d0d10766b39c9,Interceptor System,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/Interceptor_DetailMap/MapServer
+1faca7ebb1344447a56d0d10766b39c9,Collection Systems,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/SCD_DetailMap/MapServer
+1faca7ebb1344447a56d0d10766b39c9,Customers (WestPoint),http://utility.arcgis.com/usrsvcs/servers/bb35ecba47d54fb392f830090f3a1b37/rest/services/hrsd/SCD_Customers_WestPoint/MapServer
+1faca7ebb1344447a56d0d10766b39c9,Monitoring Sites,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/Monitoring_Locations_Meters_Gauges/MapServer
+1faca7ebb1344447a56d0d10766b39c9,Catchments,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/SCD_PS_Catchments/MapServer
+1faca7ebb1344447a56d0d10766b39c9,Low Manhole,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/SCD_LowManhole/MapServer
+1faca7ebb1344447a56d0d10766b39c9,Failures,http://utility.arcgis.com/usrsvcs/rest/services/a0019b4bc6134996a05d9b7d3841b0d1/MapServer
+226c473a35394c56a1bb374a4253fae8,Locality Sewer,http://utility.arcgis.com/usrsvcs/servers/dea900c2e76f44d095a305f1bd29f33b/rest/services/locality/LOCALITY_Sewer_secured/MapServer
+226c473a35394c56a1bb374a4253fae8,Labels,http://utility.arcgis.com/usrsvcs/servers/f2326a46b51b4bafb78c4cc45926719c/rest/services/edit/NS_INT_ValveOps_edit_secured/MapServer
+226c473a35394c56a1bb374a4253fae8,Valve Guides,http://utility.arcgis.com/usrsvcs/servers/902c963a060147e2b617704b93ec8c9a/rest/services/hrsd/ValveGuides_secured/MapServer
+226c473a35394c56a1bb374a4253fae8,Interceptors,http://geo.hrsd.com/ags3/rest/services/hrsd/INT_PM_infrastructure/MapServer
+226c473a35394c56a1bb374a4253fae8,Air Vents,http://utility.arcgis.com/usrsvcs/rest/services/9508bc14a3a44ee2b0e545af265ca44f/FeatureServer/3
+226c473a35394c56a1bb374a4253fae8,Valves,http://utility.arcgis.com/usrsvcs/rest/services/9508bc14a3a44ee2b0e545af265ca44f/FeatureServer/2
+234f2b0ef4ef4a81929fa332991143b0,AGOL_Data - NorthShorePumpStation,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/AGOL_Data/FeatureServer/3
+234f2b0ef4ef4a81929fa332991143b0,AGOL_Data - SouthShoreForce,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/AGOL_Data/FeatureServer/2
+234f2b0ef4ef4a81929fa332991143b0,AGOL_Data - Proposed_Alignment,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/AGOL_Data/FeatureServer/1
+234f2b0ef4ef4a81929fa332991143b0,AGOL_Data - GPS_Points,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/AGOL_Data/FeatureServer/0
+25f1cf8f60884b598fe3a0f08a921121,RouteMonitor - PlanClear,http://mwtst1.hrsd.com/arcgis/rest/services/RouteMonitor/FeatureServer/13
+25f1cf8f60884b598fe3a0f08a921121,RouteMonitor - Stops_Display,http://mwtst1.hrsd.com/arcgis/rest/services/RouteMonitor/FeatureServer/12
+25f1cf8f60884b598fe3a0f08a921121,RouteMonitor - Seed_Points,http://mwtst1.hrsd.com/arcgis/rest/services/RouteMonitor/FeatureServer/11
+25f1cf8f60884b598fe3a0f08a921121,RouteMonitor - Route_Assignment,http://mwtst1.hrsd.com/arcgis/rest/services/RouteMonitor/FeatureServer/10
+25f1cf8f60884b598fe3a0f08a921121,RouteMonitor - Messages_Pending,http://mwtst1.hrsd.com/arcgis/rest/services/RouteMonitor/FeatureServer/9
+25f1cf8f60884b598fe3a0f08a921121,RouteMonitor - Stops_Pending,http://mwtst1.hrsd.com/arcgis/rest/services/RouteMonitor/FeatureServer/8
+25f1cf8f60884b598fe3a0f08a921121,RouteMonitor - Messages,http://mwtst1.hrsd.com/arcgis/rest/services/RouteMonitor/FeatureServer/7
+25f1cf8f60884b598fe3a0f08a921121,RouteMonitor - GeoFences,http://mwtst1.hrsd.com/arcgis/rest/services/RouteMonitor/FeatureServer/6
+25f1cf8f60884b598fe3a0f08a921121,RouteMonitor - Workers,http://mwtst1.hrsd.com/arcgis/rest/services/RouteMonitor/FeatureServer/5
+25f1cf8f60884b598fe3a0f08a921121,RouteMonitor - Mobile_Sync,http://mwtst1.hrsd.com/arcgis/rest/services/RouteMonitor/FeatureServer/4
+25f1cf8f60884b598fe3a0f08a921121,RouteMonitor - Routes,http://mwtst1.hrsd.com/arcgis/rest/services/RouteMonitor/FeatureServer/3
+25f1cf8f60884b598fe3a0f08a921121,RouteMonitor - Stops,http://mwtst1.hrsd.com/arcgis/rest/services/RouteMonitor/FeatureServer/2
+25f1cf8f60884b598fe3a0f08a921121,RouteMonitor - Vehicles,http://mwtst1.hrsd.com/arcgis/rest/services/RouteMonitor/FeatureServer/1
+25f1cf8f60884b598fe3a0f08a921121,RouteMonitor - Alerts,http://mwtst1.hrsd.com/arcgis/rest/services/RouteMonitor/FeatureServer/0
+25f1cf8f60884b598fe3a0f08a921121,Stops Dispatched,http://mwtst1.hrsd.com/arcgis/rest/services/StopDetails/FeatureServer/2
+25f1cf8f60884b598fe3a0f08a921121,Stops Unassigned,http://mwtst1.hrsd.com/arcgis/rest/services/StopDetails/FeatureServer/1
+25f1cf8f60884b598fe3a0f08a921121,All Stops,http://mwtst1.hrsd.com/arcgis/rest/services/StopDetails/FeatureServer/0
+25f1cf8f60884b598fe3a0f08a921121,RouteMonitor - Dispatch Messages,http://mwtst1.hrsd.com/arcgis/rest/services/RouteMonitor/FeatureServer/7
+27df5ef40bda46859e4004132cc6f116,Locality Parcels,http://gis1:6080/arcgis/rest/services/pnp/LOCALITY_Parcels_PnP/MapServer
+27df5ef40bda46859e4004132cc6f116,Locality Sewer,http://gis1:6080/arcgis/rest/services/pnp/LOCALITY_Sewer_PnP/MapServer
+27df5ef40bda46859e4004132cc6f116,Small Communities,http://gis1:6080/arcgis/rest/services/pnp/SCD_DetailMap_PnP/MapServer
+27df5ef40bda46859e4004132cc6f116,Customer Premises,http://gis1:6080/arcgis/rest/services/pnp/customer_premise_PnP/MapServer
+27df5ef40bda46859e4004132cc6f116,Interceptor System,http://gis1:6080/arcgis/rest/services/pnp/HRSD__Interceptor_Details_PnP/MapServer
+27df5ef40bda46859e4004132cc6f116,HRSD Property and Easements,http://gis1:6080/arcgis/rest/services/pnp/Property_HRSDandEasements_PnP/MapServer
+27df5ef40bda46859e4004132cc6f116,Plan Sheets,http://gis1:6080/arcgis/rest/services/pnp/PlanSheets_Engineering_PnP/MapServer
+27df5ef40bda46859e4004132cc6f116,Development Projects,http://gis1:6080/arcgis/rest/services/pnpedit/DevelopmentProjects_PnPedit/FeatureServer/0
+2a2bbb5ed4154a01a63744367e66b55d,Modeling_PressurePolicy,http://utility.arcgis.com/usrsvcs/servers/a6f159d312e340fea725354bb0d938e0/rest/services/modeling/Modeling_PressurePolicy/MapServer
+2a4fc30cbb92447c94bfb7f6bd804d7d,Locality Sewer,http://utility.arcgis.com/usrsvcs/servers/900f4a4cce7d456c9fa9e1587bd70c2c/rest/services/ssgis/SSGIS_SewerAssets_Active/MapServer
+2a4fc30cbb92447c94bfb7f6bd804d7d,Labels,http://utility.arcgis.com/usrsvcs/rest/services/c85a9bdaa69a4934b9ff17bff80bf572/MapServer
+2a4fc30cbb92447c94bfb7f6bd804d7d,Customer Premise,http://utility.arcgis.com/usrsvcs/servers/a307d1636f5f46cdb19e6a9f2885d571/rest/services/secured/customer_premise/MapServer
+2a4fc30cbb92447c94bfb7f6bd804d7d,Interceptors,http://geo.hrsd.com/ags3/rest/services/hrsd/INT_PM_infrastructure/MapServer
+2a4fc30cbb92447c94bfb7f6bd804d7d,Special Cleaning Notes,http://utility.arcgis.com/usrsvcs/servers/bb53e62fe3044d329c156b0f1aef1b68/rest/services/edit/NS_INT_GravityCleaning_edit_secured/MapServer/2
+2a4fc30cbb92447c94bfb7f6bd804d7d,Gravity Line Cleaning,http://utility.arcgis.com/usrsvcs/servers/17ae46956b1942569bfcc1d8aa26d6c6/rest/services/edit/NS_INT_GravityCleaning_edit_secured/FeatureServer/1
+2a4fc30cbb92447c94bfb7f6bd804d7d,Manhole Condition Report,http://utility.arcgis.com/usrsvcs/servers/17ae46956b1942569bfcc1d8aa26d6c6/rest/services/edit/NS_INT_GravityCleaning_edit_secured/FeatureServer/0
+2b1b41e81cfc4e1cad66bdf05b1aafc2,CMMS Interceptor Assets,http://utility.arcgis.com/usrsvcs/servers/e1684033bb284a98afb2a41a8afa0033/rest/services/secured/CMMS_AssetDetail_secured/MapServer
+2be56c3b64f94d3ca145fd069b1ac459,newmonitoring_pi_to_gis_raingauges,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/newmonitoring_pi_to_gis_raingauges/FeatureServer/0
+2be56c3b64f94d3ca145fd069b1ac459,newmonitoring_pi_to_gis_tide,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/newmonitoring_pi_to_gis_tide/FeatureServer/0
+2be56c3b64f94d3ca145fd069b1ac459,newmonitoring_flow,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/newmonitoring_flow/FeatureServer/0
+2be56c3b64f94d3ca145fd069b1ac459,newmonitoring_pi_to_gis_pressure,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/newmonitoring_pi_to_gis_pressure/FeatureServer/0
+2be56c3b64f94d3ca145fd069b1ac459,newmonitoring_pi_to_gis_weather,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/newmonitoring_pi_to_gis_weather/FeatureServer/0
+2c981adbfff344538bae5f89acc61478,Hurricane Path,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/CommunityEducationData/FeatureServer/1
+2c981adbfff344538bae5f89acc61478,Hurricane Data Points,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/CommunityEducationData/FeatureServer/0
+31d834b22b30471c947ab04bce2e70ae,Hurricane_StormSurge,https://arcgis.vdem.virginia.gov/ArcGIS/rest/services/Hazards/Hurricane_StormSurge/MapServer
+31d834b22b30471c947ab04bce2e70ae,Virginia Flood Zones,https://arcgis.vdem.virginia.gov/ArcGIS/rest/services/Hazards/Flooding_FloodZones/MapServer
+31d834b22b30471c947ab04bce2e70ae,Locality Parcels,http://gis1:6080/arcgis/rest/services/pnp/LOCALITY_Parcels_PnP/MapServer
+31d834b22b30471c947ab04bce2e70ae,Locality Sewer,http://gis1:6080/arcgis/rest/services/pnp/LOCALITY_Sewer_PnP/MapServer
+31d834b22b30471c947ab04bce2e70ae,Surry and Lawnes Pointe,http://gis1:6080/arcgis/rest/services/pnp/Surry_SewerInfrastructure_PnP/MapServer
+31d834b22b30471c947ab04bce2e70ae,Small Communities,http://gis1:6080/arcgis/rest/services/pnp/SCD_DetailMap_PnP/MapServer
+31d834b22b30471c947ab04bce2e70ae,Interceptor System,http://gis1:6080/arcgis/rest/services/pnp/HRSD__Interceptor_Details_PnP/MapServer
+31d834b22b30471c947ab04bce2e70ae,Interceptor Under Construction,http://gis1:6080/arcgis/rest/services/pnp/Interceptor_UnderConstruction_PnP/MapServer
+31d834b22b30471c947ab04bce2e70ae,Project Status,http://gis1:6080/arcgis/rest/services/pnp/ProjectTracking_Status_PnP/MapServer
+31d834b22b30471c947ab04bce2e70ae,Plan Sheets,http://gis1:6080/arcgis/rest/services/pnp/PlanSheets_Engineering_PnP/MapServer
+31d834b22b30471c947ab04bce2e70ae,Valve Guides,http://gis1:6080/arcgis/rest/services/pnp/ValveGuides_PnP/MapServer
+31d834b22b30471c947ab04bce2e70ae,Monitoring,http://gis1:6080/arcgis/rest/services/pnp/Monitoring_LocationsMetersGauges_PnP/MapServer
+31d834b22b30471c947ab04bce2e70ae,Failures,http://gis1:6080/arcgis/rest/services/pnp/Interceptor_Failures_PnP/MapServer
+3684bb58a16b40ae8d7ee2cc9d0baa9f,RouteMonitor - Mobile_Sync,http://mwfstst:6080/arcgis/rest/services/RouteMonitor/FeatureServer/13
+3684bb58a16b40ae8d7ee2cc9d0baa9f,RouteMonitor - PlanClear,http://mwfstst:6080/arcgis/rest/services/RouteMonitor/FeatureServer/12
+3684bb58a16b40ae8d7ee2cc9d0baa9f,RouteMonitor - Stops_Display,http://mwfstst:6080/arcgis/rest/services/RouteMonitor/FeatureServer/11
+3684bb58a16b40ae8d7ee2cc9d0baa9f,RouteMonitor - Seed_Points,http://mwfstst:6080/arcgis/rest/services/RouteMonitor/FeatureServer/10
+3684bb58a16b40ae8d7ee2cc9d0baa9f,RouteMonitor - Route_Assignment,http://mwfstst:6080/arcgis/rest/services/RouteMonitor/FeatureServer/9
+3684bb58a16b40ae8d7ee2cc9d0baa9f,RouteMonitor - Messages_Pending,http://mwfstst:6080/arcgis/rest/services/RouteMonitor/FeatureServer/8
+3684bb58a16b40ae8d7ee2cc9d0baa9f,RouteMonitor - Stops_Pending,http://mwfstst:6080/arcgis/rest/services/RouteMonitor/FeatureServer/7
+3684bb58a16b40ae8d7ee2cc9d0baa9f,RouteMonitor - Messages,http://mwfstst:6080/arcgis/rest/services/RouteMonitor/FeatureServer/6
+3684bb58a16b40ae8d7ee2cc9d0baa9f,RouteMonitor - GeoFences,http://mwfstst:6080/arcgis/rest/services/RouteMonitor/FeatureServer/5
+3684bb58a16b40ae8d7ee2cc9d0baa9f,RouteMonitor - Workers,http://mwfstst:6080/arcgis/rest/services/RouteMonitor/FeatureServer/4
+3684bb58a16b40ae8d7ee2cc9d0baa9f,RouteMonitor - Routes,http://mwfstst:6080/arcgis/rest/services/RouteMonitor/FeatureServer/3
+3684bb58a16b40ae8d7ee2cc9d0baa9f,RouteMonitor - Stops,http://mwfstst:6080/arcgis/rest/services/RouteMonitor/FeatureServer/2
+3684bb58a16b40ae8d7ee2cc9d0baa9f,RouteMonitor - Vehicles,http://mwfstst:6080/arcgis/rest/services/RouteMonitor/FeatureServer/1
+3684bb58a16b40ae8d7ee2cc9d0baa9f,RouteMonitor - Alerts,http://mwfstst:6080/arcgis/rest/services/RouteMonitor/FeatureServer/0
+373e9479427b4569a19dac98ccb43527,gisfeaturelayer_monitoringpressures,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/gisfeaturelayer_monitoringpressures/FeatureServer/0
+38456d512e8f4e1093d817eed8253e08,Locality Parcels,http://utility.arcgis.com/usrsvcs/rest/services/f3eefdeb997b471b9e8f6daacb95432f/MapServer
+38456d512e8f4e1093d817eed8253e08,Surry_SewerInfrastructure_secured,http://utility.arcgis.com/usrsvcs/servers/eb6c9e073e444d4b934fe2c54fa47ba8/rest/services/locality/Surry_SewerInfrastructure_secured/MapServer
+38456d512e8f4e1093d817eed8253e08,Surry Parcel Research - (Easements),http://utility.arcgis.com/usrsvcs/servers/db6c06b904104e058556001014f674ba/rest/services/edit/Surry_ParcelResearch_edit_secured/FeatureServer/1
+38456d512e8f4e1093d817eed8253e08,Surry Parcel Research - (TP - PS),http://utility.arcgis.com/usrsvcs/servers/db6c06b904104e058556001014f674ba/rest/services/edit/Surry_ParcelResearch_edit_secured/FeatureServer/0
+38712da10a474ba79e1a8a2d319b2037,Reference,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/SCD_PM_ReferenceInfrastructure/MapServer
+38712da10a474ba79e1a8a2d319b2037,SCD_PM_ReferenceInfrastructure,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/SCD_PM_ReferenceInfrastructure/MapServer
+38712da10a474ba79e1a8a2d319b2037,Property,http://utility.arcgis.com/usrsvcs/servers/8c27bd98fcdf4ca78dbedb6121e7b713/rest/services/edit/REL_SCD_ServiceCall_edit_secured/FeatureServer/3
+38712da10a474ba79e1a8a2d319b2037,Vacuum Pit,http://utility.arcgis.com/usrsvcs/servers/8c27bd98fcdf4ca78dbedb6121e7b713/rest/services/edit/REL_SCD_ServiceCall_edit_secured/FeatureServer/2
+38712da10a474ba79e1a8a2d319b2037,Cleanout,http://utility.arcgis.com/usrsvcs/servers/8c27bd98fcdf4ca78dbedb6121e7b713/rest/services/edit/REL_SCD_ServiceCall_edit_secured/FeatureServer/1
+38712da10a474ba79e1a8a2d319b2037,Manhole,http://utility.arcgis.com/usrsvcs/servers/8c27bd98fcdf4ca78dbedb6121e7b713/rest/services/edit/REL_SCD_ServiceCall_edit_secured/FeatureServer/0
+393143c8561b481d8a8311c54a16bdfd,Interceptor System,http://gis1:6080/arcgis/rest/services/pnp/HRSD__Interceptor_Details_PnP/MapServer
+393143c8561b481d8a8311c54a16bdfd,Yard Piping,http://gis1:6080/arcgis/rest/services/pnp/TP_Details_Piping_PnP/MapServer
+393143c8561b481d8a8311c54a16bdfd,Buildings,http://gis1:6080/arcgis/rest/services/pnp/TP_Details_Buildings_PnP/MapServer
+3b798a77b5414a0ab0d2160072d02713,Locality Parcels,http://utility.arcgis.com/usrsvcs/rest/services/f3eefdeb997b471b9e8f6daacb95432f/MapServer
+3b798a77b5414a0ab0d2160072d02713,Locality Stormwater,http://utility.arcgis.com/usrsvcs/servers/8730a2ab099f4988a56f11923328c6aa/rest/services/locality/LOCALITY_Stormwater_secured/MapServer
+3b798a77b5414a0ab0d2160072d02713,Locality Sewer,http://utility.arcgis.com/usrsvcs/rest/services/31671a97db874425885e5a50f7b639be/MapServer
+3b798a77b5414a0ab0d2160072d02713,Surry and Lawnes Point,http://utility.arcgis.com/usrsvcs/servers/eb6c9e073e444d4b934fe2c54fa47ba8/rest/services/locality/Surry_SewerInfrastructure_secured/MapServer
+3b798a77b5414a0ab0d2160072d02713,Valve Guides,http://utility.arcgis.com/usrsvcs/servers/395ae7f9c08e4b73baeae062642c0c5a/rest/services/hrsd/ValveGuides_secured/MapServer
+3b798a77b5414a0ab0d2160072d02713,Monitoring Sites,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/Monitoring_Locations_Meters_Gauges/MapServer
+3b798a77b5414a0ab0d2160072d02713,Failures,http://utility.arcgis.com/usrsvcs/rest/services/a0019b4bc6134996a05d9b7d3841b0d1/MapServer
+3b798a77b5414a0ab0d2160072d02713,Small Communities,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/SCD_DetailMap/MapServer
+3b798a77b5414a0ab0d2160072d02713,Interceptor Details,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/Interceptor_DetailMap/MapServer
+3b798a77b5414a0ab0d2160072d02713,SCADA Towers,http://utility.arcgis.com/usrsvcs/servers/841999f82c024072b29ffba963a738b2/rest/services/secured/SCADA_Towers_secured/MapServer
+3b798a77b5414a0ab0d2160072d02713,Service Area - Catchments (By TP),http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/ServiceArea_TreatmentPlant/MapServer
+3b798a77b5414a0ab0d2160072d02713,Condition Assessment (FCAR),http://utility.arcgis.com/usrsvcs/servers/a6317d5e77cc4d5ead8d2499d1af28aa/rest/services/secured/ConditionAssessment_FCAR_secured/MapServer
+3d2aa22ad3a9424f8304172cd3adcfe8,Locality Sewer,http://utility.arcgis.com/usrsvcs/rest/services/dea900c2e76f44d095a305f1bd29f33b/MapServer
+3d2aa22ad3a9424f8304172cd3adcfe8,Valve Guides,http://utility.arcgis.com/usrsvcs/servers/902c963a060147e2b617704b93ec8c9a/rest/services/hrsd/ValveGuides_secured/MapServer
+3d2aa22ad3a9424f8304172cd3adcfe8,Labels,http://utility.arcgis.com/usrsvcs/servers/0c1ea8eb42e0497880a8271b8fab1241/rest/services/edit/NS_INT_PM_edit_secured/MapServer
+3d2aa22ad3a9424f8304172cd3adcfe8,Interceptors,http://geo.hrsd.com/ags3/rest/services/hrsd/INT_PM_infrastructure/MapServer
+3d2aa22ad3a9424f8304172cd3adcfe8,Cathodic Protection,http://utility.arcgis.com/usrsvcs/rest/services/a532e08d53464638834edd278e63bfb2/FeatureServer/16
+3d2aa22ad3a9424f8304172cd3adcfe8,Vaults,http://utility.arcgis.com/usrsvcs/rest/services/a532e08d53464638834edd278e63bfb2/FeatureServer/15
+3d2aa22ad3a9424f8304172cd3adcfe8,Exposed Crossings,http://utility.arcgis.com/usrsvcs/rest/services/a532e08d53464638834edd278e63bfb2/FeatureServer/14
+3d2aa22ad3a9424f8304172cd3adcfe8,Leak Detectors,http://utility.arcgis.com/usrsvcs/rest/services/a532e08d53464638834edd278e63bfb2/FeatureServer/13
+3d2aa22ad3a9424f8304172cd3adcfe8,Locator Box,http://utility.arcgis.com/usrsvcs/rest/services/a532e08d53464638834edd278e63bfb2/FeatureServer/12
+3d2aa22ad3a9424f8304172cd3adcfe8,Valves,http://utility.arcgis.com/usrsvcs/rest/services/a532e08d53464638834edd278e63bfb2/FeatureServer/11
+3d2aa22ad3a9424f8304172cd3adcfe8,Auto Vent,http://utility.arcgis.com/usrsvcs/rest/services/a532e08d53464638834edd278e63bfb2/FeatureServer/10
+3d2aa22ad3a9424f8304172cd3adcfe8,Air Vents,http://utility.arcgis.com/usrsvcs/rest/services/a532e08d53464638834edd278e63bfb2/FeatureServer/9
+3d2bdd742c11401590177ff64ae43ac2,AGOL_Data - NorthShorePumpStation,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/AGOL_Data/FeatureServer/3
+3d2bdd742c11401590177ff64ae43ac2,AGOL_Data - SouthShoreForce,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/AGOL_Data/FeatureServer/2
+3d2bdd742c11401590177ff64ae43ac2,AGOL_Data - Proposed_Alignment,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/AGOL_Data/FeatureServer/1
+3d2bdd742c11401590177ff64ae43ac2,AGOL_Data - GPS_Points,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/AGOL_Data/FeatureServer/0
+4145eecbc6f14562b47cde6064837c36,Interceptors,http://geo.hrsd.com/ags3/rest/services/hrsd/INT_PM_infrastructure/MapServer
+4145eecbc6f14562b47cde6064837c36,ROW Maintenance Areas,http://geo.hrsd.com/ags3/rest/services/hrsd/NS_ROW_Maintenance/MapServer
+4145eecbc6f14562b47cde6064837c36,Label - Access Point,http://utility.arcgis.com/usrsvcs/servers/abb055e4a90546c9bb072b77bc753b84/rest/services/edit/NS_ROW_AccessPoint_edit_secure/MapServer
+4145eecbc6f14562b47cde6064837c36,ROW Access Point,http://utility.arcgis.com/usrsvcs/servers/a46b1f713f3a461fa7b8dd4413237846/rest/services/edit/NS_ROW_AccessPoint_edit_secure/FeatureServer/0
+43b21f37298140398b94e4c229b86ff3,Locality Sewer,http://utility.arcgis.com/usrsvcs/rest/services/dea900c2e76f44d095a305f1bd29f33b/MapServer
+43b21f37298140398b94e4c229b86ff3,Valve Guides,http://utility.arcgis.com/usrsvcs/servers/902c963a060147e2b617704b93ec8c9a/rest/services/hrsd/ValveGuides_secured/MapServer
+43b21f37298140398b94e4c229b86ff3,Labels,http://utility.arcgis.com/usrsvcs/servers/8b648f71edd442b8a2cbdeed1969fd36/rest/services/edit/SS_INT_PM_edit_secured/MapServer
+43b21f37298140398b94e4c229b86ff3,Interceptors,http://geo.hrsd.com/ags3/rest/services/hrsd/INT_PM_infrastructure/MapServer
+43b21f37298140398b94e4c229b86ff3,Auto Vent,http://utility.arcgis.com/usrsvcs/servers/bdb149b2ec044dad89071eebd0dba94a/rest/services/edit/SS_INT_PM_edit_secured/FeatureServer/8
+43b21f37298140398b94e4c229b86ff3,Vault,http://utility.arcgis.com/usrsvcs/servers/bdb149b2ec044dad89071eebd0dba94a/rest/services/edit/SS_INT_PM_edit_secured/FeatureServer/13
+43b21f37298140398b94e4c229b86ff3,Exposed Crossing,http://utility.arcgis.com/usrsvcs/servers/bdb149b2ec044dad89071eebd0dba94a/rest/services/edit/SS_INT_PM_edit_secured/FeatureServer/12
+43b21f37298140398b94e4c229b86ff3,Locator Box,http://utility.arcgis.com/usrsvcs/servers/bdb149b2ec044dad89071eebd0dba94a/rest/services/edit/SS_INT_PM_edit_secured/FeatureServer/10
+43b21f37298140398b94e4c229b86ff3,Leak Detector,http://utility.arcgis.com/usrsvcs/servers/bdb149b2ec044dad89071eebd0dba94a/rest/services/edit/SS_INT_PM_edit_secured/FeatureServer/11
+43b21f37298140398b94e4c229b86ff3,Cathodic Protection,http://utility.arcgis.com/usrsvcs/servers/bdb149b2ec044dad89071eebd0dba94a/rest/services/edit/SS_INT_PM_edit_secured/FeatureServer/14
+43b21f37298140398b94e4c229b86ff3,Valve,http://utility.arcgis.com/usrsvcs/servers/bdb149b2ec044dad89071eebd0dba94a/rest/services/edit/SS_INT_PM_edit_secured/FeatureServer/9
+43b21f37298140398b94e4c229b86ff3,Air Vent,http://utility.arcgis.com/usrsvcs/servers/bdb149b2ec044dad89071eebd0dba94a/rest/services/edit/SS_INT_PM_edit_secured/FeatureServer/7
+448b00f434be433aab52b4a5fbf730c5,TSD_MarinaPumpouts_Summary,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/TSD_MarinaPumpouts/MapServer
+44bf6563f8764bf08c8363d1af60bc9c,Land Applications Fields,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/LandApplications/MapServer
+46c4275b20bd487c9083e07b844ac2e8,RouteMonitor - Mobile_Sync,http://mwweb2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/13
+46c4275b20bd487c9083e07b844ac2e8,RouteMonitor - PlanClear,http://mwweb2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/12
+46c4275b20bd487c9083e07b844ac2e8,RouteMonitor - Stops_Display,http://mwweb2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/11
+46c4275b20bd487c9083e07b844ac2e8,RouteMonitor - Seed_Points,http://mwweb2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/10
+46c4275b20bd487c9083e07b844ac2e8,RouteMonitor - Route_Assignment,http://mwweb2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/9
+46c4275b20bd487c9083e07b844ac2e8,RouteMonitor - Messages_Pending,http://mwweb2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/8
+46c4275b20bd487c9083e07b844ac2e8,RouteMonitor - Stops_Pending,http://mwweb2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/7
+46c4275b20bd487c9083e07b844ac2e8,RouteMonitor - Messages,http://mwweb2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/6
+46c4275b20bd487c9083e07b844ac2e8,RouteMonitor - GeoFences,http://mwweb2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/5
+46c4275b20bd487c9083e07b844ac2e8,RouteMonitor - Workers,http://mwweb2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/4
+46c4275b20bd487c9083e07b844ac2e8,RouteMonitor - Routes,http://mwweb2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/3
+46c4275b20bd487c9083e07b844ac2e8,RouteMonitor - Stops,http://mwweb2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/2
+46c4275b20bd487c9083e07b844ac2e8,RouteMonitor - Vehicles,http://mwweb2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/1
+46c4275b20bd487c9083e07b844ac2e8,RouteMonitor - Alerts,http://mwweb2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/0
+46c4275b20bd487c9083e07b844ac2e8,Stops Dispatched,http://mwweb2.hrsd.com:6080/arcgis/rest/services/StopDetails/FeatureServer/2
+46c4275b20bd487c9083e07b844ac2e8,Stops Unassigned,http://mwweb2.hrsd.com:6080/arcgis/rest/services/StopDetails/FeatureServer/1
+46c4275b20bd487c9083e07b844ac2e8,All Stops,http://mwweb2.hrsd.com:6080/arcgis/rest/services/StopDetails/FeatureServer/0
+46c4275b20bd487c9083e07b844ac2e8,RouteMonitor - Display Messages,http://mwweb2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/6
+47a65e2f505040f69520b1a3445017ff,AI GPS History,http://gis1:6080/arcgis/rest/services/mwf/gps_veh_history/MapServer
+4813976613394afb9ae399c5aa846688,Reference Infrastructure,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/SCD_PM_ReferenceInfrastructure/MapServer
+4813976613394afb9ae399c5aa846688,PS - WP,http://utility.arcgis.com/usrsvcs/servers/3aa10438e1b1478d89748ee2fecd8dc0/rest/services/edit/REL_SCD_PM_PS_edit_secured/FeatureServer/5
+4813976613394afb9ae399c5aa846688,PS - UB,http://utility.arcgis.com/usrsvcs/servers/3aa10438e1b1478d89748ee2fecd8dc0/rest/services/edit/REL_SCD_PM_PS_edit_secured/FeatureServer/4
+4813976613394afb9ae399c5aa846688,PS - MT (TFM),http://utility.arcgis.com/usrsvcs/servers/3aa10438e1b1478d89748ee2fecd8dc0/rest/services/edit/REL_SCD_PM_PS_edit_secured/FeatureServer/3
+4813976613394afb9ae399c5aa846688,PS - MT Boost,http://utility.arcgis.com/usrsvcs/servers/3aa10438e1b1478d89748ee2fecd8dc0/rest/services/edit/REL_SCD_PM_PS_edit_secured/FeatureServer/2
+4813976613394afb9ae399c5aa846688,PS - MO,http://utility.arcgis.com/usrsvcs/servers/3aa10438e1b1478d89748ee2fecd8dc0/rest/services/edit/REL_SCD_PM_PS_edit_secured/FeatureServer/1
+4813976613394afb9ae399c5aa846688,PS - KW,http://utility.arcgis.com/usrsvcs/servers/3aa10438e1b1478d89748ee2fecd8dc0/rest/services/edit/REL_SCD_PM_PS_edit_secured/FeatureServer/0
+48c53cf670b74cf8986fbc425c87210d,RouteMonitor - PlanClear,http://mwdev1.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/11
+48c53cf670b74cf8986fbc425c87210d,RouteMonitor - Stops_Display,http://mwdev1.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/11
+48c53cf670b74cf8986fbc425c87210d,RouteMonitor - Seed_Points,http://mwdev1.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/10
+48c53cf670b74cf8986fbc425c87210d,RouteMonitor - Route_Assignment,http://mwdev1.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/9
+48c53cf670b74cf8986fbc425c87210d,RouteMonitor - Messages_Pending,http://mwdev1.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/8
+48c53cf670b74cf8986fbc425c87210d,RouteMonitor - Stops_Pending,http://mwdev1.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/7
+48c53cf670b74cf8986fbc425c87210d,RouteMonitor - Messages,http://mwdev1.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/6
+48c53cf670b74cf8986fbc425c87210d,RouteMonitor - GeoFences,http://mwdev1.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/5
+48c53cf670b74cf8986fbc425c87210d,RouteMonitor - Workers,http://mwdev1.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/4
+48c53cf670b74cf8986fbc425c87210d,RouteMonitor - Routes,http://mwdev1.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/3
+48c53cf670b74cf8986fbc425c87210d,RouteMonitor - Stops,http://mwdev1.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/2
+48c53cf670b74cf8986fbc425c87210d,RouteMonitor - Vehicles,http://mwdev1.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/1
+48c53cf670b74cf8986fbc425c87210d,RouteMonitor - Alerts,http://mwdev1.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/0
+48c53cf670b74cf8986fbc425c87210d,StopDetails - Stops_Dispatched,http://mwdev1.hrsd.com:6080/arcgis/rest/services/StopDetails/FeatureServer/2
+48c53cf670b74cf8986fbc425c87210d,StopDetails - Stops_Unassigned,http://mwdev1.hrsd.com:6080/arcgis/rest/services/StopDetails/FeatureServer/1
+48c53cf670b74cf8986fbc425c87210d,StopDetails - All Stops,http://mwdev1.hrsd.com:6080/arcgis/rest/services/StopDetails/FeatureServer/0
+4a19fcdc5d89432bbe331086928d45a6,RouteMonitor - Mobile_Sync,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/13
+4a19fcdc5d89432bbe331086928d45a6,RouteMonitor - PlanClear,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/12
+4a19fcdc5d89432bbe331086928d45a6,RouteMonitor - Stops_Display,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/11
+4a19fcdc5d89432bbe331086928d45a6,RouteMonitor - Seed_Points,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/10
+4a19fcdc5d89432bbe331086928d45a6,RouteMonitor - Route_Assignment,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/9
+4a19fcdc5d89432bbe331086928d45a6,RouteMonitor - Messages_Pending,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/8
+4a19fcdc5d89432bbe331086928d45a6,RouteMonitor - Stops_Pending,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/7
+4a19fcdc5d89432bbe331086928d45a6,RouteMonitor - Messages,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/6
+4a19fcdc5d89432bbe331086928d45a6,RouteMonitor - GeoFences,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/5
+4a19fcdc5d89432bbe331086928d45a6,RouteMonitor - Workers,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/4
+4a19fcdc5d89432bbe331086928d45a6,RouteMonitor - Routes,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/3
+4a19fcdc5d89432bbe331086928d45a6,RouteMonitor - Stops,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/2
+4a19fcdc5d89432bbe331086928d45a6,RouteMonitor - Vehicles,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/1
+4a19fcdc5d89432bbe331086928d45a6,RouteMonitor - Alerts,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/0
+4a19fcdc5d89432bbe331086928d45a6,Stops_Dispatched,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/StopDetails/FeatureServer/2
+4a19fcdc5d89432bbe331086928d45a6,Stops_Unassigned,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/StopDetails/FeatureServer/1
+4a19fcdc5d89432bbe331086928d45a6,All Stops,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/StopDetails/FeatureServer/0
+4a19fcdc5d89432bbe331086928d45a6,Display Messages,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/6
+4a8f244547d94c6e8c8c1f09a9e0a6d1,SS_INT_PM_History,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/SS_INT_PM_History/MapServer
+4e0ffe54d1d64a21a0ed3c4d4cce9bde,Interceptor System,http://gis1:6080/arcgis/rest/services/pnp/HRSD__Interceptor_Details_PnP/MapServer
+4e0ffe54d1d64a21a0ed3c4d4cce9bde,FMAA 2016 (NS),http://gis1:6080/arcgis/rest/services/pnp/HRSD__INT_ConditionAssessment_FM2016_NS/MapServer
+4edc3bc40a2449468c64ebf0998c7123,RouteMonitor - Stops_Display,http://mwtst1.hrsd.com/arcgis/rest/services/RouteMonitor/FeatureServer/11
+4edc3bc40a2449468c64ebf0998c7123,RouteMonitor - Seed_Points,http://mwtst1.hrsd.com/arcgis/rest/services/RouteMonitor/FeatureServer/10
+4edc3bc40a2449468c64ebf0998c7123,RouteMonitor - Route_Assignment,http://mwtst1.hrsd.com/arcgis/rest/services/RouteMonitor/FeatureServer/9
+4edc3bc40a2449468c64ebf0998c7123,RouteMonitor - Messages_Pending,http://mwtst1.hrsd.com/arcgis/rest/services/RouteMonitor/FeatureServer/8
+4edc3bc40a2449468c64ebf0998c7123,RouteMonitor - Stops_Pending,http://mwtst1.hrsd.com/arcgis/rest/services/RouteMonitor/FeatureServer/7
+4edc3bc40a2449468c64ebf0998c7123,RouteMonitor - Messages,http://mwtst1.hrsd.com/arcgis/rest/services/RouteMonitor/FeatureServer/6
+4edc3bc40a2449468c64ebf0998c7123,RouteMonitor - GeoFences,http://mwtst1.hrsd.com/arcgis/rest/services/RouteMonitor/FeatureServer/5
+4edc3bc40a2449468c64ebf0998c7123,RouteMonitor - Workers,http://mwtst1.hrsd.com/arcgis/rest/services/RouteMonitor/FeatureServer/4
+4edc3bc40a2449468c64ebf0998c7123,RouteMonitor - Routes,http://mwtst1.hrsd.com/arcgis/rest/services/RouteMonitor/FeatureServer/3
+4edc3bc40a2449468c64ebf0998c7123,RouteMonitor - Vehicles,http://mwtst1.hrsd.com/arcgis/rest/services/RouteMonitor/FeatureServer/1
+4edc3bc40a2449468c64ebf0998c7123,RouteMonitor - Alerts,http://mwtst1.hrsd.com/arcgis/rest/services/RouteMonitor/FeatureServer/0
+4edc3bc40a2449468c64ebf0998c7123,RouteMonitor - Stops,http://mwtst1.hrsd.com/arcgis/rest/services/RouteMonitor/FeatureServer/2
+4edc3bc40a2449468c64ebf0998c7123,StopDetails - Stops_Dispatched,http://mwtst1.hrsd.com/arcgis/rest/services/StopDetails/FeatureServer/1
+4edc3bc40a2449468c64ebf0998c7123,StopDetails - Stops_Unassigned,http://mwtst1.hrsd.com/arcgis/rest/services/StopDetails/FeatureServer/0
+51d383e0a0ad426593161770b448d7eb,RouteMonitor - Mobile_Sync,http://mwtst2:6080/arcgis/rest/services/RouteMonitor/FeatureServer/13
+51d383e0a0ad426593161770b448d7eb,StopDetails - All Stops,http://mwtst2.hrsd.com:6080/arcgis/rest/services/StopDetails/FeatureServer/0
+51d383e0a0ad426593161770b448d7eb,RouteMonitor - PlanClear,http://mwtst2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/12
+51d383e0a0ad426593161770b448d7eb,RouteMonitor - Stops_Display,http://mwtst2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/11
+51d383e0a0ad426593161770b448d7eb,RouteMonitor - Seed_Points,http://mwtst2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/10
+51d383e0a0ad426593161770b448d7eb,RouteMonitor - Route_Assignment,http://mwtst2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/9
+51d383e0a0ad426593161770b448d7eb,RouteMonitor - Messages_Pending,http://mwtst2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/8
+51d383e0a0ad426593161770b448d7eb,RouteMonitor - Stops_Pending,http://mwtst2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/7
+51d383e0a0ad426593161770b448d7eb,RouteMonitor - Messages,http://mwtst2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/6
+51d383e0a0ad426593161770b448d7eb,RouteMonitor - GeoFences,http://mwtst2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/5
+51d383e0a0ad426593161770b448d7eb,RouteMonitor - Workers,http://mwtst2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/4
+51d383e0a0ad426593161770b448d7eb,RouteMonitor - Routes,http://mwtst2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/3
+51d383e0a0ad426593161770b448d7eb,RouteMonitor - Stops,http://mwtst2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/2
+51d383e0a0ad426593161770b448d7eb,RouteMonitor - Vehicles,http://mwtst2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/1
+51d383e0a0ad426593161770b448d7eb,RouteMonitor - Alerts,http://mwtst2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/0
+51d383e0a0ad426593161770b448d7eb,StopDetails - Stops_Dispatched,http://mwtst2.hrsd.com:6080/arcgis/rest/services/StopDetails/FeatureServer/2
+51d383e0a0ad426593161770b448d7eb,StopDetails - Stops_Unassigned,http://mwtst2.hrsd.com:6080/arcgis/rest/services/StopDetails/FeatureServer/1
+51d383e0a0ad426593161770b448d7eb,RouteMonitor - Display Messages,http://mwtst2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/6
+537c926f01f84976a03987b91fa2ae4e,Locality Parcels,http://gis1:6080/arcgis/rest/services/pnp/LOCALITY_Parcels_PnP/MapServer
+537c926f01f84976a03987b91fa2ae4e,Locality Sewer,http://gis1:6080/arcgis/rest/services/pnp/LOCALITY_Sewer_PnP/MapServer
+537c926f01f84976a03987b91fa2ae4e,Customer Premises,http://gis1:6080/arcgis/rest/services/pnp/customer_premise_PnP/MapServer
+537c926f01f84976a03987b91fa2ae4e,Small Communities,http://gis1:6080/arcgis/rest/services/pnp/SCD_DetailMap_PnP/MapServer
+537c926f01f84976a03987b91fa2ae4e,Interceptor (Under Construction),http://gis1:6080/arcgis/rest/services/pnp/Interceptor_UnderConstruction_PnP/MapServer
+537c926f01f84976a03987b91fa2ae4e,Interceptor System,http://gis1:6080/arcgis/rest/services/pnp/HRSD__Interceptor_Details_PnP/MapServer
+537c926f01f84976a03987b91fa2ae4e,Catchments,http://gis1:6080/arcgis/rest/services/pnp/ServiceArea_TreatmentPlant_PnP/MapServer
+537c926f01f84976a03987b91fa2ae4e,Interceptors (By TP),http://gis1:6080/arcgis/rest/services/pnp/Interceptor_ByTP_PnP/MapServer
+537c926f01f84976a03987b91fa2ae4e,Monitoring,http://gis1:6080/arcgis/rest/services/pnp/Monitoring_LocationsMetersGauges_PnP/MapServer
+537c926f01f84976a03987b91fa2ae4e,P3 Meters,http://gis1:6080/arcgis/rest/services/pnp/P3_Meters_PnP/MapServer
+537c926f01f84976a03987b91fa2ae4e,Direct Connections,http://gis1:6080/arcgis/rest/services/pnp/P3_DirectConnections_PnP/MapServer
+537c926f01f84976a03987b91fa2ae4e,P3 Facilities,http://gis1:6080/arcgis/rest/services/pnp/iPacs_Facilities_PnP/MapServer
+537c926f01f84976a03987b91fa2ae4e,ipacsearch,http://gis1:6080/arcgis/rest/services/pnp/iPacs_Facilities_PnP/MapServer/0
+538b620acefd40b588624c9f29b931b8,CommunityEducationData - INTbeforeHurricane,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/CommunityEducationData/FeatureServer/11
+538b620acefd40b588624c9f29b931b8,CommunityEducationData - Interceptors,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/CommunityEducationData/FeatureServer/3
+538b620acefd40b588624c9f29b931b8,CommunityEducationData - ServiceAreaHRSD,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/CommunityEducationData/FeatureServer/9
+538b620acefd40b588624c9f29b931b8,STEAM Data 2 - HRSD_TreatmentPlants,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/STEAMData2/FeatureServer/3
+538b620acefd40b588624c9f29b931b8,STEAM Data 2 - HRSD_PumpStations,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/STEAMData2/FeatureServer/2
+5618330cb04a4d5ba31b7f2093c4d8ee,Locality Sewer,http://utility.arcgis.com/usrsvcs/rest/services/dea900c2e76f44d095a305f1bd29f33b/MapServer
+5618330cb04a4d5ba31b7f2093c4d8ee,Complaint Site,http://utility.arcgis.com/usrsvcs/servers/d66cc46f3ae44160b069c2dfe37a5b1d/rest/services/edit/TSD_Odor_ComplaintsSampling_edit/FeatureServer/0
+5618330cb04a4d5ba31b7f2093c4d8ee,Odor Sampling,http://utility.arcgis.com/usrsvcs/servers/d66cc46f3ae44160b069c2dfe37a5b1d/rest/services/edit/TSD_Odor_ComplaintsSampling_edit/FeatureServer/1
+56474274d7bc4e3d864a6bad4d885371,Locality Sewer,http://utility.arcgis.com/usrsvcs/servers/900f4a4cce7d456c9fa9e1587bd70c2c/rest/services/ssgis/SSGIS_SewerAssets_Active/MapServer
+56474274d7bc4e3d864a6bad4d885371,Interceptors,http://geo.hrsd.com/ags3/rest/services/hrsd/INT_PM_infrastructure/MapServer
+56474274d7bc4e3d864a6bad4d885371,Customer Premise,http://utility.arcgis.com/usrsvcs/servers/a307d1636f5f46cdb19e6a9f2885d571/rest/services/secured/customer_premise/MapServer
+56474274d7bc4e3d864a6bad4d885371,Labels,http://utility.arcgis.com/usrsvcs/servers/bb1d70cf5df44894b76e505b72144671/rest/services/edit/NS_INT_GravityInspection_edit_secured/MapServer
+56474274d7bc4e3d864a6bad4d885371,CCTV Inspection,http://utility.arcgis.com/usrsvcs/servers/6dfac57d5cf4405c9bccf828d7d16466/rest/services/edit/NS_INT_GravityInspection_edit_secured/FeatureServer/1
+56474274d7bc4e3d864a6bad4d885371,Manhole Inspection,http://utility.arcgis.com/usrsvcs/servers/6dfac57d5cf4405c9bccf828d7d16466/rest/services/edit/NS_INT_GravityInspection_edit_secured/FeatureServer/0
+57148d74470543688928ce52f8e008b5,ArchiveTestSde2 - MRMTSTP2.PlanClearFc,http://mwtst1.hrsd.com/arcgis/rest/services/Testing/ArchiveTestSde2/FeatureServer/0
+5838c917893641558a08ad1d10cfc533,Reference Infrastructure,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/SCD_PM_ReferenceInfrastructure/MapServer
+5838c917893641558a08ad1d10cfc533,Property,http://utility.arcgis.com/usrsvcs/servers/8c27bd98fcdf4ca78dbedb6121e7b713/rest/services/edit/REL_SCD_ServiceCall_edit_secured/FeatureServer/3
+5838c917893641558a08ad1d10cfc533,Vacuum Pit,http://utility.arcgis.com/usrsvcs/servers/8c27bd98fcdf4ca78dbedb6121e7b713/rest/services/edit/REL_SCD_ServiceCall_edit_secured/FeatureServer/2
+5838c917893641558a08ad1d10cfc533,Cleanout,http://utility.arcgis.com/usrsvcs/servers/8c27bd98fcdf4ca78dbedb6121e7b713/rest/services/edit/REL_SCD_ServiceCall_edit_secured/FeatureServer/1
+5838c917893641558a08ad1d10cfc533,Manhole,http://utility.arcgis.com/usrsvcs/servers/8c27bd98fcdf4ca78dbedb6121e7b713/rest/services/edit/REL_SCD_ServiceCall_edit_secured/FeatureServer/0
+59d82778f6a84b03b5417d73bbbb7797,Land Applications Fields,http://geo.hrsd.com/ags3/rest/services/hrsd/LandApplications/MapServer
+59d82778f6a84b03b5417d73bbbb7797,New Buffer Area,http://utility.arcgis.com/usrsvcs/servers/2355401602814a0ba4ef4fc20c07da24/rest/services/edit/LandApplications_NewBuffer_edit_secured/FeatureServer/1
+59d82778f6a84b03b5417d73bbbb7797,New Buffer Line,http://utility.arcgis.com/usrsvcs/servers/2355401602814a0ba4ef4fc20c07da24/rest/services/edit/LandApplications_NewBuffer_edit_secured/FeatureServer/0
+5a2d6041a33144bab5d1211bdf3af7bb,Locality Sewer Systems,http://utility.arcgis.com/usrsvcs/servers/58b2bf50124740d3a8f58ba6fa3ae698/rest/services/ssgis/SSGIS_SewerAssets_Active/MapServer
+5a2d6041a33144bab5d1211bdf3af7bb,HRSD Interceptors,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/Interceptor_DetailMap/MapServer
+5a2d6041a33144bab5d1211bdf3af7bb,Locality Capacity-Related Reported Overflows,http://utility.arcgis.com/usrsvcs/servers/e2cb189e51fe4bc1a2b2c36489dda87a/rest/services/locality/Overflows_Locality_Secured/MapServer
+5e1135564f6341249253e1158c6225ed,Locality Parcels,http://utility.arcgis.com/usrsvcs/rest/services/f3eefdeb997b471b9e8f6daacb95432f/MapServer
+5e1135564f6341249253e1158c6225ed,Locality Stormwater,http://utility.arcgis.com/usrsvcs/rest/services/8378b9deeab94bb7aa28fd092652bf71/MapServer
+5e1135564f6341249253e1158c6225ed,Locality Sewer,http://utility.arcgis.com/usrsvcs/rest/services/31671a97db874425885e5a50f7b639be/MapServer
+5e1135564f6341249253e1158c6225ed,Interceptor System,http://utility.arcgis.com/usrsvcs/servers/2cbdddb0daa84276a01a6fcc4640c30a/rest/services/ssgis/SSGIS_SewerAssets_HRSD/MapServer
+5e1135564f6341249253e1158c6225ed,TSD Sampling Sites,http://utility.arcgis.com/usrsvcs/rest/services/84b4c7b084bb4cd9a240dbf3d9a48ed2/FeatureServer/0
+60a2d717ed854962b453c2c7c4dfe3fa,Interceptor System,http://gis1:6080/arcgis/rest/services/pnp/HRSD__Interceptor_Details_PnP/MapServer
+60a2d717ed854962b453c2c7c4dfe3fa,Interceptors Under Construction,http://gis1:6080/arcgis/rest/services/pnp/Interceptor_UnderConstruction_PnP/MapServer
+60a2d717ed854962b453c2c7c4dfe3fa,Project Status,http://gis1:6080/arcgis/rest/services/pnp/ProjectTracking_Status_PnP/MapServer
+60a2d717ed854962b453c2c7c4dfe3fa,Locality Sewer Systems,http://gis1:6080/arcgis/rest/services/pnp/LOCALITY_Sewer_PnP/MapServer
+60a2d717ed854962b453c2c7c4dfe3fa,Locality Parcels,http://gis1:6080/arcgis/rest/services/pnp/LOCALITY_Parcels_PnP/MapServer
+60a2d717ed854962b453c2c7c4dfe3fa,Service Area,http://gis1:6080/arcgis/rest/services/pnp/ServiceArea_ServedByHRSD_PnP/MapServer
+60a2d717ed854962b453c2c7c4dfe3fa,Customer Premises,http://gis1:6080/arcgis/rest/services/pnp/customer_premise_PnP/MapServer
+60a2d717ed854962b453c2c7c4dfe3fa,Inspector Zones,http://gis1:6080/arcgis/rest/services/pnp/CIS_InspectorZones_PnP/MapServer
+620f3058a8c642d487708ebb1b3d1de3,CMMS_GIS_Assets,http://gis1:6080/arcgis/rest/services/cmms/CMMS_GIS_Assets/MapServer
+620f3058a8c642d487708ebb1b3d1de3,USA Major Cities,http://services.arcgis.com/P3ePLMYs2RVChkJx/arcgis/rest/services/USA_Major_Cities/FeatureServer/0
+621fe873a0fe45cfbf0fd90084caa2ec,Aerial Photography,http://gismaps.vita.virginia.gov/arcgis/rest/services/MostRecentImagery/MostRecentImagery_WGS/MapServer
+621fe873a0fe45cfbf0fd90084caa2ec,Locality Parcels,http://utility.arcgis.com/usrsvcs/rest/services/f3eefdeb997b471b9e8f6daacb95432f/MapServer
+621fe873a0fe45cfbf0fd90084caa2ec,Locality Stormwater,http://utility.arcgis.com/usrsvcs/servers/8730a2ab099f4988a56f11923328c6aa/rest/services/locality/LOCALITY_Stormwater_secured/MapServer
+621fe873a0fe45cfbf0fd90084caa2ec,Locality Sewer,http://utility.arcgis.com/usrsvcs/rest/services/31671a97db874425885e5a50f7b639be/MapServer
+621fe873a0fe45cfbf0fd90084caa2ec,Valve Guides,http://utility.arcgis.com/usrsvcs/servers/395ae7f9c08e4b73baeae062642c0c5a/rest/services/hrsd/ValveGuides_secured/MapServer
+621fe873a0fe45cfbf0fd90084caa2ec,Plan Sheets,http://utility.arcgis.com/usrsvcs/servers/4f1f918baa6845248f9ce3ce98182222/rest/services/secured/PlanSheets_Engineering_secured/MapServer
+621fe873a0fe45cfbf0fd90084caa2ec,Failures,http://utility.arcgis.com/usrsvcs/rest/services/a0019b4bc6134996a05d9b7d3841b0d1/MapServer
+621fe873a0fe45cfbf0fd90084caa2ec,Surry and Lawnes Pointe,http://utility.arcgis.com/usrsvcs/servers/eb6c9e073e444d4b934fe2c54fa47ba8/rest/services/locality/Surry_SewerInfrastructure_secured/MapServer
+621fe873a0fe45cfbf0fd90084caa2ec,Small Communities,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/SCD_DetailMap/MapServer
+621fe873a0fe45cfbf0fd90084caa2ec,Interceptor Details,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/Interceptor_DetailMap/MapServer
+621fe873a0fe45cfbf0fd90084caa2ec,Monitoring Sites,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/Monitoring_Locations_Meters_Gauges/MapServer
+621fe873a0fe45cfbf0fd90084caa2ec,SCADA Towers,http://utility.arcgis.com/usrsvcs/servers/841999f82c024072b29ffba963a738b2/rest/services/secured/SCADA_Towers_secured/MapServer
+621fe873a0fe45cfbf0fd90084caa2ec,Service Area - Catchments (By TP),http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/ServiceArea_TreatmentPlant/MapServer
+6273c850dd1a490387e7a9289d5372db,Sea Level Rise - Inundation Scenarios,http://gis1:6080/arcgis/rest/services/pnp/SLR_Combined_InundationOnly_PnP/MapServer
+6273c850dd1a490387e7a9289d5372db,Interceptor System,http://gis1:6080/arcgis/rest/services/pnp/HRSD__Interceptor_Details_PnP/MapServer
+6273c850dd1a490387e7a9289d5372db,Flood Insured Facilities,http://gis1:6080/arcgis/rest/services/pnp/FloodInsuredFacilities_PnP/MapServer
+6273c850dd1a490387e7a9289d5372db,Interceptors (Under Construction),http://gis1:6080/arcgis/rest/services/pnp/Interceptor_UnderConstruction_PnP/MapServer
+62c5882e724547229da45f2b6ca6d1de,Virginia Geology,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/STEAM_Data/FeatureServer/0
+62c5882e724547229da45f2b6ca6d1de,Hampton Roads Watersheds,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/CommunityEducationData/FeatureServer/14
+62c5882e724547229da45f2b6ca6d1de,HRSD Service Area,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/CommunityEducationData/FeatureServer/9
+62c5882e724547229da45f2b6ca6d1de,Top 14 Users,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/STEAMData2/FeatureServer/4
+62c5882e724547229da45f2b6ca6d1de,HRSD Treatment Plants,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/STEAMData2/FeatureServer/3
+62c5882e724547229da45f2b6ca6d1de,HRSD Pump Stations,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/STEAMData2/FeatureServer/2
+62c5882e724547229da45f2b6ca6d1de,Heavy Draw Locations,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/STEAMData2/FeatureServer/0
+6460ab68087e4846858f895172e3b4de,TURNON Density,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/CCC_FieldActivity_2016_Aug_Jul_Monthly/FeatureServer/1
+6460ab68087e4846858f895172e3b4de,LVTAG Density,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/CCC_FieldActivity_2016_Aug_Jul_Monthly/FeatureServer/0
+652dffad20db42a791b3f4e4e8ac7fce,TSD_MarinaPumpouts_Summary,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/TSD_MarinaPumpouts/MapServer
+652dffad20db42a791b3f4e4e8ac7fce,Marina's Contact Information,http://hrsdgis.hrsdnet.com/ags2/rest/services/hrsd/TEST_TSD_MarinaPumpouts_Public/MapServer/1
+652dffad20db42a791b3f4e4e8ac7fce,Marinas with Pump Outs,http://hrsdgis.hrsdnet.com/ags2/rest/services/hrsd/TEST_TSD_MarinaPumpouts_Public/MapServer/0
+6531194150f344aca43ce7555379940d,Soils (USDA),http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/LandApplications/MapServer/5
+6531194150f344aca43ce7555379940d,Buffers,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/LandApplications/MapServer/2
+6531194150f344aca43ce7555379940d,Buffered Features,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/LandApplications/MapServer/1
+6531194150f344aca43ce7555379940d,Permitted Sites (Fields),http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/LandApplications/MapServer/3
+6531194150f344aca43ce7555379940d,Permitted Tracts,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/LandApplications/MapServer/0
+66456406563948da981dac642e16d94a,CIS_InspectorZonesMarkUp_edit - AI Zone - Mark-up - Area,http://utility.arcgis.com/usrsvcs/servers/e220a449c27445cc98c4b26928f1ab19/rest/services/edit/CIS_InspectorZonesMarkUp_edit/FeatureServer/1
+66456406563948da981dac642e16d94a,CIS_InspectorZonesMarkUp_edit - AI Zone - Mark-up - Line,http://utility.arcgis.com/usrsvcs/servers/e220a449c27445cc98c4b26928f1ab19/rest/services/edit/CIS_InspectorZonesMarkUp_edit/FeatureServer/0
+667d7764280c481aaeeba87cbf89d2fc,Interceptors,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/INT_PM_infrastructure/MapServer
+667d7764280c481aaeeba87cbf89d2fc,TP_Details,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/TP_Details/MapServer
+68c3967285c04a8eaaa3778648229934,AGOL_Data - NorthShorePumpStation,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/AGOL_Data/FeatureServer/3
+68c3967285c04a8eaaa3778648229934,AGOL_Data - SouthShoreForce,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/AGOL_Data/FeatureServer/2
+68c3967285c04a8eaaa3778648229934,AGOL_Data - Proposed_Alignment,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/AGOL_Data/FeatureServer/1
+68c3967285c04a8eaaa3778648229934,AGOL_Data - GPS_Points,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/AGOL_Data/FeatureServer/0
+6a6e0b19a42549e798e192387e8afd4a,Locality Sewer,http://utility.arcgis.com/usrsvcs/rest/services/31671a97db874425885e5a50f7b639be/MapServer
+6a6e0b19a42549e798e192387e8afd4a,Labels,http://utility.arcgis.com/usrsvcs/rest/services/2f6096cb6b9e48879dd00649ce7a4664/MapServer
+6a6e0b19a42549e798e192387e8afd4a,Valve Guides,http://utility.arcgis.com/usrsvcs/servers/395ae7f9c08e4b73baeae062642c0c5a/rest/services/hrsd/ValveGuides_secured/MapServer
+6a6e0b19a42549e798e192387e8afd4a,Interceptors,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/INT_PM_infrastructure/MapServer
+6a6e0b19a42549e798e192387e8afd4a,Air Vents,http://utility.arcgis.com/usrsvcs/rest/services/af3cce38ae3f436d974a8d96dbf438eb/FeatureServer/3
+6a6e0b19a42549e798e192387e8afd4a,Valves,http://utility.arcgis.com/usrsvcs/rest/services/af3cce38ae3f436d974a8d96dbf438eb/FeatureServer/2
+6bc2c6e389dd42299a0f57c66b614861,Land Applications Fields,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/LandApplications/MapServer
+6bc2c6e389dd42299a0f57c66b614861,New Buffer Area,http://utility.arcgis.com/usrsvcs/servers/4840197a8cfd4b93bf420fb9633320be/rest/services/edit/LandApplications_NewBuffer_edit_secured/FeatureServer/1
+6bc2c6e389dd42299a0f57c66b614861,New Buffer Line,http://utility.arcgis.com/usrsvcs/servers/4840197a8cfd4b93bf420fb9633320be/rest/services/edit/LandApplications_NewBuffer_edit_secured/FeatureServer/0
+6d3ea886397e48be8c0b6fb54e5606eb,HRPDC_Available_Parcels,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/HRPDC_Available_Parcels/FeatureServer/0
+6d3ea886397e48be8c0b6fb54e5606eb,HRGeo_Parcels_secured 1 - HRGeo Parcels,http://utility.arcgis.com/usrsvcs/servers/e09ff51c5cc048b796dfe367af4df3ea/rest/services/regionalgis/HRGeo_Parcels_secured/MapServer/0
+6dc74187389646f684b6959d4d60356e,Marinas,http://utility.arcgis.com/usrsvcs/servers/e641f4fc7cc443fa9a11170ec2054787/rest/services/edit/WaterQuality_TSD_MarinaSite_edit_secured/MapServer
+775eac9e556a41f0a4197770497949e7,Drainfields_Mass,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/Drainfields_Mass/MapServer
+778484d81376439097ffea9bcb40cd8a,Locality Sanitary Sewer,http://utility.arcgis.com/usrsvcs/servers/58b2bf50124740d3a8f58ba6fa3ae698/rest/services/ssgis/SSGIS_SewerAssets_Active/MapServer
+778484d81376439097ffea9bcb40cd8a,Catchments,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/ServiceArea_TreatmentPlant/MapServer
+778484d81376439097ffea9bcb40cd8a,Small Communities,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/SCD_DetailMap/MapServer
+778484d81376439097ffea9bcb40cd8a,HRSD Interceptors,http://utility.arcgis.com/usrsvcs/servers/2cbdddb0daa84276a01a6fcc4640c30a/rest/services/ssgis/SSGIS_SewerAssets_HRSD/MapServer
+778484d81376439097ffea9bcb40cd8a,Interceptor By TP,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/Interceptor_ByTP/MapServer
+778484d81376439097ffea9bcb40cd8a,P3 Facilities,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/iPacs_Facilities/MapServer
+78fb8d36022f4468b861fc1567c1190c,RouteMonitor - Mobile_Sync,http://mwdev1.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/13
+78fb8d36022f4468b861fc1567c1190c,RouteMonitor - PlanClear,http://mwdev1.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/11
+78fb8d36022f4468b861fc1567c1190c,RouteMonitor - Stops_Display,http://mwdev1.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/11
+78fb8d36022f4468b861fc1567c1190c,RouteMonitor - Seed_Points,http://mwdev1.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/10
+78fb8d36022f4468b861fc1567c1190c,RouteMonitor - Route_Assignment,http://mwdev1.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/9
+78fb8d36022f4468b861fc1567c1190c,RouteMonitor - Messages_Pending,http://mwdev1.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/8
+78fb8d36022f4468b861fc1567c1190c,RouteMonitor - Stops_Pending,http://mwdev1.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/7
+78fb8d36022f4468b861fc1567c1190c,RouteMonitor - GeoFences,http://mwdev1.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/5
+78fb8d36022f4468b861fc1567c1190c,RouteMonitor - Workers,http://mwdev1.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/4
+78fb8d36022f4468b861fc1567c1190c,RouteMonitor - Messages,http://mwdev1.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/6
+78fb8d36022f4468b861fc1567c1190c,RouteMonitor - Routes,http://mwdev1.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/3
+78fb8d36022f4468b861fc1567c1190c,RouteMonitor - Stops,http://mwdev1.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/2
+78fb8d36022f4468b861fc1567c1190c,RouteMonitor - Vehicles,http://mwdev1.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/1
+78fb8d36022f4468b861fc1567c1190c,RouteMonitor - Alerts,http://mwdev1.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/0
+78fb8d36022f4468b861fc1567c1190c,StopDetails - Stops_Dispatched,http://mwdev1.hrsd.com:6080/arcgis/rest/services/StopDetails/FeatureServer/2
+78fb8d36022f4468b861fc1567c1190c,StopDetails - Stops_Unassigned,http://mwdev1.hrsd.com:6080/arcgis/rest/services/StopDetails/FeatureServer/1
+78fb8d36022f4468b861fc1567c1190c,StopDetails - All Stops,http://mwdev1.hrsd.com:6080/arcgis/rest/services/StopDetails/FeatureServer/0
+79597faafc6642428fa500cd084142fd,Interceptor System,http://gis1:6080/arcgis/rest/services/pnp/HRSD__Interceptor_Details_PnP/MapServer
+79597faafc6642428fa500cd084142fd,Interceptors Under Construction,http://gis1:6080/arcgis/rest/services/pnp/Interceptor_UnderConstruction_PnP/MapServer
+79597faafc6642428fa500cd084142fd,Project Status,http://gis1:6080/arcgis/rest/services/pnp/ProjectTracking_Status_PnP/MapServer
+79597faafc6642428fa500cd084142fd,Locality Sewer Systems,http://gis1:6080/arcgis/rest/services/pnp/LOCALITY_Sewer_PnP/MapServer
+79597faafc6642428fa500cd084142fd,Locality Parcels,http://gis1:6080/arcgis/rest/services/pnp/LOCALITY_Parcels_PnP/MapServer
+79597faafc6642428fa500cd084142fd,Service Area,http://gis1:6080/arcgis/rest/services/pnp/ServiceArea_ServedByHRSD_PnP/MapServer
+79597faafc6642428fa500cd084142fd,Customer Premises,http://gis1:6080/arcgis/rest/services/pnp/customer_premise_PnP/MapServer
+79597faafc6642428fa500cd084142fd,Inspector Zones,http://gis1:6080/arcgis/rest/services/pnp/CIS_InspectorZones_PnP/MapServer
+7a6e509c4be84f61905ec2834b6d044e,Valve Guides,http://utility.arcgis.com/usrsvcs/servers/395ae7f9c08e4b73baeae062642c0c5a/rest/services/hrsd/ValveGuides_secured/MapServer
+7a6e509c4be84f61905ec2834b6d044e,Label,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/CathodicProtection_WireReadings/MapServer
+7a6e509c4be84f61905ec2834b6d044e,Test Stations,http://utility.arcgis.com/usrsvcs/servers/205de4693ffa4f538408985418190f7d/rest/services/edit/REL_CP_WireReadings_edit_secured/FeatureServer/0
+7c846e48bb77457e9d7663f67058abc1,AGOL_Data - NorthShorePumpStation,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/AGOL_Data/FeatureServer/3
+7c846e48bb77457e9d7663f67058abc1,AGOL_Data - SouthShoreForce,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/AGOL_Data/FeatureServer/2
+7c846e48bb77457e9d7663f67058abc1,AGOL_Data - Proposed_Alignment,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/AGOL_Data/FeatureServer/1
+7c846e48bb77457e9d7663f67058abc1,AGOL_Data - GPS_Points,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/AGOL_Data/FeatureServer/0
+7de54c2ed3ff413d9966fceebbf1f668,Locality Parcels,http://utility.arcgis.com/usrsvcs/rest/services/f3eefdeb997b471b9e8f6daacb95432f/MapServer
+7de54c2ed3ff413d9966fceebbf1f668,Locality Stormwater,http://utility.arcgis.com/usrsvcs/servers/8730a2ab099f4988a56f11923328c6aa/rest/services/locality/LOCALITY_Stormwater_secured/MapServer
+7de54c2ed3ff413d9966fceebbf1f668,Locality Sewer,http://utility.arcgis.com/usrsvcs/rest/services/31671a97db874425885e5a50f7b639be/MapServer
+7de54c2ed3ff413d9966fceebbf1f668,Valve Guides,http://utility.arcgis.com/usrsvcs/servers/395ae7f9c08e4b73baeae062642c0c5a/rest/services/hrsd/ValveGuides_secured/MapServer
+7de54c2ed3ff413d9966fceebbf1f668,Monitoring Sites,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/Monitoring_Locations_Meters_Gauges/MapServer
+7de54c2ed3ff413d9966fceebbf1f668,Failures,http://utility.arcgis.com/usrsvcs/rest/services/a0019b4bc6134996a05d9b7d3841b0d1/MapServer
+7de54c2ed3ff413d9966fceebbf1f668,Interceptor Details,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/Interceptor_DetailMap/MapServer
+7de54c2ed3ff413d9966fceebbf1f668,SCADA Towers,http://utility.arcgis.com/usrsvcs/servers/841999f82c024072b29ffba963a738b2/rest/services/secured/SCADA_Towers_secured/MapServer
+7de54c2ed3ff413d9966fceebbf1f668,SCADA Sites,http://utility.arcgis.com/usrsvcs/servers/71e2a96191b94d468e8f0af880e63118/rest/services/secured/SCADA_Sites_secured/MapServer
+80f6be8d99884d0f8ae5c5406e783c42,Locality Sewer,http://gis1:6080/arcgis/rest/services/pnp/LOCALITY_Sewer_PnP/MapServer
+80f6be8d99884d0f8ae5c5406e783c42,PS Catchments,http://gis1:6080/arcgis/rest/services/pnp/WQ_Impairments_Bacteria_Catch_PnP/MapServer
+80f6be8d99884d0f8ae5c5406e783c42,Impairments (Bacteria),http://gis1:6080/arcgis/rest/services/pnp/WQ_Impairments_Bacteria_PnP/MapServer
+80f6be8d99884d0f8ae5c5406e783c42,TSD Sampling Sites,http://gis1:6080/arcgis/rest/services/pnp/WaterQuality_TSD_SamplingSites_PnP/MapServer
+80f6be8d99884d0f8ae5c5406e783c42,Drainfields (Mass),http://gis1:6080/arcgis/rest/services/pnp/Drainfields_Mass_PnP/MapServer
+80f6be8d99884d0f8ae5c5406e783c42,Interceptor_Failures_PnP,http://gis1:6080/arcgis/rest/services/pnp/Interceptor_Failures_PnP/MapServer
+80f6be8d99884d0f8ae5c5406e783c42,Interceptor System,http://gis1:6080/arcgis/rest/services/pnp/HRSD__Interceptor_Details_PnP/MapServer
+80f6be8d99884d0f8ae5c5406e783c42,Interceptors (By TP),http://gis1:6080/arcgis/rest/services/pnp/Interceptor_ByTP_PnP/MapServer
+81bb149398ec4292a76da9981dc98e79,Locality Parcels,http://utility.arcgis.com/usrsvcs/rest/services/f3eefdeb997b471b9e8f6daacb95432f/MapServer
+81bb149398ec4292a76da9981dc98e79,Locality Sewer,http://utility.arcgis.com/usrsvcs/rest/services/31671a97db874425885e5a50f7b639be/MapServer
+81bb149398ec4292a76da9981dc98e79,HRSD Interceptor System (General Info),http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/hrsd_public/MapServer
+81bb149398ec4292a76da9981dc98e79,Historical SSO,http://utility.arcgis.com/usrsvcs/rest/services/2f58935e1da0457f962444c70360c97e/MapServer
+81bb149398ec4292a76da9981dc98e79,Historical Failures,http://utility.arcgis.com/usrsvcs/rest/services/a0019b4bc6134996a05d9b7d3841b0d1/MapServer
+81bb149398ec4292a76da9981dc98e79,Plan Sheets,http://utility.arcgis.com/usrsvcs/servers/4f1f918baa6845248f9ce3ce98182222/rest/services/secured/PlanSheets_Engineering_secured/MapServer
+81bb149398ec4292a76da9981dc98e79,Valve Guides,http://utility.arcgis.com/usrsvcs/servers/395ae7f9c08e4b73baeae062642c0c5a/rest/services/hrsd/ValveGuides_secured/MapServer
+81bb149398ec4292a76da9981dc98e79,Forensic Data Collection,http://utility.arcgis.com/usrsvcs/rest/services/8f9e59855c0e435991ab923b5a6812e0/FeatureServer/2
+81bb149398ec4292a76da9981dc98e79,Repairs / Failures,http://utility.arcgis.com/usrsvcs/rest/services/8f9e59855c0e435991ab923b5a6812e0/FeatureServer/1
+81bb149398ec4292a76da9981dc98e79,SSO,http://utility.arcgis.com/usrsvcs/rest/services/8f9e59855c0e435991ab923b5a6812e0/FeatureServer/0
+829b53fd382247bdaa19f7d0ad07a32d,Marking Notification,http://utility.arcgis.com/usrsvcs/servers/b1f86e0b6da34e5392c2176d96b4cd0e/rest/services/edit/Marking_Notification_SS_edit_secured/FeatureServer/0
+843b2ed398c7469384edbd84655b9725,WaterQuality_TSD_SamplingSites_Editor - TSD Sampling Sites,http://utility.arcgis.com/usrsvcs/rest/services/84b4c7b084bb4cd9a240dbf3d9a48ed2/FeatureServer/0
+847f8ae61b664fe198f5c445a93325f8,CIS_InspectorZones,http://utility.arcgis.com/usrsvcs/servers/ac6094d746e74507801753d6bdad28ed/rest/services/secured/CIS_InspectorZones/MapServer
+86211ac74b504f63a0fbec634560d5cc,Locality Sewer,http://utility.arcgis.com/usrsvcs/rest/services/31671a97db874425885e5a50f7b639be/MapServer
+86211ac74b504f63a0fbec634560d5cc,HRSD Interceptor System,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/hrsd_public/MapServer
+86211ac74b504f63a0fbec634560d5cc,Monitoring Locations,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/Monitoring_Locations_Meters_Gauges/MapServer
+863e6593b0844669a76cf838f64d7353,Locality Sanitary Sewer Assets (Active),http://utility.arcgis.com/usrsvcs/servers/58b2bf50124740d3a8f58ba6fa3ae698/rest/services/ssgis/SSGIS_SewerAssets_Active/MapServer
+863e6593b0844669a76cf838f64d7353,HRSD,http://utility.arcgis.com/usrsvcs/servers/2cbdddb0daa84276a01a6fcc4640c30a/rest/services/ssgis/SSGIS_SewerAssets_HRSD/MapServer
+863e6593b0844669a76cf838f64d7353,Valve Guides,http://utility.arcgis.com/usrsvcs/servers/395ae7f9c08e4b73baeae062642c0c5a/rest/services/hrsd/ValveGuides_secured/MapServer
+86caa2a5b7764d73935f06ca80b62081,RouteMonitor - Mobile_Sync,http://mwtst2:6080/arcgis/rest/services/RouteMonitor/FeatureServer/13
+86caa2a5b7764d73935f06ca80b62081,RouteMonitor - PlanClear,http://mwtst2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/12
+86caa2a5b7764d73935f06ca80b62081,RouteMonitor - Stops_Display,http://mwtst2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/11
+86caa2a5b7764d73935f06ca80b62081,RouteMonitor - Seed_Points,http://mwtst2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/10
+86caa2a5b7764d73935f06ca80b62081,RouteMonitor - Route_Assignment,http://mwtst2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/9
+86caa2a5b7764d73935f06ca80b62081,RouteMonitor - Messages_Pending,http://mwtst2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/8
+86caa2a5b7764d73935f06ca80b62081,RouteMonitor - Stops_Pending,http://mwtst2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/7
+86caa2a5b7764d73935f06ca80b62081,RouteMonitor - Messages,http://mwtst2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/6
+86caa2a5b7764d73935f06ca80b62081,RouteMonitor - GeoFences,http://mwtst2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/5
+86caa2a5b7764d73935f06ca80b62081,RouteMonitor - Workers,http://mwtst2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/4
+86caa2a5b7764d73935f06ca80b62081,RouteMonitor - Routes,http://mwtst2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/3
+86caa2a5b7764d73935f06ca80b62081,RouteMonitor - Stops,http://mwtst2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/2
+86caa2a5b7764d73935f06ca80b62081,RouteMonitor - Vehicles,http://mwtst2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/1
+86caa2a5b7764d73935f06ca80b62081,RouteMonitor - Alerts,http://mwtst2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/0
+86caa2a5b7764d73935f06ca80b62081,StopDetails - Stops_Dispatched,http://mwtst2.hrsd.com:6080/arcgis/rest/services/StopDetails/FeatureServer/2
+86caa2a5b7764d73935f06ca80b62081,StopDetails - Stops_Unassigned,http://mwtst2.hrsd.com:6080/arcgis/rest/services/StopDetails/FeatureServer/1
+86caa2a5b7764d73935f06ca80b62081,StopDetails - All Stops,http://mwtst2.hrsd.com:6080/arcgis/rest/services/StopDetails/FeatureServer/0
+86caa2a5b7764d73935f06ca80b62081,RouteMonitor - Display Messages,http://mwtst2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/6
+877f98e527ad4605bc7e0a6819e53bcf,HRSD Interceptor System,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/hrsd_public/MapServer
+87cce17edd2444dcb35ed7d23e127156,Interceptor Details,http://gis1:6080/arcgis/rest/services/pnp/HRSD__Interceptor_Details_PnP/MapServer
+87cce17edd2444dcb35ed7d23e127156,Condition Assessment (FCAR 2013),http://gis1:6080/arcgis/rest/services/pnp/ConditionAssessment_FCAR_PnP/MapServer
+8b33f043375e4e83885580618e8d84bf,HRSD_FW - Stops_Display,http://192.200.214.159:6080/arcgis/rest/services/Testing/HRSD_FW/FeatureServer/11
+8b33f043375e4e83885580618e8d84bf,HRSD_FW - Seed_Points,http://192.200.214.159:6080/arcgis/rest/services/Testing/HRSD_FW/FeatureServer/10
+8b33f043375e4e83885580618e8d84bf,HRSD_FW - Route_Assignment,http://192.200.214.159:6080/arcgis/rest/services/Testing/HRSD_FW/FeatureServer/9
+8b33f043375e4e83885580618e8d84bf,HRSD_FW - Messages_Pending,http://192.200.214.159:6080/arcgis/rest/services/Testing/HRSD_FW/FeatureServer/8
+8b33f043375e4e83885580618e8d84bf,HRSD_FW - Stops_Pending,http://192.200.214.159:6080/arcgis/rest/services/Testing/HRSD_FW/FeatureServer/7
+8b33f043375e4e83885580618e8d84bf,HRSD_FW - Messages,http://192.200.214.159:6080/arcgis/rest/services/Testing/HRSD_FW/FeatureServer/6
+8b33f043375e4e83885580618e8d84bf,HRSD_FW - GeoFences,http://192.200.214.159:6080/arcgis/rest/services/Testing/HRSD_FW/FeatureServer/5
+8b33f043375e4e83885580618e8d84bf,HRSD_FW - Workers,http://192.200.214.159:6080/arcgis/rest/services/Testing/HRSD_FW/FeatureServer/4
+8b33f043375e4e83885580618e8d84bf,HRSD_FW - Routes,http://192.200.214.159:6080/arcgis/rest/services/Testing/HRSD_FW/FeatureServer/3
+8b33f043375e4e83885580618e8d84bf,HRSD_FW - Stops,http://192.200.214.159:6080/arcgis/rest/services/Testing/HRSD_FW/FeatureServer/2
+8b33f043375e4e83885580618e8d84bf,HRSD_FW - Vehicles,http://192.200.214.159:6080/arcgis/rest/services/Testing/HRSD_FW/FeatureServer/1
+8b33f043375e4e83885580618e8d84bf,HRSD_FW - Alerts,http://192.200.214.159:6080/arcgis/rest/services/Testing/HRSD_FW/FeatureServer/0
+8bfcb42cc0b64b149305b91b89c87f2e,Interceptor System,http://gis1:6080/arcgis/rest/services/pnp/HRSD__Interceptor_Details_PnP/MapServer
+8bfcb42cc0b64b149305b91b89c87f2e,Treatment Plant - Infrastructure,http://gis1:6080/arcgis/rest/services/pnp/TP_Details_PnP/MapServer
+8c6efc1c80df4bd3a044e3bbcc21068b,Locality Sewer,http://utility.arcgis.com/usrsvcs/servers/58b2bf50124740d3a8f58ba6fa3ae698/rest/services/ssgis/SSGIS_SewerAssets_Active/MapServer
+8c6efc1c80df4bd3a044e3bbcc21068b,HRSD Interceptor System,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/hrsd_public/MapServer
+8c6efc1c80df4bd3a044e3bbcc21068b,Public Utilities CIB Project Areas,http://gisdata.cityofchesapeake.net/public/rest/services/DPU_CIB_Projects/MapServer/2
+8c6efc1c80df4bd3a044e3bbcc21068b,Public Utilities CIB Project Lines,http://gisdata.cityofchesapeake.net/public/rest/services/DPU_CIB_Projects/MapServer/0
+8c6efc1c80df4bd3a044e3bbcc21068b,Public Utilities CIB Project Points,http://gisdata.cityofchesapeake.net/public/rest/services/DPU_CIB_Projects/MapServer/1
+8c865d2dcec34cacbcd0de24c15f105a,HRSD Interceptor System (General Info),http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/hrsd_public/MapServer
+8c865d2dcec34cacbcd0de24c15f105a,Interceptor_DetailMap,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/Interceptor_DetailMap/MapServer
+8c865d2dcec34cacbcd0de24c15f105a,MMP - HRSD Sites,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/MonitoringSites_HRSDFacilities/FeatureServer/0
+8c865d2dcec34cacbcd0de24c15f105a,MMP - HRSD Gravity,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/MonitoringSites_HRSDGravity/FeatureServer/0
+8c865d2dcec34cacbcd0de24c15f105a,Monitoring_RainGauges,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/Monitoring_RainGauges/FeatureServer/0
+8c865d2dcec34cacbcd0de24c15f105a,Monitoring_Pressure,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/Monitoring_Pressure/FeatureServer/0
+8c865d2dcec34cacbcd0de24c15f105a,Monitoring Flow,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/newmonitoring_flow/FeatureServer/0
+8c865d2dcec34cacbcd0de24c15f105a,Monitoring_Weather,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/Monitoring_Weather/FeatureServer/0
+8c865d2dcec34cacbcd0de24c15f105a,Monitoring_Tide,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/Monitoring_Tide/FeatureServer/0
+8d0a294296e248f390790ec8f1a034ab,Locality Parcels,http://gis1:6080/arcgis/rest/services/pnp/LOCALITY_Parcels_PnP/MapServer
+8d0a294296e248f390790ec8f1a034ab,Locality Sewer,http://gis1:6080/arcgis/rest/services/pnp/LOCALITY_Sewer_PnP/MapServer
+8d0a294296e248f390790ec8f1a034ab,Surry and Lawnes Pointe,http://gis1:6080/arcgis/rest/services/pnp/Surry_SewerInfrastructure_PnP/MapServer
+8d0a294296e248f390790ec8f1a034ab,Small Communities,http://gis1:6080/arcgis/rest/services/pnp/SCD_DetailMap_PnP/MapServer
+8d0a294296e248f390790ec8f1a034ab,Customer Premises,http://gis1:6080/arcgis/rest/services/pnp/customer_premise_PnP/MapServer
+8d0a294296e248f390790ec8f1a034ab,Interceptor System,http://gis1:6080/arcgis/rest/services/pnp/HRSD__Interceptor_Details_PnP/MapServer
+8d0a294296e248f390790ec8f1a034ab,Interceptor Under Construction,http://gis1:6080/arcgis/rest/services/pnp/Interceptor_UnderConstruction_PnP/MapServer
+8d0a294296e248f390790ec8f1a034ab,Development Projects,http://gis1:6080/arcgis/rest/services/pnp/DevelopmentProjects_PnP/MapServer
+8d0a294296e248f390790ec8f1a034ab,City of Chesapeake Utilities Projects,http://gisdata.cityofchesapeake.net/public/rest/services/DPU_CIB_Projects/MapServer
+8d0a294296e248f390790ec8f1a034ab,City of Newport News - Project Status,https://maps.nnva.gov/arcgis/rest/services/Operational/CapitalPlanning/MapServer
+8d0a294296e248f390790ec8f1a034ab,Plan Sheets,http://gis1:6080/arcgis/rest/services/pnp/PlanSheets_Engineering_PnP/MapServer
+8d0a294296e248f390790ec8f1a034ab,Valve Guides,http://gis1:6080/arcgis/rest/services/pnp/ValveGuides_PnP/MapServer
+8d0a294296e248f390790ec8f1a034ab,Monitoring,http://gis1:6080/arcgis/rest/services/pnp/Monitoring_LocationsMetersGauges_PnP/MapServer
+8d0a294296e248f390790ec8f1a034ab,Failures,http://gis1:6080/arcgis/rest/services/pnp/Interceptor_Failures_PnP/MapServer
+8d0a294296e248f390790ec8f1a034ab,HRSD Property and Easements,http://gis1:6080/arcgis/rest/services/pnp/Property_HRSDandEasements_PnP/MapServer
+8d0a294296e248f390790ec8f1a034ab,Real Estate Document Link,http://gis1:6080/arcgis/rest/services/pnp/Property_RealEstateDocs_PnP/MapServer
+8d0a294296e248f390790ec8f1a034ab,CIP Project Status,http://gis1:6080/arcgis/rest/services/pnp/ProjectTracking_Status_PnP/MapServer
+8d0a294296e248f390790ec8f1a034ab,South Shore Ops - Project Notifications,http://gis1:6080/arcgis/rest/services/pnp/ProjectNotifications_PnP/MapServer
+8d7e5c0c096d4002a6606e287fa0d5af,DamageAssessment_Facilities,http://utility.arcgis.com/usrsvcs/servers/aedf71c653e9436f82748780e9b618d7/rest/services/eoc/DamageAssessment_Facilities/MapServer
+8dba81f5796548bca4af7d473a08d10e,Locality Parcels,http://utility.arcgis.com/usrsvcs/rest/services/f3eefdeb997b471b9e8f6daacb95432f/MapServer
+8dba81f5796548bca4af7d473a08d10e,Locality Stormwater,http://utility.arcgis.com/usrsvcs/servers/8730a2ab099f4988a56f11923328c6aa/rest/services/locality/LOCALITY_Stormwater_secured/MapServer
+8dba81f5796548bca4af7d473a08d10e,Locality Sewer,http://utility.arcgis.com/usrsvcs/rest/services/31671a97db874425885e5a50f7b639be/MapServer
+8dba81f5796548bca4af7d473a08d10e,Surry and Lawnes Point,http://utility.arcgis.com/usrsvcs/servers/eb6c9e073e444d4b934fe2c54fa47ba8/rest/services/locality/Surry_SewerInfrastructure_secured/MapServer
+8dba81f5796548bca4af7d473a08d10e,Valve Guides,http://utility.arcgis.com/usrsvcs/servers/395ae7f9c08e4b73baeae062642c0c5a/rest/services/hrsd/ValveGuides_secured/MapServer
+8dba81f5796548bca4af7d473a08d10e,Plan Sheets,http://utility.arcgis.com/usrsvcs/servers/4f1f918baa6845248f9ce3ce98182222/rest/services/secured/PlanSheets_Engineering_secured/MapServer
+8dba81f5796548bca4af7d473a08d10e,Monitoring Sites,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/Monitoring_Locations_Meters_Gauges/MapServer
+8dba81f5796548bca4af7d473a08d10e,Failures,http://utility.arcgis.com/usrsvcs/rest/services/a0019b4bc6134996a05d9b7d3841b0d1/MapServer
+8dba81f5796548bca4af7d473a08d10e,Small Communities,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/SCD_DetailMap/MapServer
+8dba81f5796548bca4af7d473a08d10e,Interceptor Details,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/Interceptor_DetailMap/MapServer
+8dba81f5796548bca4af7d473a08d10e,SCADA Towers,http://utility.arcgis.com/usrsvcs/servers/841999f82c024072b29ffba963a738b2/rest/services/secured/SCADA_Towers_secured/MapServer
+8dba81f5796548bca4af7d473a08d10e,Service Area - Catchments (By TP),http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/ServiceArea_TreatmentPlant/MapServer
+8dba81f5796548bca4af7d473a08d10e,Flood Insured Facilities,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/FloodInsuredFacilities_AGOL/FeatureServer/0
+8f454257c3354cc5ac82ebd81ebe86ee,ArchiveTestSde - MRMTSTP2.PlanClearFc,http://mwtst1.hrsd.com/arcgis/rest/services/Testing/ArchiveTestSde/FeatureServer/0
+9315dda3dd924fff9fb49d472a698a49,Facilities,http://gis1:6080/arcgis/rest/services/pnp/iPacs_Facilities_PnP/MapServer
+9315dda3dd924fff9fb49d472a698a49,Search Layer,http://gis1:6080/arcgis/rest/services/pnp/iPacs_Facilities_PnP/MapServer/0
+93dfa427bfd34620ac04141c0616c764,Test_IndustrialWasteSites,http://utility.arcgis.com/usrsvcs/servers/62177ba28443452db5ac5066702bfc3d/rest/services/edit/Test_IndustrialWasteSites/FeatureServer/0
+946c2204ce2f4f00a5fc3f5f37c6ce71,RouteMonitor - Mobile_Sync,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/13
+946c2204ce2f4f00a5fc3f5f37c6ce71,RouteMonitor - PlanClear,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/12
+946c2204ce2f4f00a5fc3f5f37c6ce71,RouteMonitor - Stops_Display,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/11
+946c2204ce2f4f00a5fc3f5f37c6ce71,RouteMonitor - Seed_Points,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/10
+946c2204ce2f4f00a5fc3f5f37c6ce71,RouteMonitor - Route_Assignment,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/9
+946c2204ce2f4f00a5fc3f5f37c6ce71,RouteMonitor - Messages_Pending,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/8
+946c2204ce2f4f00a5fc3f5f37c6ce71,RouteMonitor - Stops_Pending,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/7
+946c2204ce2f4f00a5fc3f5f37c6ce71,RouteMonitor - Messages,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/6
+946c2204ce2f4f00a5fc3f5f37c6ce71,RouteMonitor - GeoFences,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/5
+946c2204ce2f4f00a5fc3f5f37c6ce71,RouteMonitor - Workers,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/4
+946c2204ce2f4f00a5fc3f5f37c6ce71,RouteMonitor - Routes,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/3
+946c2204ce2f4f00a5fc3f5f37c6ce71,RouteMonitor - Stops,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/2
+946c2204ce2f4f00a5fc3f5f37c6ce71,RouteMonitor - Vehicles,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/1
+946c2204ce2f4f00a5fc3f5f37c6ce71,RouteMonitor - Alerts,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/0
+9a0fe1e72c40468e9e02f116de341935,Locality Parcels,http://utility.arcgis.com/usrsvcs/rest/services/f3eefdeb997b471b9e8f6daacb95432f/MapServer
+9a0fe1e72c40468e9e02f116de341935,Locality Stormwater,http://utility.arcgis.com/usrsvcs/rest/services/8378b9deeab94bb7aa28fd092652bf71/MapServer
+9a0fe1e72c40468e9e02f116de341935,Locality Sewer,http://utility.arcgis.com/usrsvcs/rest/services/31671a97db874425885e5a50f7b639be/MapServer
+9a0fe1e72c40468e9e02f116de341935,Monitoring Sites,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/Monitoring_Locations_Meters_Gauges/MapServer
+9a0fe1e72c40468e9e02f116de341935,HRSD Interceptor System (General Info),http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/hrsd_public/MapServer
+9a0fe1e72c40468e9e02f116de341935,Sea Level Rise (combined),http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/SLR_Combined_InundationOnly/MapServer
+9ade2fe58daa4bdfa25d13f43fad2ef5,Existing Facility Info,http://utility.arcgis.com/usrsvcs/servers/aedf71c653e9436f82748780e9b618d7/rest/services/eoc/DamageAssessment_Facilities/MapServer
+9ade2fe58daa4bdfa25d13f43fad2ef5,Need To Inspect - PS,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/DamageAssessment_Inspections_edit_AGOL2/FeatureServer/4
+9ade2fe58daa4bdfa25d13f43fad2ef5,Need To Inspect -  Crossing,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/DamageAssessment_Inspections_edit_AGOL2/FeatureServer/3
+9ade2fe58daa4bdfa25d13f43fad2ef5,Other Damage Locations,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/DamageAssessment_Inspections_edit_AGOL2/FeatureServer/2
+9ade2fe58daa4bdfa25d13f43fad2ef5,Damage - Crossings,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/DamageAssessment_Inspections_edit_AGOL2/FeatureServer/1
+9ade2fe58daa4bdfa25d13f43fad2ef5,Damage - PS,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/DamageAssessment_Inspections_edit_AGOL2/FeatureServer/0
+9c6d28fe582c4cbfaead74814a4a265a,Locality Sewer,http://utility.arcgis.com/usrsvcs/servers/58b2bf50124740d3a8f58ba6fa3ae698/rest/services/ssgis/SSGIS_SewerAssets_Active/MapServer
+9c6d28fe582c4cbfaead74814a4a265a,Labels,http://utility.arcgis.com/usrsvcs/rest/services/4a4ebcfae67c4050a84927f26350d4c5/MapServer
+9c6d28fe582c4cbfaead74814a4a265a,Customer Premise,http://utility.arcgis.com/usrsvcs/servers/3d167aa99715451bbbf90f6230bb2a12/rest/services/secured/customer_premise/MapServer
+9c6d28fe582c4cbfaead74814a4a265a,Interceptors,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/INT_PM_infrastructure/MapServer
+9c6d28fe582c4cbfaead74814a4a265a,Special Cleaning Notes,http://utility.arcgis.com/usrsvcs/servers/805047968dde4dd88a2eb4dadddbc215/rest/services/edit/NS_INT_GravitySpecialNotes_secured/MapServer
+9c6d28fe582c4cbfaead74814a4a265a,Gravity Line Cleaning,http://utility.arcgis.com/usrsvcs/rest/services/4bd863d42cba4d88ab24530826686efe/FeatureServer/1
+9c6d28fe582c4cbfaead74814a4a265a,Manhole Condition Report,http://utility.arcgis.com/usrsvcs/rest/services/4bd863d42cba4d88ab24530826686efe/FeatureServer/0
+9db6c088bcc041f881928e285f8a7a2f,Interceptor System,http://gis1:6080/arcgis/rest/services/pnp/HRSD__Interceptor_Details_PnP/MapServer
+9db6c088bcc041f881928e285f8a7a2f,Locality Sewer Systems,http://gis1:6080/arcgis/rest/services/pnp/LOCALITY_Sewer_PnP/MapServer
+9db6c088bcc041f881928e285f8a7a2f,Overflows,http://gis1:6080/arcgis/rest/services/pnp/Overflows_LocalityAndHRSD_PnP/MapServer
+9e71b623263f4ab18c2200794582493f,Targeted Assets,http://utility.arcgis.com/usrsvcs/servers/4d76e80540ca4d38a8d408cca8bb02cf/rest/services/ssgis/SSGIS_TargetedAssets_secured/MapServer
+9e71b623263f4ab18c2200794582493f,Regional Rehab Projects,http://utility.arcgis.com/usrsvcs/servers/e575bfb21b06430a98febc1d9d9891f8/rest/services/ssgis/SSGIS_Projects_Status_secured/MapServer
+9e71b623263f4ab18c2200794582493f,HRSD Project Construction Status,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/ProjectTracking_StatusOfConstruction/MapServer
+9eb07a87cd21480fbd15960451a275e1,SCD System,http://gis1:6080/arcgis/rest/services/pnp/SCD_DetailMap_PnP/MapServer
+9eb07a87cd21480fbd15960451a275e1,King William Parcels,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/Parcels/FeatureServer/5
+9eb07a87cd21480fbd15960451a275e1,West Point Parcels,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/Parcels/FeatureServer/0
+9eb07a87cd21480fbd15960451a275e1,Urbanna Parcels,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/Parcels/FeatureServer/2
+9eb07a87cd21480fbd15960451a275e1,Urbanna Intersected,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/SCD_Polygons/FeatureServer/3
+9eb07a87cd21480fbd15960451a275e1,West Point Intersected,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/SCD_Polygons/FeatureServer/6
+9eb07a87cd21480fbd15960451a275e1,King William Intersected,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/SCD_Polygons/FeatureServer/4
+9eb09a8423a2453e9d6688a9cbc856e2,CIP_Projects,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/CIP_Projects/MapServer
+9eb09a8423a2453e9d6688a9cbc856e2,Project_Updates_RKK - Completed Construction,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/Project_Updates_RKK/FeatureServer/2
+9f69a66bfaec4f4392867d3dab063f49,RouteMonitor - Stops_Display,http://mwmrm3:6080/arcgis/rest/services/RouteMonitor/FeatureServer/11
+9f69a66bfaec4f4392867d3dab063f49,RouteMonitor - Route_Assignment,http://mwmrm3:6080/arcgis/rest/services/RouteMonitor/FeatureServer/9
+9f69a66bfaec4f4392867d3dab063f49,RouteMonitor - Routes,http://mwmrm3:6080/arcgis/rest/services/RouteMonitor/FeatureServer/3
+9f69a66bfaec4f4392867d3dab063f49,RouteMonitor - Stops,http://mwmrm3:6080/arcgis/rest/services/RouteMonitor/FeatureServer/2
+9f69a66bfaec4f4392867d3dab063f49,RouteMonitor - Vehicles,http://mwmrm3:6080/arcgis/rest/services/RouteMonitor/FeatureServer/1
+a327d266f43b4620955c78f76f9a885b,Locality Parcels,http://gis1:6080/arcgis/rest/services/pnp/LOCALITY_Parcels_PnP/MapServer
+a327d266f43b4620955c78f76f9a885b,Locality Sewer,http://gis1:6080/arcgis/rest/services/pnp/LOCALITY_Sewer_PnP/MapServer
+a327d266f43b4620955c78f76f9a885b,Small Communities,http://gis1:6080/arcgis/rest/services/pnp/SCD_DetailMap_PnP/MapServer
+a327d266f43b4620955c78f76f9a885b,Customer Premises,http://gis1:6080/arcgis/rest/services/pnp/customer_premise_PnP/MapServer
+a327d266f43b4620955c78f76f9a885b,Interceptor System,http://gis1:6080/arcgis/rest/services/pnp/HRSD__Interceptor_Details_PnP/MapServer
+a327d266f43b4620955c78f76f9a885b,HRSD Property and Easements,http://gis1:6080/arcgis/rest/services/pnp/Property_HRSDandEasements_PnP/MapServer
+a327d266f43b4620955c78f76f9a885b,Plan Sheets,http://gis1:6080/arcgis/rest/services/pnp/PlanSheets_Engineering_PnP/MapServer
+a327d266f43b4620955c78f76f9a885b,Surry Sewer Infrastructure,http://gis1:6080/arcgis/rest/services/pnp/Surry_SewerInfrastructure_PnP/MapServer
+a327d266f43b4620955c78f76f9a885b,Monitoring Locations,http://gis1:6080/arcgis/rest/services/pnpedit/Monitoring_PnPedit/FeatureServer/3
+a327d266f43b4620955c78f76f9a885b,Meters,http://gis1:6080/arcgis/rest/services/pnpedit/Monitoring_PnPedit/FeatureServer/2
+a327d266f43b4620955c78f76f9a885b,Weather,http://gis1:6080/arcgis/rest/services/pnpedit/Monitoring_PnPedit/FeatureServer/1
+a327d266f43b4620955c78f76f9a885b,Tide,http://gis1:6080/arcgis/rest/services/pnpedit/Monitoring_PnPedit/FeatureServer/0
+a40dfae29a7043d49b07d6ae4c3e9798,Marina's Contact Information,http://hrsdgis.hrsdnet.com/ags2/rest/services/hrsd/TEST_TSD_MarinaPumpouts_Public/MapServer/1
+a40dfae29a7043d49b07d6ae4c3e9798,Marinas with Pump Outs,http://hrsdgis.hrsdnet.com/ags2/rest/services/hrsd/TEST_TSD_MarinaPumpouts_Public/MapServer/0
+a54c412cdfc74414b2a54242ba967923,JR Basin Overview,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/JR_Basin_Data/FeatureServer/5
+a54c412cdfc74414b2a54242ba967923,JR Basin Data,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/JR_Basin_Data/FeatureServer/4
+a54c412cdfc74414b2a54242ba967923,TP Overview,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/JR_Basin_Data/FeatureServer/2
+a54c412cdfc74414b2a54242ba967923,TP Data,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/JR_Basin_Data/FeatureServer/3
+a54c412cdfc74414b2a54242ba967923,CIP Projects,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/Nitrogen_Mass_Data_JR/FeatureServer/6
+a54c412cdfc74414b2a54242ba967923,Nitrogen Mass Data JR - JR_Basin_Overview,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/Nitrogen_Mass_Data_JR/FeatureServer/3
+a54c412cdfc74414b2a54242ba967923,JR Basin Details,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/Nitrogen_Mass_Data_JR/FeatureServer/0
+a54c412cdfc74414b2a54242ba967923,Nitrogen Mass Data JR - Treatment Plant Overview,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/Nitrogen_Mass_Data_JR/FeatureServer/1
+a54c412cdfc74414b2a54242ba967923,Treatment Plant Details,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/Nitrogen_Mass_Data_JR/FeatureServer/2
+a5993bafb02e4f05a12a54060e153637,HRSD Interceptor System (General Info),http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/hrsd_public/MapServer
+a5993bafb02e4f05a12a54060e153637,CIS_InspectorZones,http://utility.arcgis.com/usrsvcs/servers/ac6094d746e74507801753d6bdad28ed/rest/services/secured/CIS_InspectorZones/MapServer
+a7b184a0e6d0412f846dae17e83551dd,Regional Rehab Projects,http://utility.arcgis.com/usrsvcs/servers/e575bfb21b06430a98febc1d9d9891f8/rest/services/ssgis/SSGIS_Projects_Status_secured/MapServer
+a7b184a0e6d0412f846dae17e83551dd,HRSD Project Construction Status,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/ProjectTracking_StatusOfConstruction/MapServer
+a81f2aa209814089a4b09b8b6f51f425,RouteMonitor - Mobile_Sync,http://mwdev1.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/13
+a81f2aa209814089a4b09b8b6f51f425,RouteMonitor - PlanClear,http://mwdev1.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/12
+a81f2aa209814089a4b09b8b6f51f425,RouteMonitor - Stops_Display,http://mwdev1.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/11
+a81f2aa209814089a4b09b8b6f51f425,RouteMonitor - Seed_Points,http://mwdev1.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/10
+a81f2aa209814089a4b09b8b6f51f425,RouteMonitor - Route_Assignment,http://mwdev1.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/9
+a81f2aa209814089a4b09b8b6f51f425,RouteMonitor - Messages_Pending,http://mwdev1.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/8
+a81f2aa209814089a4b09b8b6f51f425,RouteMonitor - Stops_Pending,http://mwdev1.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/7
+a81f2aa209814089a4b09b8b6f51f425,RouteMonitor - Messages,http://mwdev1.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/6
+a81f2aa209814089a4b09b8b6f51f425,RouteMonitor - GeoFences,http://mwdev1.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/5
+a81f2aa209814089a4b09b8b6f51f425,RouteMonitor - Workers,http://mwdev1.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/4
+a81f2aa209814089a4b09b8b6f51f425,RouteMonitor - Routes,http://mwdev1.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/3
+a81f2aa209814089a4b09b8b6f51f425,RouteMonitor - Stops,http://mwdev1.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/2
+a81f2aa209814089a4b09b8b6f51f425,RouteMonitor - Vehicles,http://mwdev1.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/1
+a81f2aa209814089a4b09b8b6f51f425,RouteMonitor - Alerts,http://mwdev1.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/0
+a8de89dc534446b3807560140aa4211e,Locality Sewer,http://utility.arcgis.com/usrsvcs/rest/services/31671a97db874425885e5a50f7b639be/MapServer
+a8de89dc534446b3807560140aa4211e,Valve Guides,http://utility.arcgis.com/usrsvcs/servers/395ae7f9c08e4b73baeae062642c0c5a/rest/services/hrsd/ValveGuides_secured/MapServer
+a8de89dc534446b3807560140aa4211e,Labels,http://utility.arcgis.com/usrsvcs/rest/services/0284ade75b354783a10f5cce55d44e2a/MapServer
+a8de89dc534446b3807560140aa4211e,Interceptors,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/INT_PM_infrastructure/MapServer
+a8de89dc534446b3807560140aa4211e,Air Vents,http://utility.arcgis.com/usrsvcs/rest/services/0d48e73f1b1e4824a2c8fbb0f2f80b9e/FeatureServer/3
+a8de89dc534446b3807560140aa4211e,Valves,http://utility.arcgis.com/usrsvcs/rest/services/0d48e73f1b1e4824a2c8fbb0f2f80b9e/FeatureServer/2
+ab35e59ca10940049e677957bcf2c299,Locality Sewer,http://utility.arcgis.com/usrsvcs/rest/services/31671a97db874425885e5a50f7b639be/MapServer
+ab35e59ca10940049e677957bcf2c299,Valve Guides,http://utility.arcgis.com/usrsvcs/servers/395ae7f9c08e4b73baeae062642c0c5a/rest/services/hrsd/ValveGuides_secured/MapServer
+ab35e59ca10940049e677957bcf2c299,Interceptors,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/INT_PM_infrastructure/MapServer
+ab35e59ca10940049e677957bcf2c299,Labels,http://utility.arcgis.com/usrsvcs/servers/c66f1856c0c34c888d17aee706584e37/rest/services/edit/NS_INT_FMAA_edit_secured/MapServer
+ab35e59ca10940049e677957bcf2c299,Cathodic Protection,http://utility.arcgis.com/usrsvcs/servers/7ae78711462a4bd79c6a2a7bc3d4bd20/rest/services/edit/NS_INT_FMAA_edit_secured/FeatureServer/14
+ab35e59ca10940049e677957bcf2c299,Vaults,http://utility.arcgis.com/usrsvcs/servers/7ae78711462a4bd79c6a2a7bc3d4bd20/rest/services/edit/NS_INT_FMAA_edit_secured/FeatureServer/13
+ab35e59ca10940049e677957bcf2c299,Exposed Crossings,http://utility.arcgis.com/usrsvcs/servers/7ae78711462a4bd79c6a2a7bc3d4bd20/rest/services/edit/NS_INT_FMAA_edit_secured/FeatureServer/12
+ab35e59ca10940049e677957bcf2c299,Locator Box,http://utility.arcgis.com/usrsvcs/servers/7ae78711462a4bd79c6a2a7bc3d4bd20/rest/services/edit/NS_INT_FMAA_edit_secured/FeatureServer/11
+ab35e59ca10940049e677957bcf2c299,Auto Vent,http://utility.arcgis.com/usrsvcs/servers/7ae78711462a4bd79c6a2a7bc3d4bd20/rest/services/edit/NS_INT_FMAA_edit_secured/FeatureServer/10
+ab35e59ca10940049e677957bcf2c299,Valve,http://utility.arcgis.com/usrsvcs/servers/7ae78711462a4bd79c6a2a7bc3d4bd20/rest/services/edit/NS_INT_FMAA_edit_secured/FeatureServer/9
+ab35e59ca10940049e677957bcf2c299,Leak Detector,http://utility.arcgis.com/usrsvcs/servers/7ae78711462a4bd79c6a2a7bc3d4bd20/rest/services/edit/NS_INT_FMAA_edit_secured/FeatureServer/8
+ab35e59ca10940049e677957bcf2c299,Air Vent,http://utility.arcgis.com/usrsvcs/servers/7ae78711462a4bd79c6a2a7bc3d4bd20/rest/services/edit/NS_INT_FMAA_edit_secured/FeatureServer/7
+ac6320c18ee14387a2cb192428f8a239,Interceptors,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/INT_PM_infrastructure/MapServer
+ac6320c18ee14387a2cb192428f8a239,ROW Maintenance Areas,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/NS_ROW_Maintenance/MapServer
+ac6320c18ee14387a2cb192428f8a239,Label - Access Point,http://utility.arcgis.com/usrsvcs/servers/a9a771bfef974d5cb8c21a7d0b21a2dd/rest/services/edit/NS_ROW_AccessPoint_edit/MapServer
+ac6320c18ee14387a2cb192428f8a239,ROW Access Point,http://utility.arcgis.com/usrsvcs/servers/6dd6b6c146cd46ec9b313c46880fd874/rest/services/edit/NS_ROW_AccessPoint_edit/FeatureServer/0
+ad74c7ce5be34cb8bcaad6c1682157df,Census 2010 population,http://geo.hrsd.com/ags3/rest/services/census/census2010_population/MapServer
+ad74c7ce5be34cb8bcaad6c1682157df,AI Zones - Color Fill,http://utility.arcgis.com/usrsvcs/servers/ac6094d746e74507801753d6bdad28ed/rest/services/secured/CIS_InspectorZones/MapServer
+ad74c7ce5be34cb8bcaad6c1682157df,AI Zones - Outline,http://utility.arcgis.com/usrsvcs/servers/187de11b22904803b75a7a274d58e6b2/rest/services/secured/CIS_InspectorZones_Draft/MapServer
+ad74c7ce5be34cb8bcaad6c1682157df,customer_premise,http://utility.arcgis.com/usrsvcs/servers/3d167aa99715451bbbf90f6230bb2a12/rest/services/secured/customer_premise/MapServer
+ad74c7ce5be34cb8bcaad6c1682157df,Premises to Review (Zones),http://utility.arcgis.com/usrsvcs/servers/33f5565a4ff74eea9ef7672a73e10c0a/rest/services/edit/CIS_InspectorZones_edit_secured/FeatureServer/0
+ad74c7ce5be34cb8bcaad6c1682157df,AI Zone - Mark-up - Area,http://utility.arcgis.com/usrsvcs/servers/e220a449c27445cc98c4b26928f1ab19/rest/services/edit/CIS_InspectorZonesMarkUp_edit/FeatureServer/1
+ad74c7ce5be34cb8bcaad6c1682157df,AI Zone - Mark-up - Line,http://utility.arcgis.com/usrsvcs/servers/e220a449c27445cc98c4b26928f1ab19/rest/services/edit/CIS_InspectorZonesMarkUp_edit/FeatureServer/0
+ad976c2023d54f07ba416328c65f9f8d,HRSD Infrastructure,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/hrsd_public/MapServer
+ad976c2023d54f07ba416328c65f9f8d,Surry Sewer Infrastructure,http://utility.arcgis.com/usrsvcs/servers/eb6c9e073e444d4b934fe2c54fa47ba8/rest/services/locality/Surry_SewerInfrastructure_secured/MapServer
+ad976c2023d54f07ba416328c65f9f8d,Surry_Redlines,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/Surry_Redlines/FeatureServer/0
+aded07acb13248b1b63b56b5ab28b7a1,Small Communities Assets,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/SCD_DetailMap/MapServer
+aded07acb13248b1b63b56b5ab28b7a1,Question (Point),http://utility.arcgis.com/usrsvcs/servers/b1b5df84de234ff98c7b811ca1336ecc/rest/services/edit/GPS_SmallCommunitiesQuestions_edit/FeatureServer/3
+aded07acb13248b1b63b56b5ab28b7a1,Question (Line),http://utility.arcgis.com/usrsvcs/servers/b1b5df84de234ff98c7b811ca1336ecc/rest/services/edit/GPS_SmallCommunitiesQuestions_edit/FeatureServer/2
+af80504000cc4e4a85f3709e81962198,Reference Infrastructure,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/SCD_PM_ReferenceInfrastructure/MapServer
+af80504000cc4e4a85f3709e81962198,Exposed Crossing,http://utility.arcgis.com/usrsvcs/servers/e837d1004f8f4496883e64d77734cca6/rest/services/edit/REL_SCD_PM_Assets_edit_secured/FeatureServer/6
+af80504000cc4e4a85f3709e81962198,Locator Box,http://utility.arcgis.com/usrsvcs/servers/e837d1004f8f4496883e64d77734cca6/rest/services/edit/REL_SCD_PM_Assets_edit_secured/FeatureServer/5
+af80504000cc4e4a85f3709e81962198,Leak Detector,http://utility.arcgis.com/usrsvcs/servers/e837d1004f8f4496883e64d77734cca6/rest/services/edit/REL_SCD_PM_Assets_edit_secured/FeatureServer/4
+af80504000cc4e4a85f3709e81962198,Vault,http://utility.arcgis.com/usrsvcs/servers/e837d1004f8f4496883e64d77734cca6/rest/services/edit/REL_SCD_PM_Assets_edit_secured/FeatureServer/3
+af80504000cc4e4a85f3709e81962198,Vacuum Pit,http://utility.arcgis.com/usrsvcs/servers/e837d1004f8f4496883e64d77734cca6/rest/services/edit/REL_SCD_PM_Assets_edit_secured/FeatureServer/2
+af80504000cc4e4a85f3709e81962198,Valve,http://utility.arcgis.com/usrsvcs/servers/e837d1004f8f4496883e64d77734cca6/rest/services/edit/REL_SCD_PM_Assets_edit_secured/FeatureServer/1
+af80504000cc4e4a85f3709e81962198,Air Vent,http://utility.arcgis.com/usrsvcs/servers/e837d1004f8f4496883e64d77734cca6/rest/services/edit/REL_SCD_PM_Assets_edit_secured/FeatureServer/0
+b372541c353640f7b71a74645f879c90,Locality Sewer (secured),http://utility.arcgis.com/usrsvcs/rest/services/31671a97db874425885e5a50f7b639be/MapServer
+b372541c353640f7b71a74645f879c90,hrsd_public,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/hrsd_public/MapServer
+b372541c353640f7b71a74645f879c90,Locality Stormwater (secured),http://utility.arcgis.com/usrsvcs/rest/services/8378b9deeab94bb7aa28fd092652bf71/MapServer
+b372541c353640f7b71a74645f879c90,SSGIS_SewerAssets_Locality_Active,http://utility.arcgis.com/usrsvcs/servers/58b2bf50124740d3a8f58ba6fa3ae698/rest/services/ssgis/SSGIS_SewerAssets_Active/MapServer
+b372541c353640f7b71a74645f879c90,SSGIS_SewerAssets_HRSD,http://utility.arcgis.com/usrsvcs/servers/2cbdddb0daa84276a01a6fcc4640c30a/rest/services/ssgis/SSGIS_SewerAssets_HRSD/MapServer
+b45acfa3399c4e38b8aae16c38fdf926,HRSD Interceptor System (General Info),http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/hrsd_public/MapServer
+b45acfa3399c4e38b8aae16c38fdf926,Interceptor_DetailMap,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/Interceptor_DetailMap/MapServer
+b45acfa3399c4e38b8aae16c38fdf926,HRSD MMPS Sites,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/MonitoringSites_HRSDFacilities/FeatureServer/0
+b45acfa3399c4e38b8aae16c38fdf926,HRSD Gravity Sites,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/MonitoringSites_HRSDGravity/FeatureServer/0
+b45acfa3399c4e38b8aae16c38fdf926,Rainfall,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/Monitoring_RainGauges/FeatureServer/0
+b45acfa3399c4e38b8aae16c38fdf926,Pressure,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/Monitoring_Pressure/FeatureServer/0
+b45acfa3399c4e38b8aae16c38fdf926,Flow,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/newmonitoring_flow/FeatureServer/0
+b45acfa3399c4e38b8aae16c38fdf926,Weather Stations,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/Monitoring_Weather/FeatureServer/0
+b45acfa3399c4e38b8aae16c38fdf926,Tides,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/Monitoring_Tide/FeatureServer/0
+b45acfa3399c4e38b8aae16c38fdf926,Wet Well,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/MonitoringSites_HRSDFacilities/FeatureServer/0
+b689c0d4eaf94a4186648e39eac49149,AGOL_Data - NorthShorePumpStation,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/AGOL_Data/FeatureServer/3
+b689c0d4eaf94a4186648e39eac49149,AGOL_Data - SouthShoreForce,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/AGOL_Data/FeatureServer/2
+b689c0d4eaf94a4186648e39eac49149,AGOL_Data - Proposed_Alignment,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/AGOL_Data/FeatureServer/1
+b689c0d4eaf94a4186648e39eac49149,AGOL_Data - GPS_Points,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/AGOL_Data/FeatureServer/0
+b7398e5254a0451ab498cd2defa2ce24,Locality Parcels,http://utility.arcgis.com/usrsvcs/rest/services/f3eefdeb997b471b9e8f6daacb95432f/MapServer
+b7398e5254a0451ab498cd2defa2ce24,Surry Sewer Infrastructure,http://utility.arcgis.com/usrsvcs/servers/eb6c9e073e444d4b934fe2c54fa47ba8/rest/services/locality/Surry_SewerInfrastructure_secured/MapServer
+b7398e5254a0451ab498cd2defa2ce24,Monitoring,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/Monitoring_Locations_Meters_Gauges/MapServer
+b7398e5254a0451ab498cd2defa2ce24,HRSD Infrastructure,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/hrsd_public/MapServer
+b7923301e3594a50a8a26daa7585070b,RouteMonitor - Mobile_Sync,http://mwtst2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/13
+b7923301e3594a50a8a26daa7585070b,RouteMonitor - PlanClear,http://mwtst2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/12
+b7923301e3594a50a8a26daa7585070b,RouteMonitor - Stops_Display,http://mwtst2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/11
+b7923301e3594a50a8a26daa7585070b,RouteMonitor - Seed_Points,http://mwtst2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/10
+b7923301e3594a50a8a26daa7585070b,RouteMonitor - Route_Assignment,http://mwtst2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/9
+b7923301e3594a50a8a26daa7585070b,RouteMonitor - Messages_Pending,http://mwtst2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/8
+b7923301e3594a50a8a26daa7585070b,RouteMonitor - Stops_Pending,http://mwtst2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/7
+b7923301e3594a50a8a26daa7585070b,RouteMonitor - Messages,http://mwtst2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/6
+b7923301e3594a50a8a26daa7585070b,RouteMonitor - GeoFences,http://mwtst2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/5
+b7923301e3594a50a8a26daa7585070b,RouteMonitor - Workers,http://mwtst2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/4
+b7923301e3594a50a8a26daa7585070b,RouteMonitor - Routes,http://mwtst2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/3
+b7923301e3594a50a8a26daa7585070b,RouteMonitor - Stops,http://mwtst2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/2
+b7923301e3594a50a8a26daa7585070b,RouteMonitor - Vehicles,http://mwtst2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/1
+b7923301e3594a50a8a26daa7585070b,RouteMonitor - Alerts,http://mwtst2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/0
+b8ff0aa9ba364261a0768d0a9e448e62,CIS_InspectorZones,http://utility.arcgis.com/usrsvcs/servers/ac6094d746e74507801753d6bdad28ed/rest/services/secured/CIS_InspectorZones/MapServer
+ba8cee7ba4a34e1a9658ac470a77fd7a,Locality Sewer Assets,http://utility.arcgis.com/usrsvcs/servers/b13b1809fe314cb995190145c1554238/rest/services/ssgis/SSGIS_SewerAssets_Active/MapServer
+bb0076afbeff46d291c68522d3bcdee9,Locality Sewer Assets,http://utility.arcgis.com/usrsvcs/servers/58b2bf50124740d3a8f58ba6fa3ae698/rest/services/ssgis/SSGIS_SewerAssets_Active/MapServer
+bb0076afbeff46d291c68522d3bcdee9,HRSD Sewer Assets,http://utility.arcgis.com/usrsvcs/servers/2cbdddb0daa84276a01a6fcc4640c30a/rest/services/ssgis/SSGIS_SewerAssets_HRSD/MapServer
+bb0076afbeff46d291c68522d3bcdee9,Areas of Discrepancy,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/SSGIS_Discrepancies_test/FeatureServer/2
+bb0076afbeff46d291c68522d3bcdee9,Linear Features - Discrepancy,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/SSGIS_Discrepancies_test/FeatureServer/1
+bb0076afbeff46d291c68522d3bcdee9,Point Features - Discrepancy,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/SSGIS_Discrepancies_test/FeatureServer/0
+bc799f26d0844dd68ef65d6784ed0535,RouteMonitor - Mobile_Sync,http://mwfs3:6080/arcgis/rest/services/RouteMonitor/FeatureServer/13
+bc799f26d0844dd68ef65d6784ed0535,RouteMonitor - PlanClear,http://mwfs3:6080/arcgis/rest/services/RouteMonitor/FeatureServer/12
+bc799f26d0844dd68ef65d6784ed0535,RouteMonitor - Stops_Display,http://mwfs3:6080/arcgis/rest/services/RouteMonitor/FeatureServer/11
+bc799f26d0844dd68ef65d6784ed0535,RouteMonitor - Seed_Points,http://mwfs3:6080/arcgis/rest/services/RouteMonitor/FeatureServer/10
+bc799f26d0844dd68ef65d6784ed0535,RouteMonitor - Route_Assignment,http://mwfs3:6080/arcgis/rest/services/RouteMonitor/FeatureServer/9
+bc799f26d0844dd68ef65d6784ed0535,RouteMonitor - Messages_Pending,http://mwfs3:6080/arcgis/rest/services/RouteMonitor/FeatureServer/8
+bc799f26d0844dd68ef65d6784ed0535,RouteMonitor - Stops_Pending,http://mwfs3:6080/arcgis/rest/services/RouteMonitor/FeatureServer/7
+bc799f26d0844dd68ef65d6784ed0535,RouteMonitor - Messages,http://mwfs3:6080/arcgis/rest/services/RouteMonitor/FeatureServer/6
+bc799f26d0844dd68ef65d6784ed0535,RouteMonitor - GeoFences,http://mwfs3:6080/arcgis/rest/services/RouteMonitor/FeatureServer/5
+bc799f26d0844dd68ef65d6784ed0535,RouteMonitor - Workers,http://mwfs3:6080/arcgis/rest/services/RouteMonitor/FeatureServer/4
+bc799f26d0844dd68ef65d6784ed0535,RouteMonitor - Routes,http://mwfs3:6080/arcgis/rest/services/RouteMonitor/FeatureServer/3
+bc799f26d0844dd68ef65d6784ed0535,RouteMonitor - Stops,http://mwfs3:6080/arcgis/rest/services/RouteMonitor/FeatureServer/2
+bc799f26d0844dd68ef65d6784ed0535,RouteMonitor - Vehicles,http://mwfs3:6080/arcgis/rest/services/RouteMonitor/FeatureServer/1
+bc799f26d0844dd68ef65d6784ed0535,RouteMonitor - Alerts,http://mwfs3:6080/arcgis/rest/services/RouteMonitor/FeatureServer/0
+bd1575dabdda4280a7aa133ef26edd5c,State Most Recent Imagery (VGIN),http://gismaps.vita.virginia.gov/arcgis/rest/services/MostRecentImagery/MostRecentImagery_WGS/MapServer
+bd1575dabdda4280a7aa133ef26edd5c,Locality Parcels,http://utility.arcgis.com/usrsvcs/rest/services/f3eefdeb997b471b9e8f6daacb95432f/MapServer
+bd1575dabdda4280a7aa133ef26edd5c,Locality Stormwater,http://utility.arcgis.com/usrsvcs/servers/8730a2ab099f4988a56f11923328c6aa/rest/services/locality/LOCALITY_Stormwater_secured/MapServer
+bd1575dabdda4280a7aa133ef26edd5c,Locality Sewer,http://utility.arcgis.com/usrsvcs/rest/services/31671a97db874425885e5a50f7b639be/MapServer
+bd1575dabdda4280a7aa133ef26edd5c,Valve Guides,http://utility.arcgis.com/usrsvcs/servers/395ae7f9c08e4b73baeae062642c0c5a/rest/services/hrsd/ValveGuides_secured/MapServer
+bd1575dabdda4280a7aa133ef26edd5c,Plan Sheets,http://utility.arcgis.com/usrsvcs/servers/4f1f918baa6845248f9ce3ce98182222/rest/services/secured/PlanSheets_Engineering_secured/MapServer
+bd1575dabdda4280a7aa133ef26edd5c,Monitoring Sites,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/Monitoring_Locations_Meters_Gauges/MapServer
+bd1575dabdda4280a7aa133ef26edd5c,Failures,http://utility.arcgis.com/usrsvcs/rest/services/a0019b4bc6134996a05d9b7d3841b0d1/MapServer
+bd1575dabdda4280a7aa133ef26edd5c,Interceptor_DetailMap,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/Interceptor_DetailMap/MapServer
+beb28ab65ed544f49017d54bba27c628,Aerial Photography,http://gismaps.vita.virginia.gov/arcgis/rest/services/MostRecentImagery/MostRecentImagery_WGS/MapServer
+beb28ab65ed544f49017d54bba27c628,Work Spaces,http://gis1:6080/arcgis/rest/services/pnp/SpaceManagement_OfficeSpace_PnP/MapServer
+c0bf7626bf7a481fb372bde52260504e,Aerial Photo,http://gismaps.vita.virginia.gov/arcgis/rest/services/MostRecentImagery/MostRecentImagery_WGS/MapServer
+c0bf7626bf7a481fb372bde52260504e,Hurricane Storm Surge (VDEM),https://arcgis.vdem.virginia.gov/ArcGIS/rest/services/Hazards/Hurricane_StormSurge/MapServer
+c0bf7626bf7a481fb372bde52260504e,Locality Parcels,http://utility.arcgis.com/usrsvcs/rest/services/f3eefdeb997b471b9e8f6daacb95432f/MapServer
+c0bf7626bf7a481fb372bde52260504e,Locality Stormwater,http://utility.arcgis.com/usrsvcs/servers/8730a2ab099f4988a56f11923328c6aa/rest/services/locality/LOCALITY_Stormwater_secured/MapServer
+c0bf7626bf7a481fb372bde52260504e,Locality Sewer,http://utility.arcgis.com/usrsvcs/rest/services/31671a97db874425885e5a50f7b639be/MapServer
+c0bf7626bf7a481fb372bde52260504e,Surry and Lawnes Point,http://utility.arcgis.com/usrsvcs/servers/eb6c9e073e444d4b934fe2c54fa47ba8/rest/services/locality/Surry_SewerInfrastructure_secured/MapServer
+c0bf7626bf7a481fb372bde52260504e,Service Area Catchments (By TP),http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/ServiceArea_TreatmentPlant/MapServer
+c0bf7626bf7a481fb372bde52260504e,Monitoring Sites,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/Monitoring_Locations_Meters_Gauges/MapServer
+c0bf7626bf7a481fb372bde52260504e,Failures,http://utility.arcgis.com/usrsvcs/rest/services/a0019b4bc6134996a05d9b7d3841b0d1/MapServer
+c0bf7626bf7a481fb372bde52260504e,Small Communities,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/SCD_DetailMap/MapServer
+c0bf7626bf7a481fb372bde52260504e,Interceptor Details,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/Interceptor_DetailMap/MapServer
+c0bf7626bf7a481fb372bde52260504e,Plan Sheets,http://utility.arcgis.com/usrsvcs/servers/4f1f918baa6845248f9ce3ce98182222/rest/services/secured/PlanSheets_Engineering_secured/MapServer
+c0bf7626bf7a481fb372bde52260504e,Valve Guides,http://utility.arcgis.com/usrsvcs/servers/395ae7f9c08e4b73baeae062642c0c5a/rest/services/hrsd/ValveGuides_secured/MapServer
+c0bf7626bf7a481fb372bde52260504e,SCADA Towers,http://utility.arcgis.com/usrsvcs/servers/841999f82c024072b29ffba963a738b2/rest/services/secured/SCADA_Towers_secured/MapServer
+c1c3206b406f44e283daa8722d5470c3,RouteMonitor - Mobile_Sync,http://mwweb2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/13
+c1c3206b406f44e283daa8722d5470c3,RouteMonitor - PlanClear,http://mwweb2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/12
+c1c3206b406f44e283daa8722d5470c3,RouteMonitor - Stops_Display,http://mwweb2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/11
+c1c3206b406f44e283daa8722d5470c3,RouteMonitor - Seed_Points,http://mwweb2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/10
+c1c3206b406f44e283daa8722d5470c3,RouteMonitor - Route_Assignment,http://mwweb2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/9
+c1c3206b406f44e283daa8722d5470c3,RouteMonitor - Messages_Pending,http://mwweb2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/8
+c1c3206b406f44e283daa8722d5470c3,RouteMonitor - Stops_Pending,http://mwweb2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/7
+c1c3206b406f44e283daa8722d5470c3,RouteMonitor - Messages,http://mwweb2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/6
+c1c3206b406f44e283daa8722d5470c3,RouteMonitor - GeoFences,http://mwweb2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/5
+c1c3206b406f44e283daa8722d5470c3,RouteMonitor - Workers,http://mwweb2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/4
+c1c3206b406f44e283daa8722d5470c3,RouteMonitor - Routes,http://mwweb2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/3
+c1c3206b406f44e283daa8722d5470c3,RouteMonitor - Stops,http://mwweb2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/2
+c1c3206b406f44e283daa8722d5470c3,RouteMonitor - Vehicles,http://mwweb2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/1
+c1c3206b406f44e283daa8722d5470c3,RouteMonitor - Alerts,http://mwweb2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/0
+c1c3206b406f44e283daa8722d5470c3,Stops Dispatched,http://mwweb2.hrsd.com:6080/arcgis/rest/services/StopDetails/FeatureServer/2
+c1c3206b406f44e283daa8722d5470c3,Stops Unassigned,http://mwweb2.hrsd.com:6080/arcgis/rest/services/StopDetails/FeatureServer/1
+c1c3206b406f44e283daa8722d5470c3,All Stops,http://mwweb2.hrsd.com:6080/arcgis/rest/services/StopDetails/FeatureServer/0
+c1c3206b406f44e283daa8722d5470c3,RouteMonitor - Display Messages,http://mwweb2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/6
+c39619ae6d91413980b83444432288a1,YRTP_DTM_TilePackage,http://tiles.arcgis.com/tiles/UdWFYYQtp7XJUBJy/arcgis/rest/services/YRTP_DTM_TilePackage/ImageServer
+c39619ae6d91413980b83444432288a1,YRTP buildings - YRTP Buildings Multipatch,http://tiles.arcgis.com/tiles/UdWFYYQtp7XJUBJy/arcgis/rest/services/YRTP_buildings/SceneServer/layers/0
+c44dfea5723145659fbe6794dd6e9515,CMMS_GIS_Assets,http://gis1:6080/arcgis/rest/services/cmms/CMMS_GIS_Assets/MapServer
+c44dfea5723145659fbe6794dd6e9515,ValveGuides_secured_TEMP_2017_07_18,http://geo.hrsd.com/ags3/rest/services/test/ValveGuides_secured_TEMP_2017_07_18/MapServer
+c44dfea5723145659fbe6794dd6e9515,USA Major Cities,http://services.arcgis.com/P3ePLMYs2RVChkJx/arcgis/rest/services/USA_Major_Cities/FeatureServer/0
+c516f63a612f4988be630d5bed359f67,Reference,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/SCD_PM_ReferenceInfrastructure/MapServer
+c516f63a612f4988be630d5bed359f67,FNOD_SiteSurvey,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/FNOD_SiteSurvey/MapServer
+c516f63a612f4988be630d5bed359f67,Property,http://utility.arcgis.com/usrsvcs/servers/7bcbaeb26aca4839a62e7b4e7354757c/rest/services/edit/SCD_ServiceCall_LOG_edit_secured/FeatureServer/2
+c516f63a612f4988be630d5bed359f67,Valve Pit,http://utility.arcgis.com/usrsvcs/servers/7bcbaeb26aca4839a62e7b4e7354757c/rest/services/edit/SCD_ServiceCall_LOG_edit_secured/FeatureServer/1
+c516f63a612f4988be630d5bed359f67,Clean Out,http://utility.arcgis.com/usrsvcs/servers/7bcbaeb26aca4839a62e7b4e7354757c/rest/services/edit/SCD_ServiceCall_LOG_edit_secured/FeatureServer/0
+c6ffc9ab7cc84364899be39c8658c1e6,RouteMonitor - Mobile_Sync,http://mwfstst:6080/arcgis/rest/services/RouteMonitor/FeatureServer/13
+c6ffc9ab7cc84364899be39c8658c1e6,RouteMonitor - PlanClear,http://mwfstst:6080/arcgis/rest/services/RouteMonitor/FeatureServer/12
+c6ffc9ab7cc84364899be39c8658c1e6,RouteMonitor - Stops_Display,http://mwfstst:6080/arcgis/rest/services/RouteMonitor/FeatureServer/11
+c6ffc9ab7cc84364899be39c8658c1e6,RouteMonitor - Seed_Points,http://mwfstst:6080/arcgis/rest/services/RouteMonitor/FeatureServer/10
+c6ffc9ab7cc84364899be39c8658c1e6,RouteMonitor - Route_Assignment,http://mwfstst:6080/arcgis/rest/services/RouteMonitor/FeatureServer/9
+c6ffc9ab7cc84364899be39c8658c1e6,RouteMonitor - Messages_Pending,http://mwfstst:6080/arcgis/rest/services/RouteMonitor/FeatureServer/8
+c6ffc9ab7cc84364899be39c8658c1e6,RouteMonitor - Stops_Pending,http://mwfstst:6080/arcgis/rest/services/RouteMonitor/FeatureServer/7
+c6ffc9ab7cc84364899be39c8658c1e6,RouteMonitor - Messages,http://mwfstst:6080/arcgis/rest/services/RouteMonitor/FeatureServer/6
+c6ffc9ab7cc84364899be39c8658c1e6,RouteMonitor - GeoFences,http://mwfstst:6080/arcgis/rest/services/RouteMonitor/FeatureServer/5
+c6ffc9ab7cc84364899be39c8658c1e6,RouteMonitor - Workers,http://mwfstst:6080/arcgis/rest/services/RouteMonitor/FeatureServer/4
+c6ffc9ab7cc84364899be39c8658c1e6,RouteMonitor - Routes,http://mwfstst:6080/arcgis/rest/services/RouteMonitor/FeatureServer/3
+c6ffc9ab7cc84364899be39c8658c1e6,RouteMonitor - Stops,http://mwfstst:6080/arcgis/rest/services/RouteMonitor/FeatureServer/2
+c6ffc9ab7cc84364899be39c8658c1e6,RouteMonitor - Vehicles,http://mwfstst:6080/arcgis/rest/services/RouteMonitor/FeatureServer/1
+c6ffc9ab7cc84364899be39c8658c1e6,RouteMonitor - Alerts,http://mwfstst:6080/arcgis/rest/services/RouteMonitor/FeatureServer/0
+c6ffc9ab7cc84364899be39c8658c1e6,StopDetails - Stops_Dispatched,http://mwfstst:6080/arcgis/rest/services/StopDetails/FeatureServer/2
+c6ffc9ab7cc84364899be39c8658c1e6,StopDetails - Stops_Unassigned,http://mwfstst:6080/arcgis/rest/services/StopDetails/FeatureServer/1
+c6ffc9ab7cc84364899be39c8658c1e6,StopDetails - All Stops,http://mwfstst:6080/arcgis/rest/services/StopDetails/FeatureServer/0
+c6ffc9ab7cc84364899be39c8658c1e6,RouteMonitor - Display Messages,http://mwfstst:6080/arcgis/rest/services/RouteMonitor/FeatureServer/6
+c7eadf194e1e4a269276c4070532ffc5,RouteMonitor - PlanClear,http://mwtst2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/12
+c7eadf194e1e4a269276c4070532ffc5,RouteMonitor - Stops_Display,http://mwtst2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/11
+c7eadf194e1e4a269276c4070532ffc5,RouteMonitor - Seed_Points,http://mwtst2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/10
+c7eadf194e1e4a269276c4070532ffc5,RouteMonitor - Route_Assignment,http://mwtst2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/9
+c7eadf194e1e4a269276c4070532ffc5,RouteMonitor - Messages_Pending,http://mwtst2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/8
+c7eadf194e1e4a269276c4070532ffc5,RouteMonitor - Stops_Pending,http://mwtst2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/7
+c7eadf194e1e4a269276c4070532ffc5,RouteMonitor - Messages,http://mwtst2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/6
+c7eadf194e1e4a269276c4070532ffc5,RouteMonitor - GeoFences,http://mwtst2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/5
+c7eadf194e1e4a269276c4070532ffc5,RouteMonitor - Workers,http://mwtst2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/4
+c7eadf194e1e4a269276c4070532ffc5,RouteMonitor - Routes,http://mwtst2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/3
+c7eadf194e1e4a269276c4070532ffc5,RouteMonitor - Stops,http://mwtst2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/2
+c7eadf194e1e4a269276c4070532ffc5,RouteMonitor - Vehicles,http://mwtst2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/1
+c7eadf194e1e4a269276c4070532ffc5,RouteMonitor - Alerts,http://mwtst2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/0
+c7eadf194e1e4a269276c4070532ffc5,StopDetails - Stops_Dispatched,http://mwtst2.hrsd.com:6080/arcgis/rest/services/StopDetails/FeatureServer/2
+c7eadf194e1e4a269276c4070532ffc5,StopDetails - Stops_Unassigned,http://mwtst2.hrsd.com:6080/arcgis/rest/services/StopDetails/FeatureServer/1
+c7eadf194e1e4a269276c4070532ffc5,StopDetails - All Stops,http://mwtst2.hrsd.com:6080/arcgis/rest/services/StopDetails/FeatureServer/0
+c7eadf194e1e4a269276c4070532ffc5,RouteMonitor - Display Messages,http://mwtst2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/6
+c86f0e6aeaf5425f80ac3326fba8e8cc,Locality Parcels,http://utility.arcgis.com/usrsvcs/servers/16879fc16f094179b21218d67ef4afbd/rest/services/locality/LOCALITY_Parcels_secured/MapServer
+c86f0e6aeaf5425f80ac3326fba8e8cc,Locality Stormwater,http://utility.arcgis.com/usrsvcs/servers/05a8ca7b2a8d4600b2e2c0a0f41f9382/rest/services/locality/LOCALITY_Stormwater_secured/MapServer
+c86f0e6aeaf5425f80ac3326fba8e8cc,Locality Sewer,http://utility.arcgis.com/usrsvcs/servers/dea900c2e76f44d095a305f1bd29f33b/rest/services/locality/LOCALITY_Sewer_secured/MapServer
+c86f0e6aeaf5425f80ac3326fba8e8cc,Interceptor System,http://utility.arcgis.com/usrsvcs/servers/cfca77c950614b9f80596d2c0d7a8f63/rest/services/ssgis/SSGIS_SewerAssets_HRSD/MapServer
+c86f0e6aeaf5425f80ac3326fba8e8cc,TSD Sampling Sites,http://utility.arcgis.com/usrsvcs/servers/488032a4b9274677b63ec9be3df940c1/rest/services/edit/TSD_SamplingSites_edit_secured/FeatureServer/0
+cb9548a03f5b4b86b52784566c935e4b,Facilities,http://utility.arcgis.com/usrsvcs/servers/aedf71c653e9436f82748780e9b618d7/rest/services/eoc/DamageAssessment_Facilities/MapServer
+cb9548a03f5b4b86b52784566c935e4b,Other Damage Locations,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/DamageAssessment_Inspections_edit_AGOL_Service/FeatureServer/2
+cb9548a03f5b4b86b52784566c935e4b,Exposed Crossing Damage,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/DamageAssessment_Inspections_edit_AGOL_Service/FeatureServer/1
+cb9548a03f5b4b86b52784566c935e4b,PS Damage,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/DamageAssessment_Inspections_edit_AGOL_Service/FeatureServer/0
+cdd018444fad4d61aeaf96f3fd985697,Project Tracking Status,http://gis1:6080/arcgis/rest/services/pnp/ProjectTracking_Status_PnP/MapServer
+cdd018444fad4d61aeaf96f3fd985697,Development Projects,http://gis1:6080/arcgis/rest/services/pnp/DevelopmentProjects_PnP/MapServer
+cdd018444fad4d61aeaf96f3fd985697,Locality Parcels,http://gis1:6080/arcgis/rest/services/pnp/LOCALITY_Parcels_PnP/MapServer
+cdd018444fad4d61aeaf96f3fd985697,Customer Premise,http://gis1:6080/arcgis/rest/services/pnp/customer_premise_PnP/MapServer
+cdd018444fad4d61aeaf96f3fd985697,HRSD Interceptor Details,http://gis1:6080/arcgis/rest/services/pnp/HRSD__Interceptor_Details_PnP/MapServer
+cdd018444fad4d61aeaf96f3fd985697,Property/Easement Boundaries,http://gis1:6080/arcgis/rest/services/pnp/Property_HRSDandEasements_PnP/MapServer
+cdd018444fad4d61aeaf96f3fd985697,Property Real Estate Docs,http://gis1:6080/arcgis/rest/services/pnp/Property_RealEstateDocs_PnP/MapServer
+cea3b624a0fd444bbdb8b00470f050e1,RouteMonitor - Mobile_Sync,http://mwdev1.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/13
+cea3b624a0fd444bbdb8b00470f050e1,RouteMonitor - PlanClear,http://mwdev1.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/11
+cea3b624a0fd444bbdb8b00470f050e1,RouteMonitor - Stops_Display,http://mwdev1.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/11
+cea3b624a0fd444bbdb8b00470f050e1,RouteMonitor - Seed_Points,http://mwdev1.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/10
+cea3b624a0fd444bbdb8b00470f050e1,RouteMonitor - Route_Assignment,http://mwdev1.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/9
+cea3b624a0fd444bbdb8b00470f050e1,RouteMonitor - Messages_Pending,http://mwdev1.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/8
+cea3b624a0fd444bbdb8b00470f050e1,RouteMonitor - Stops_Pending,http://mwdev1.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/7
+cea3b624a0fd444bbdb8b00470f050e1,RouteMonitor - GeoFences,http://mwdev1.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/5
+cea3b624a0fd444bbdb8b00470f050e1,RouteMonitor - Messages,http://mwdev1.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/6
+cea3b624a0fd444bbdb8b00470f050e1,RouteMonitor - Workers,http://mwdev1.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/4
+cea3b624a0fd444bbdb8b00470f050e1,RouteMonitor - Routes,http://mwdev1.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/3
+cea3b624a0fd444bbdb8b00470f050e1,RouteMonitor - Stops,http://mwdev1.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/2
+cea3b624a0fd444bbdb8b00470f050e1,RouteMonitor - Vehicles,http://mwdev1.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/1
+cea3b624a0fd444bbdb8b00470f050e1,RouteMonitor - Alerts,http://mwdev1.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/0
+cea3b624a0fd444bbdb8b00470f050e1,StopDetails - Stops_Dispatched,http://mwdev1.hrsd.com:6080/arcgis/rest/services/StopDetails/FeatureServer/2
+cea3b624a0fd444bbdb8b00470f050e1,StopDetails - Stops_Unassigned,http://mwdev1.hrsd.com:6080/arcgis/rest/services/StopDetails/FeatureServer/1
+cea3b624a0fd444bbdb8b00470f050e1,StopDetails - All Stops,http://mwdev1.hrsd.com:6080/arcgis/rest/services/StopDetails/FeatureServer/0
+d001094e91b1425489f0c20fa65c6f8b,Interceptor System,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/Interceptor_DetailMap/MapServer
+d001094e91b1425489f0c20fa65c6f8b,Collection Systems,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/SCD_DetailMap/MapServer
+d001094e91b1425489f0c20fa65c6f8b,Customers (WestPoint),http://utility.arcgis.com/usrsvcs/servers/bb35ecba47d54fb392f830090f3a1b37/rest/services/hrsd/SCD_Customers_WestPoint/MapServer
+d001094e91b1425489f0c20fa65c6f8b,Monitoring Sites,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/Monitoring_Locations_Meters_Gauges/MapServer
+d001094e91b1425489f0c20fa65c6f8b,Catchments,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/SCD_PS_Catchments/MapServer
+d001094e91b1425489f0c20fa65c6f8b,Low Manhole,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/SCD_LowManhole/MapServer
+d001094e91b1425489f0c20fa65c6f8b,Failures,http://utility.arcgis.com/usrsvcs/rest/services/a0019b4bc6134996a05d9b7d3841b0d1/MapServer
+d001094e91b1425489f0c20fa65c6f8b,SCD_ConditionAssessment_WP,http://geo.hrsd.com/ags3/rest/services/hrsd/SCD_ConditionAssessment_WP/MapServer
+d2ed55685970438e81422207a4448e3f,Area of Service,http://gis1:6080/arcgis/rest/services/pnp/ServiceArea_ServedByHRSD_PnP/MapServer
+d2ed55685970438e81422207a4448e3f,Catchments,http://gis1:6080/arcgis/rest/services/pnp/Modeling_Catchments_PnP/MapServer
+d2ed55685970438e81422207a4448e3f,Modeling Base Model,http://gis1:6080/arcgis/rest/services/pnp/Modeling_BaseModel_PnP/MapServer
+d398c2d09b1f4f44ae123dfd4367521f,Locality Sewer,http://utility.arcgis.com/usrsvcs/rest/services/31671a97db874425885e5a50f7b639be/MapServer
+d398c2d09b1f4f44ae123dfd4367521f,Valve Guides,http://utility.arcgis.com/usrsvcs/servers/395ae7f9c08e4b73baeae062642c0c5a/rest/services/hrsd/ValveGuides_secured/MapServer
+d398c2d09b1f4f44ae123dfd4367521f,Labels,http://utility.arcgis.com/usrsvcs/servers/d2f406547e7a4ad3990070050ab1d767/rest/services/edit/SS_INT_PM_edit_secured/MapServer
+d398c2d09b1f4f44ae123dfd4367521f,Interceptors,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/INT_PM_infrastructure/MapServer
+d398c2d09b1f4f44ae123dfd4367521f,Auto Vent,http://utility.arcgis.com/usrsvcs/servers/67a14771da72428fa23cb98efaebe2cb/rest/services/edit/SS_INT_PM_edit_secured/FeatureServer/8
+d398c2d09b1f4f44ae123dfd4367521f,Vault,http://utility.arcgis.com/usrsvcs/servers/67a14771da72428fa23cb98efaebe2cb/rest/services/edit/SS_INT_PM_edit_secured/FeatureServer/13
+d398c2d09b1f4f44ae123dfd4367521f,Exposed Crossing,http://utility.arcgis.com/usrsvcs/servers/67a14771da72428fa23cb98efaebe2cb/rest/services/edit/SS_INT_PM_edit_secured/FeatureServer/12
+d398c2d09b1f4f44ae123dfd4367521f,Locator Box,http://utility.arcgis.com/usrsvcs/servers/67a14771da72428fa23cb98efaebe2cb/rest/services/edit/SS_INT_PM_edit_secured/FeatureServer/10
+d398c2d09b1f4f44ae123dfd4367521f,Leak Detector,http://utility.arcgis.com/usrsvcs/servers/67a14771da72428fa23cb98efaebe2cb/rest/services/edit/SS_INT_PM_edit_secured/FeatureServer/11
+d398c2d09b1f4f44ae123dfd4367521f,Cathodic Protection,http://utility.arcgis.com/usrsvcs/servers/67a14771da72428fa23cb98efaebe2cb/rest/services/edit/SS_INT_PM_edit_secured/FeatureServer/14
+d398c2d09b1f4f44ae123dfd4367521f,Valve,http://utility.arcgis.com/usrsvcs/servers/67a14771da72428fa23cb98efaebe2cb/rest/services/edit/SS_INT_PM_edit_secured/FeatureServer/9
+d398c2d09b1f4f44ae123dfd4367521f,Air Vent,http://utility.arcgis.com/usrsvcs/servers/67a14771da72428fa23cb98efaebe2cb/rest/services/edit/SS_INT_PM_edit_secured/FeatureServer/7
+d4a012d16c6b4e7a8d480bf7ee56d71b,RouteMonitor - Mobile_Sync,http://mwtst1:6080/arcgis/rest/services/RouteMonitor/FeatureServer/13
+d4a012d16c6b4e7a8d480bf7ee56d71b,RouteMonitor - PlanClear,http://mwtst1:6080/arcgis/rest/services/RouteMonitor/FeatureServer/12
+d4a012d16c6b4e7a8d480bf7ee56d71b,RouteMonitor - Stops_Display,http://mwtst1:6080/arcgis/rest/services/RouteMonitor/FeatureServer/11
+d4a012d16c6b4e7a8d480bf7ee56d71b,RouteMonitor - Seed_Points,http://mwtst1:6080/arcgis/rest/services/RouteMonitor/FeatureServer/10
+d4a012d16c6b4e7a8d480bf7ee56d71b,RouteMonitor - Route_Assignment,http://mwtst1:6080/arcgis/rest/services/RouteMonitor/FeatureServer/9
+d4a012d16c6b4e7a8d480bf7ee56d71b,RouteMonitor - Messages_Pending,http://mwtst1:6080/arcgis/rest/services/RouteMonitor/FeatureServer/8
+d4a012d16c6b4e7a8d480bf7ee56d71b,RouteMonitor - Stops_Pending,http://mwtst1:6080/arcgis/rest/services/RouteMonitor/FeatureServer/7
+d4a012d16c6b4e7a8d480bf7ee56d71b,RouteMonitor - Messages,http://mwtst1:6080/arcgis/rest/services/RouteMonitor/FeatureServer/6
+d4a012d16c6b4e7a8d480bf7ee56d71b,RouteMonitor - GeoFences,http://mwtst1:6080/arcgis/rest/services/RouteMonitor/FeatureServer/5
+d4a012d16c6b4e7a8d480bf7ee56d71b,RouteMonitor - Workers,http://mwtst1:6080/arcgis/rest/services/RouteMonitor/FeatureServer/4
+d4a012d16c6b4e7a8d480bf7ee56d71b,RouteMonitor - Routes,http://mwtst1:6080/arcgis/rest/services/RouteMonitor/FeatureServer/3
+d4a012d16c6b4e7a8d480bf7ee56d71b,RouteMonitor - Stops,http://mwtst1:6080/arcgis/rest/services/RouteMonitor/FeatureServer/2
+d4a012d16c6b4e7a8d480bf7ee56d71b,RouteMonitor - Vehicles,http://mwtst1:6080/arcgis/rest/services/RouteMonitor/FeatureServer/1
+d4a012d16c6b4e7a8d480bf7ee56d71b,RouteMonitor - Alerts,http://mwtst1:6080/arcgis/rest/services/RouteMonitor/FeatureServer/0
+d4a012d16c6b4e7a8d480bf7ee56d71b,StopDetails - Stops_Dispatched,http://mwtst1:6080/arcgis/rest/services/StopDetails/FeatureServer/2
+d4a012d16c6b4e7a8d480bf7ee56d71b,StopDetails - Stops_Unassigned,http://mwtst1:6080/arcgis/rest/services/StopDetails/FeatureServer/1
+d4a012d16c6b4e7a8d480bf7ee56d71b,StopDetails - All Stops,http://mwtst1:6080/arcgis/rest/services/StopDetails/FeatureServer/0
+d4a012d16c6b4e7a8d480bf7ee56d71b,RouteMonitor - Dispatch Messages,http://mwtst1:6080/arcgis/rest/services/RouteMonitor/FeatureServer/6
+d4e7f6867e8f40768a457087d5ef4bb6,Labels,http://utility.arcgis.com/usrsvcs/servers/5770ba1cb8b04e1e8b7610d31a96ae15/rest/services/edit/NS_PM_PSWW_Labels_edit_secured/MapServer
+d4e7f6867e8f40768a457087d5ef4bb6,PS Outline,http://utility.arcgis.com/usrsvcs/servers/5924be7b5427443c84e3d4fb5eb8ad08/rest/services/edit/NS_PM_PSWW_edit_secured/FeatureServer/4
+d4e7f6867e8f40768a457087d5ef4bb6,Annual Pumpstation Inspection,http://utility.arcgis.com/usrsvcs/servers/5924be7b5427443c84e3d4fb5eb8ad08/rest/services/edit/NS_PM_PSWW_edit_secured/FeatureServer/3
+d4e7f6867e8f40768a457087d5ef4bb6,WW Below Grade,http://utility.arcgis.com/usrsvcs/servers/5924be7b5427443c84e3d4fb5eb8ad08/rest/services/edit/NS_PM_PSWW_edit_secured/FeatureServer/2
+d4e7f6867e8f40768a457087d5ef4bb6,WW Above Grade,http://utility.arcgis.com/usrsvcs/servers/5924be7b5427443c84e3d4fb5eb8ad08/rest/services/edit/NS_PM_PSWW_edit_secured/FeatureServer/1
+d4e7f6867e8f40768a457087d5ef4bb6,Pump Stations,http://utility.arcgis.com/usrsvcs/servers/5924be7b5427443c84e3d4fb5eb8ad08/rest/services/edit/NS_PM_PSWW_edit_secured/FeatureServer/0
+d5b0c93b15274d749cb736dc081fafa3,Locality Parcels,http://utility.arcgis.com/usrsvcs/rest/services/f3eefdeb997b471b9e8f6daacb95432f/MapServer
+d5b0c93b15274d749cb736dc081fafa3,Locality Sewer,http://utility.arcgis.com/usrsvcs/rest/services/31671a97db874425885e5a50f7b639be/MapServer
+d5b0c93b15274d749cb736dc081fafa3,Labels,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/edit/P3_sample_sites_labels/MapServer
+d5b0c93b15274d749cb736dc081fafa3,Water Meter (P3),http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/edit/P3_sample_sites_editor/FeatureServer/1
+d5b0c93b15274d749cb736dc081fafa3,Sampling Point (P3),http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/edit/P3_sample_sites_editor/FeatureServer/0
+d915b990b0544b5e958a8071c147c29c,Existing Facility Info,http://utility.arcgis.com/usrsvcs/servers/aedf71c653e9436f82748780e9b618d7/rest/services/eoc/DamageAssessment_Facilities/MapServer
+d915b990b0544b5e958a8071c147c29c,Need To Inspect - PS,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/DamageAssessment_Inspections_edit_AGOL2/FeatureServer/4
+d915b990b0544b5e958a8071c147c29c,Need To Inspect -  Crossing,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/DamageAssessment_Inspections_edit_AGOL2/FeatureServer/3
+d915b990b0544b5e958a8071c147c29c,Other Damage Locations,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/DamageAssessment_Inspections_edit_AGOL2/FeatureServer/2
+d915b990b0544b5e958a8071c147c29c,Damage - Crossings,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/DamageAssessment_Inspections_edit_AGOL2/FeatureServer/1
+d915b990b0544b5e958a8071c147c29c,Damage - PS,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/DamageAssessment_Inspections_edit_AGOL2/FeatureServer/0
+debd107f0a2f4ed0bfba6d1b4c8c8c16,CIS_InspectorZones,http://utility.arcgis.com/usrsvcs/servers/ac6094d746e74507801753d6bdad28ed/rest/services/secured/CIS_InspectorZones/MapServer
+dffc83b059dd459ebf28d1bc2cb62d6f,ServiceArea_TreatmentPlant,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/ServiceArea_TreatmentPlant/MapServer
+dffc83b059dd459ebf28d1bc2cb62d6f,Hurricane Storm Surge (VDEM),https://arcgis.vdem.virginia.gov/ArcGIS/rest/services/Hazards/Hurricane_StormSurge/MapServer
+dffc83b059dd459ebf28d1bc2cb62d6f,Locality Parcels,http://utility.arcgis.com/usrsvcs/rest/services/f3eefdeb997b471b9e8f6daacb95432f/MapServer
+dffc83b059dd459ebf28d1bc2cb62d6f,Locality Stormwater,http://utility.arcgis.com/usrsvcs/servers/8730a2ab099f4988a56f11923328c6aa/rest/services/locality/LOCALITY_Stormwater_secured/MapServer
+dffc83b059dd459ebf28d1bc2cb62d6f,Locality Sewer,http://utility.arcgis.com/usrsvcs/rest/services/31671a97db874425885e5a50f7b639be/MapServer
+dffc83b059dd459ebf28d1bc2cb62d6f,Surry and Lawnes Point,http://utility.arcgis.com/usrsvcs/servers/eb6c9e073e444d4b934fe2c54fa47ba8/rest/services/locality/Surry_SewerInfrastructure_secured/MapServer
+dffc83b059dd459ebf28d1bc2cb62d6f,Monitoring Sites,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/Monitoring_Locations_Meters_Gauges/MapServer
+dffc83b059dd459ebf28d1bc2cb62d6f,Small Communities,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/SCD_DetailMap/MapServer
+dffc83b059dd459ebf28d1bc2cb62d6f,Interceptor Details,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/Interceptor_DetailMap/MapServer
+dffc83b059dd459ebf28d1bc2cb62d6f,Failures,http://utility.arcgis.com/usrsvcs/rest/services/a0019b4bc6134996a05d9b7d3841b0d1/MapServer
+dffc83b059dd459ebf28d1bc2cb62d6f,Plan Sheets,http://utility.arcgis.com/usrsvcs/servers/4f1f918baa6845248f9ce3ce98182222/rest/services/secured/PlanSheets_Engineering_secured/MapServer
+dffc83b059dd459ebf28d1bc2cb62d6f,Valve Guides,http://utility.arcgis.com/usrsvcs/servers/1c8d637aa8fe4df0b9bd33afa08a9e7f/rest/services/test/ValveGuides_secured_TEMP_2017_07_18/MapServer
+dffc83b059dd459ebf28d1bc2cb62d6f,SCADA Towers,http://utility.arcgis.com/usrsvcs/servers/841999f82c024072b29ffba963a738b2/rest/services/secured/SCADA_Towers_secured/MapServer
+e0b6fcdc335d4d3d89089c507ebaf355,Buildings,http://utility.arcgis.com/usrsvcs/servers/241a71ae9f0d48bb8fc5e1fbfb88758e/rest/services/secured/TP_Details_Buildings_secure/MapServer
+e0b6fcdc335d4d3d89089c507ebaf355,Yard Piping,http://utility.arcgis.com/usrsvcs/servers/15c9cc4393cb4d258258d9ab1a5ad4b8/rest/services/secured/TP_Details_Piping_secure/MapServer
+e0d6738cf85546e2acd258e593989eb6,Locality Sewer,http://utility.arcgis.com/usrsvcs/rest/services/31671a97db874425885e5a50f7b639be/MapServer
+e0d6738cf85546e2acd258e593989eb6,Complaint Site,http://utility.arcgis.com/usrsvcs/servers/0161b9c9bfc849ad94e449b3ec8da8ef/rest/services/edit/TSD_Odor_ComplaintsSampling_edit/FeatureServer/0
+e0d6738cf85546e2acd258e593989eb6,Odor Sampling,http://utility.arcgis.com/usrsvcs/servers/0161b9c9bfc849ad94e449b3ec8da8ef/rest/services/edit/TSD_Odor_ComplaintsSampling_edit/FeatureServer/1
+e4103a762dbb40f5a4c6479b2f6b27ae,Locality Sewer Systems,http://gis1:6080/arcgis/rest/services/pnp/LOCALITY_Sewer_PnP/MapServer
+e4103a762dbb40f5a4c6479b2f6b27ae,Interceptors Under Construction,http://gis1:6080/arcgis/rest/services/pnp/Interceptor_UnderConstruction_PnP/MapServer
+e4103a762dbb40f5a4c6479b2f6b27ae,Service Area,http://gis1:6080/arcgis/rest/services/pnp/ServiceArea_ServedByHRSD_PnP/MapServer
+e4103a762dbb40f5a4c6479b2f6b27ae,Small Communities System,http://gis1:6080/arcgis/rest/services/pnp/SCD_DetailMap_PnP/MapServer
+e4103a762dbb40f5a4c6479b2f6b27ae,Interceptor System,http://gis1:6080/arcgis/rest/services/pnp/HRSD__Interceptor_Details_PnP/MapServer
+e4103a762dbb40f5a4c6479b2f6b27ae,SCADA Sites,http://gis1:6080/arcgis/rest/services/pnp/SCADA_Sites_PnP/MapServer
+e4103a762dbb40f5a4c6479b2f6b27ae,SCADA Towers,http://gis1:6080/arcgis/rest/services/pnp/SCADA_Towers_PnP/MapServer
+e5ce7389beb849da9b6487ad9528c40a,Vehicle Assignments,http://mwmrm2:6080/arcgis/rest/services/VehicleAssignement/FeatureServer/0
+e5ce7389beb849da9b6487ad9528c40a,Vehicles,http://mwmrm2:6080/arcgis/rest/services/RouteMonitor/MapServer/1
+e613b6e9fcfe43b2a172ce97f420f55f,Locality Sewer,http://utility.arcgis.com/usrsvcs/servers/58b2bf50124740d3a8f58ba6fa3ae698/rest/services/ssgis/SSGIS_SewerAssets_Active/MapServer
+e613b6e9fcfe43b2a172ce97f420f55f,Interceptors,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/INT_PM_infrastructure/MapServer
+e613b6e9fcfe43b2a172ce97f420f55f,Customer Premise,http://utility.arcgis.com/usrsvcs/servers/3d167aa99715451bbbf90f6230bb2a12/rest/services/secured/customer_premise/MapServer
+e613b6e9fcfe43b2a172ce97f420f55f,Labels,http://utility.arcgis.com/usrsvcs/rest/services/569086958b724ee5b834d4e134dee4aa/MapServer
+e613b6e9fcfe43b2a172ce97f420f55f,CCTV Inspection,http://utility.arcgis.com/usrsvcs/rest/services/8840ae6cf18a486e85ebb7955c796cd2/FeatureServer/1
+e613b6e9fcfe43b2a172ce97f420f55f,Manhole Inspection,http://utility.arcgis.com/usrsvcs/rest/services/8840ae6cf18a486e85ebb7955c796cd2/FeatureServer/0
+e61e1b7a10bf4aa48c2516180e02ce80,AGOL_Data - NorthShorePumpStation,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/AGOL_Data/FeatureServer/3
+e61e1b7a10bf4aa48c2516180e02ce80,AGOL_Data - SouthShoreForce,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/AGOL_Data/FeatureServer/2
+e61e1b7a10bf4aa48c2516180e02ce80,AGOL_Data - Proposed_Alignment,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/AGOL_Data/FeatureServer/1
+e61e1b7a10bf4aa48c2516180e02ce80,AGOL_Data - GPS_Points,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/AGOL_Data/FeatureServer/0
+e76563383ce444dca1e104b694b79e4a,VA 811 Grids,http://utility.arcgis.com/usrsvcs/servers/e223cab8b01c45308d5e7091b5c88dff/rest/services/secured/GRID_VA811_secured/MapServer
+e76563383ce444dca1e104b694b79e4a,Surry,http://utility.arcgis.com/usrsvcs/servers/eb6c9e073e444d4b934fe2c54fa47ba8/rest/services/locality/Surry_SewerInfrastructure_secured/MapServer
+e76563383ce444dca1e104b694b79e4a,Interceptors,http://geo.hrsd.com/ags3/rest/services/hrsd/INT_PM_infrastructure/MapServer
+e76563383ce444dca1e104b694b79e4a,Marking Notification,http://utility.arcgis.com/usrsvcs/servers/84b6f3f211d6482090901ca49d5ae580/rest/services/edit/Marking_Notification_NS_edit_secured/FeatureServer/0
+e8194a8f89824bc289fdc8e1c28e7853,RouteMonitor - Route_Assignment,http://mwtst1.hrsd.com/arcgis/rest/services/RouteMonitor/FeatureServer/9
+e8194a8f89824bc289fdc8e1c28e7853,RouteMonitor - Messages_Pending,http://mwtst1.hrsd.com/arcgis/rest/services/RouteMonitor/FeatureServer/8
+e8194a8f89824bc289fdc8e1c28e7853,RouteMonitor - Stops_Pending,http://mwtst1.hrsd.com/arcgis/rest/services/RouteMonitor/FeatureServer/7
+e8194a8f89824bc289fdc8e1c28e7853,RouteMonitor - Messages,http://mwtst1.hrsd.com/arcgis/rest/services/RouteMonitor/FeatureServer/6
+e8194a8f89824bc289fdc8e1c28e7853,RouteMonitor - GeoFences,http://mwtst1.hrsd.com/arcgis/rest/services/RouteMonitor/FeatureServer/5
+e8194a8f89824bc289fdc8e1c28e7853,RouteMonitor - Workers,http://mwtst1.hrsd.com/arcgis/rest/services/RouteMonitor/FeatureServer/4
+e8194a8f89824bc289fdc8e1c28e7853,RouteMonitor - Mobile_Sync,http://mwtst1.hrsd.com/arcgis/rest/services/RouteMonitor/FeatureServer/4
+e8194a8f89824bc289fdc8e1c28e7853,RouteMonitor - Routes,http://mwtst1.hrsd.com/arcgis/rest/services/RouteMonitor/FeatureServer/3
+e8194a8f89824bc289fdc8e1c28e7853,RouteMonitor - Stops,http://mwtst1.hrsd.com/arcgis/rest/services/RouteMonitor/FeatureServer/2
+e8194a8f89824bc289fdc8e1c28e7853,RouteMonitor - Vehicles,http://mwtst1.hrsd.com/arcgis/rest/services/RouteMonitor/FeatureServer/1
+e8194a8f89824bc289fdc8e1c28e7853,RouteMonitor - Alerts,http://mwtst1.hrsd.com/arcgis/rest/services/RouteMonitor/FeatureServer/0
+e8194a8f89824bc289fdc8e1c28e7853,Stops Dispatched,http://mwtst1.hrsd.com/arcgis/rest/services/StopDetails/FeatureServer/1
+e8194a8f89824bc289fdc8e1c28e7853,Stops Unassigned,http://mwtst1.hrsd.com/arcgis/rest/services/StopDetails/FeatureServer/0
+e8194a8f89824bc289fdc8e1c28e7853,All Stops,http://mwtst1.hrsd.com/arcgis/rest/services/StopDetails/FeatureServer/0
+e86e4f66455540688722d306cfad257b,JROM_Results_TestFileData,http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/JROM_Results_TestFileData/MapServer
+ea761477e21d4043bb1aacb63c6df2d9,RouteMonitor - Mobile_Sync,http://mwweb2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/13
+ea761477e21d4043bb1aacb63c6df2d9,RouteMonitor - PlanClear,http://mwweb2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/12
+ea761477e21d4043bb1aacb63c6df2d9,RouteMonitor - Stops_Display,http://mwweb2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/11
+ea761477e21d4043bb1aacb63c6df2d9,RouteMonitor - Seed_Points,http://mwweb2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/10
+ea761477e21d4043bb1aacb63c6df2d9,RouteMonitor - Route_Assignment,http://mwweb2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/9
+ea761477e21d4043bb1aacb63c6df2d9,RouteMonitor - Messages_Pending,http://mwweb2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/8
+ea761477e21d4043bb1aacb63c6df2d9,RouteMonitor - Stops_Pending,http://mwweb2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/7
+ea761477e21d4043bb1aacb63c6df2d9,RouteMonitor - Messages,http://mwweb2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/6
+ea761477e21d4043bb1aacb63c6df2d9,RouteMonitor - GeoFences,http://mwweb2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/5
+ea761477e21d4043bb1aacb63c6df2d9,RouteMonitor - Workers,http://mwweb2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/4
+ea761477e21d4043bb1aacb63c6df2d9,RouteMonitor - Routes,http://mwweb2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/3
+ea761477e21d4043bb1aacb63c6df2d9,RouteMonitor - Stops,http://mwweb2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/2
+ea761477e21d4043bb1aacb63c6df2d9,RouteMonitor - Vehicles,http://mwweb2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/1
+ea761477e21d4043bb1aacb63c6df2d9,RouteMonitor - Alerts,http://mwweb2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/0
+ea761477e21d4043bb1aacb63c6df2d9,Stops Dispatched,http://mwweb2.hrsd.com:6080/arcgis/rest/services/StopDetails/FeatureServer/2
+ea761477e21d4043bb1aacb63c6df2d9,Stops Unassigned,http://mwweb2.hrsd.com:6080/arcgis/rest/services/StopDetails/FeatureServer/1
+ea761477e21d4043bb1aacb63c6df2d9,All Stops,http://mwweb2.hrsd.com:6080/arcgis/rest/services/StopDetails/FeatureServer/0
+ea761477e21d4043bb1aacb63c6df2d9,RouteMonitor - Display Messages,http://mwweb2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/6
+eee76c3f45a74e2ba410c8c634dba5d2,Buffers,http://gis1:6080/arcgis/rest/services/pnp/SWIFT_SiteBuffers_PnP/MapServer
+eee76c3f45a74e2ba410c8c634dba5d2,SWIFT Sites And Wells,http://gis1:6080/arcgis/rest/services/pnp/SWIFT_SitesAndWells_PnP/MapServer
+eee76c3f45a74e2ba410c8c634dba5d2,Private Metered (HRSD),http://gis1:6080/arcgis/rest/services/pnp/SWIFT_PrivateMetered_PnP/MapServer
+eee76c3f45a74e2ba410c8c634dba5d2,Private Wells (VDH),http://gis1:6080/arcgis/rest/services/pnp/SWIFT_PrivateWells_VDH_PnP/MapServer
+eee76c3f45a74e2ba410c8c634dba5d2,Private Domestic Drinking Water Wells (VDH),http://gis1:6080/arcgis/rest/services/pnp/SWIFT_PrivateWells_VDH_PnP/MapServer
+f223212b32734a0f846baf41169eef8c,AGOL_Data - NorthShorePumpStation,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/AGOL_Data/FeatureServer/3
+f223212b32734a0f846baf41169eef8c,AGOL_Data - SouthShoreForce,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/AGOL_Data/FeatureServer/2
+f223212b32734a0f846baf41169eef8c,AGOL_Data - Proposed_Alignment,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/AGOL_Data/FeatureServer/1
+f223212b32734a0f846baf41169eef8c,AGOL_Data - GPS_Points,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/AGOL_Data/FeatureServer/0
+f5647c9be4ad47bb8167f1fd68d8981a,HRSD Interceptor System (General Info),http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/hrsd_public/MapServer
+f5647c9be4ad47bb8167f1fd68d8981a,Buildings,http://utility.arcgis.com/usrsvcs/servers/241a71ae9f0d48bb8fc5e1fbfb88758e/rest/services/secured/TP_Details_Buildings_secure/MapServer
+f5647c9be4ad47bb8167f1fd68d8981a,Yard Piping,http://utility.arcgis.com/usrsvcs/servers/15c9cc4393cb4d258258d9ab1a5ad4b8/rest/services/secured/TP_Details_Piping_secure/MapServer
+f6cb06e6e7274c81ad65fb27b8782349,Locality Sewer,http://utility.arcgis.com/usrsvcs/servers/58b2bf50124740d3a8f58ba6fa3ae698/rest/services/ssgis/SSGIS_SewerAssets_Active/MapServer
+f6cb06e6e7274c81ad65fb27b8782349,HRSD Interceptor System (General Info),http://hrsdgis.hrsdnet.com/hrsdarcgis/rest/services/hrsd/hrsd_public/MapServer
+f6cb06e6e7274c81ad65fb27b8782349,Project Notifications,http://utility.arcgis.com/usrsvcs/servers/417f2ca9f68a4325b5933963a70f7fe9/rest/services/edit/ProjectNotifications_edit_secured/FeatureServer/0
+f71f8bad7f0d4dd281ac150506d7ba9e,AGOL_Data - NorthShorePumpStation,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/AGOL_Data/FeatureServer/3
+f71f8bad7f0d4dd281ac150506d7ba9e,AGOL_Data - SouthShoreForce,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/AGOL_Data/FeatureServer/2
+f71f8bad7f0d4dd281ac150506d7ba9e,AGOL_Data - Proposed_Alignment,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/AGOL_Data/FeatureServer/1
+f71f8bad7f0d4dd281ac150506d7ba9e,AGOL_Data - GPS_Points,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/AGOL_Data/FeatureServer/0
+fc090be020af466b9d04069fdf88b8a1,Locality Parcels,http://gis1:6080/arcgis/rest/services/pnp/LOCALITY_Parcels_PnP/MapServer
+fc090be020af466b9d04069fdf88b8a1,Locality Sewer,http://gis1:6080/arcgis/rest/services/pnp/LOCALITY_Sewer_PnP/MapServer
+fc090be020af466b9d04069fdf88b8a1,TMDL Watershed Boundaries (Ches. Bay),http://gis1:6080/arcgis/rest/services/pnp/TMDL_Watershed_ChesBay_PnP/MapServer
+fc090be020af466b9d04069fdf88b8a1,Surry and Lawnes Pointe,http://gis1:6080/arcgis/rest/services/pnp/Surry_SewerInfrastructure_PnP/MapServer
+fc090be020af466b9d04069fdf88b8a1,Surry Parcel Research,http://gis1:6080/arcgis/rest/services/pnp/Surry_ParcelResearch_PnP/MapServer
+fc090be020af466b9d04069fdf88b8a1,Small Communities,http://gis1:6080/arcgis/rest/services/pnp/SCD_DetailMap_PnP/MapServer
+fc090be020af466b9d04069fdf88b8a1,Customer Premises,http://gis1:6080/arcgis/rest/services/pnp/customer_premise_PnP/MapServer
+fc090be020af466b9d04069fdf88b8a1,Interceptor System,http://gis1:6080/arcgis/rest/services/pnp/HRSD__Interceptor_Details_PnP/MapServer
+fc090be020af466b9d04069fdf88b8a1,Interceptor In-Design,http://gis1:6080/arcgis/rest/services/pnp/Interceptor_InDesign_PnP/MapServer
+fc090be020af466b9d04069fdf88b8a1,Interceptor Under Construction,http://gis1:6080/arcgis/rest/services/pnp/Interceptor_UnderConstruction_PnP/MapServer
+fc090be020af466b9d04069fdf88b8a1,ROW Maintenance,http://gis1:6080/arcgis/rest/services/pnp/ROW_Maintenance_PnP/MapServer
+fc090be020af466b9d04069fdf88b8a1,Development Projects,http://gis1:6080/arcgis/rest/services/pnp/DevelopmentProjects_PnP/MapServer
+fc090be020af466b9d04069fdf88b8a1,City of Chesapeake Utilities Projects,http://gisdata.cityofchesapeake.net/public/rest/services/DPU_CIB_Projects/MapServer
+fc090be020af466b9d04069fdf88b8a1,Project Status,http://gis1:6080/arcgis/rest/services/pnp/ProjectTracking_Status_PnP/MapServer
+fc090be020af466b9d04069fdf88b8a1,HRSD Property and Easements,http://gis1:6080/arcgis/rest/services/pnp/Property_HRSDandEasements_PnP/MapServer
+fc090be020af466b9d04069fdf88b8a1,HRSD Real Estate Documents,http://gis1:6080/arcgis/rest/services/pnp/Property_RealEstateDocs_PnP/MapServer
+fc090be020af466b9d04069fdf88b8a1,Rehabbed Air Vents,http://gis1:6080/arcgis/rest/services/pnp/INT_Rehabbed_AirVents_PnP/MapServer
+fc090be020af466b9d04069fdf88b8a1,Plan Sheets,http://gis1:6080/arcgis/rest/services/pnp/PlanSheets_Engineering_PnP/MapServer
+fc090be020af466b9d04069fdf88b8a1,Valve Guides,http://gis1:6080/arcgis/rest/services/pnp/ValveGuides_PnP/MapServer
+fc090be020af466b9d04069fdf88b8a1,Monitoring,http://gis1:6080/arcgis/rest/services/pnp/Monitoring_LocationsMetersGauges_PnP/MapServer
+fc090be020af466b9d04069fdf88b8a1,Failures,http://gis1:6080/arcgis/rest/services/pnp/Interceptor_Failures_PnP/MapServer
+fc090be020af466b9d04069fdf88b8a1,Benchmarks,http://gis1:6080/arcgis/rest/services/pnp/Benchmarks_PnP/MapServer
+fc32c22c4a6145eab921db9c9272d10a,Location Tracking,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/location_82ede4e6196a4268a86e148a2944e22e/FeatureServer/0
+fc32c22c4a6145eab921db9c9272d10a,Assignments,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/assignments_82ede4e6196a4268a86e148a2944e22e/FeatureServer/0
+fc32c22c4a6145eab921db9c9272d10a,Workers,http://services.arcgis.com/UdWFYYQtp7XJUBJy/arcgis/rest/services/workers_82ede4e6196a4268a86e148a2944e22e/FeatureServer/0
+fc89db201afa40fcace6ebaf44494829,Project Tracking Status,http://gis1:6080/arcgis/rest/services/pnp/ProjectTracking_Status_PnP/MapServer
+fc89db201afa40fcace6ebaf44494829,Development Projects,http://gis1:6080/arcgis/rest/services/pnp/DevelopmentProjects_PnP/MapServer
+fc89db201afa40fcace6ebaf44494829,Locality Parcels,http://gis1:6080/arcgis/rest/services/pnp/LOCALITY_Parcels_PnP/MapServer
+fc89db201afa40fcace6ebaf44494829,Customer Premise,http://gis1:6080/arcgis/rest/services/pnp/customer_premise_PnP/MapServer
+fc89db201afa40fcace6ebaf44494829,Small Communities,http://gis1:6080/arcgis/rest/services/pnp/SCD_DetailMap_PnP/MapServer
+fc89db201afa40fcace6ebaf44494829,HRSD Interceptor Details,http://gis1:6080/arcgis/rest/services/pnp/HRSD__Interceptor_Details_PnP/MapServer
+fc89db201afa40fcace6ebaf44494829,Property/Easement Boundaries,http://gis1:6080/arcgis/rest/services/pnp/Property_HRSDandEasements_PnP/MapServer
+fc89db201afa40fcace6ebaf44494829,Property Real Estate Docs,http://gis1:6080/arcgis/rest/services/pnp/Property_RealEstateDocs_PnP/MapServer
+fda2715c325f430bb37b74abbd1d2852,Interceptor System,http://gis1:6080/arcgis/rest/services/pnp/CMMS_GIS_Assets_PnP/MapServer
+fda9164664cd4ab3ac5dbd8a12ea15a4,RouteMonitor - Mobile_Sync,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/13
+fda9164664cd4ab3ac5dbd8a12ea15a4,RouteMonitor - PlanClear,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/12
+fda9164664cd4ab3ac5dbd8a12ea15a4,RouteMonitor - Stops_Display,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/11
+fda9164664cd4ab3ac5dbd8a12ea15a4,RouteMonitor - Seed_Points,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/10
+fda9164664cd4ab3ac5dbd8a12ea15a4,RouteMonitor - Route_Assignment,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/9
+fda9164664cd4ab3ac5dbd8a12ea15a4,RouteMonitor - Messages_Pending,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/8
+fda9164664cd4ab3ac5dbd8a12ea15a4,RouteMonitor - Stops_Pending,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/7
+fda9164664cd4ab3ac5dbd8a12ea15a4,RouteMonitor - Messages,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/6
+fda9164664cd4ab3ac5dbd8a12ea15a4,RouteMonitor - GeoFences,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/5
+fda9164664cd4ab3ac5dbd8a12ea15a4,RouteMonitor - Workers,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/4
+fda9164664cd4ab3ac5dbd8a12ea15a4,RouteMonitor - Routes,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/3
+fda9164664cd4ab3ac5dbd8a12ea15a4,RouteMonitor - Stops,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/2
+fda9164664cd4ab3ac5dbd8a12ea15a4,RouteMonitor - Vehicles,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/1
+fda9164664cd4ab3ac5dbd8a12ea15a4,RouteMonitor - Alerts,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/0
+fda9164664cd4ab3ac5dbd8a12ea15a4,Stops_Dispatched,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/StopDetails/FeatureServer/2
+fda9164664cd4ab3ac5dbd8a12ea15a4,Stops_Unassigned,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/StopDetails/FeatureServer/1
+fda9164664cd4ab3ac5dbd8a12ea15a4,All Stops,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/StopDetails/FeatureServer/0
+fda9164664cd4ab3ac5dbd8a12ea15a4,Display Messages,http://mwmrm2.hrsd.com:6080/arcgis/rest/services/RouteMonitor/FeatureServer/6
